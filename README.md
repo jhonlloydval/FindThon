@@ -33,14 +33,14 @@ FindThon offers comprehensive text analysis capabilities through the following f
 | **Numerical Analysis** | Compute sums, averages, and find min/max values |
 | **File Management** | Switch between different text files for analysis |
 
-![FINDTHON](gif/view_filecontentgif.gif)  
+<!-- ![FINDTHON](gif/view_filecontentgif.gif)  
 ![FINDTHON](gif/search_word.gif)  
 ![FINDTHON](gif/all_matches.gif)  
 ![FINDTHON](gif/count_matches.gif)  
 ![FINDTHON](gif/compute_total.gif)  
 ![FINDTHON](gif/find_minmax.gif)  
 ![FINDTHON](gif/calculate_ave.gif)  
-![FINDTHON](gif/change_file.gif)  
+![FINDTHON](gif/change_file.gif)   -->
 
 
 ![FINDTHON](images/findthon_img4.png)  

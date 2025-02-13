@@ -18,6 +18,8 @@ FindThon is a Python console application that uses the re module to implement th
 - **Statistical Analysis**  
   Providing mathematical operations on numerical data  
 
+![FINDTHON](images/findthon_img5.png)  
+
 ## **Features**  
 FindThon offers comprehensive text analysis capabilities through the following functionalities:  
 
@@ -30,6 +32,8 @@ FindThon offers comprehensive text analysis capabilities through the following f
 | **Match Counter** | Calculate total occurrences of patterns |
 | **Numerical Analysis** | Compute sums, averages, and find min/max values |
 | **File Management** | Switch between different text files for analysis |
+
+![FINDTHON](images/findthon_img4.png)  
 
 ## **How Extensive Searching Works**  
 

@@ -32,6 +32,7 @@ FindThon offers comprehensive text analysis capabilities through the following f
 | **Match Counter** | Calculate total occurrences of patterns |
 | **Numerical Analysis** | Compute sums, averages, and find min/max values |
 | **File Management** | Switch between different text files for analysis |
+
 ![FINDTHON](gif/enter_filename.gif)  
 ![FINDTHON](gif/view_filecontentgif.gif)  
 ![FINDTHON](gif/search_word.gif)  

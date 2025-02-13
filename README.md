@@ -49,7 +49,7 @@ FindThon offers comprehensive text analysis capabilities through the following f
 
 ### **String Search Conditions**  
 The application provides 10 different string search patterns:  
-![FINDTHON](gif/extensive_searching.gif)  
+<!-- ![FINDTHON](gif/extensive_searching.gif)   -->
 
 1. **Exact Match**  
    - Matches the exact word or phrase  

@@ -1,6 +1,11 @@
 # **FindThon**  
 **FindThon: Python Console-Based Text Finder Using Regex**  
 
+<<<<<<< HEAD
+=======
+![FINDTHON](images/findthon_img1.png)  
+
+>>>>>>> 73fdc3d (new update)
 ## **Project Overview**  
 FindThon is a Python console application that uses the re module to implement the power of regular expressions for sophisticated text analysis and processing. It serves as an educational tool for understanding pattern matching while providing practical text analysis capabilities. The project aligns with many key educational and practical objectives:  
 

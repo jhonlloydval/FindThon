@@ -1,0 +1,87 @@
+Welcome to Python Programming!
+Python is a versatile language created in 1991.
+You can write simple scripts or complex applications in Python.
+The price of the Python course is $100.
+Some numbers for testing: 42, -15, 3.14, 007, 99%, 123, 987.
+Special_chars@123 and H3llo World! are test strings.
+The temperature today is -5 degrees.
+The scores are: 95, 87, 92, 78, 88
+FindThon Sample Text File
+
+### Exact Match Test
+This is a sample document that will be used for testing FindThon.
+FindThon is a Python Console-based tool to search text using regex.
+
+### Case-Insensitive Match Test
+hello HELLO HeLLo hElLo
+
+### Whole Word Match Test
+The cat sat on the mat. A caterpillar is not a cat.
+
+### Words Starting with a Letter
+Apple is a fruit. Airplane flies in the sky. An anchor holds a ship.
+
+### Words Ending with a Letter
+Speed. Word. Closed. Open.
+
+### Words Containing a Substring
+Sunlight shines. Sunny weather is pleasant. Sunrise and sunset.
+
+### Alphanumeric Words Only
+abc123 hello2000 code42 no_special_chars
+
+### Words of Specific Length (5-letter words)
+grape table lemon happy world
+
+### Words with Special Characters
+hello! @mention #hashtag $money&
+
+### Words with Numbers
+h3llo password123 4ever n00b
+
+### Numbers (0-100)
+0 10 25 50 75 100
+
+### Even Numbers
+2 4 6 8 10 12 14 16 18 20
+
+### Odd Numbers
+1 3 5 7 9 11 13 15 17 19
+
+### Decimals Only
+3.14 0.5 100.99 42.8 10.01
+
+### Percentages Only
+5% 100% 42.5% 99% 0.1%
+
+### Numbers with Leading Zeros
+007 000123 0456 09999
+
+### Positive Numbers Only
+1 25 100 500 99999
+
+### Negative Numbers Only
+-1 -25 -100 -500 -99999
+
+### Consecutive Increasing or Decreasing Numbers
+123 234 345 456 567 678 789 987 876 765 654 543 432 321
+
+### Numbers Containing a Specific Digit (5 in this case)
+5 15 50 500 5555 125 5000
+
+### Sentences for Search Functionality
+The quick brown fox jumps over the lazy dog. Python
+A journey of a thousand miles begins with a single step.
+To be or not to be, that is the question.
+All that glitters is not gold.
+
+
+### Additional Random Content for Large File
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin non massa eget justo fringilla tincidunt. 
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
+Vestibulum ante ipsum primis in faucibus orci luctus et python ultrices posuere cubilia curae; Integer et justo nec erat posuere pharetra. 
+Nunc vitae eros venenatis, sollicitudin justo at, dapibus eros. Aliquam erat volutpat. 
+Mauris sed augue id lacus auctor pretium. Suspendisse potenti. Duis ullamcorper tristique sapien at sagittis. 
+Donec tincidunt, odio vel dictum luctus, turpis odio rhoncus lorem, nec pYthOn bibendum urna nisi eget metus. 
+Curabitur convallis vel orci eget sodales. Phasellus interdum nisl vitae convallis auctor. 
+Nam euismod ex id sapien aliquet, eget ultrices urna euismod.

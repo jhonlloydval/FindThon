@@ -1,0 +1,1320 @@
+Welcome to Python Programming!
+Python is a versatile language created in 1991.
+You can write simple scripts or complex applications in Python.
+The price of the Python course is $100.
+Some numbers for testing: 42, -15, 3.14, 007, 99%, 123, 987.
+Special_chars@123 and H3llo World! are test strings.
+The temperature today is -5 degrees.
+The scores are: 95, 87, 92, 78, 88
+
+
+
+
+10
+Mathematics
+Quarter 1 – Module 1:
+Generating Patterns
+
+CO_Q1_Mathematics 10_ Module 1
+
+Mathematics – Grade 10
+Alternative Delivery Mode
+Quarter 1 – Module 1: Generates Patterns
+First Edition, 2020
+
+Republic Act 8293, section 176 states that: No copyright shall subsist in any work of
+the Government of the Philippines. However, prior approval of the government agency or office
+wherein the work is created shall be necessary for exploitation of such work for profit. Such
+agency or office may, among other things, impose as a condition the payment of royalties.
+Borrowed materials (i.e., songs, stories, poems, pictures, photos, brand names,
+trademarks, etc.) included in this module are owned by their respective copyright holders.
+Every effort has been exerted to locate and seek permission to use these materials from their
+respective copyright owners. The publisher and authors do not represent nor claim ownership
+over them.
+Published by the Department of Education
+Secretary: Leonor Magtolis Briones
+Undersecretary: Diosdado M. San Antonio
+Development Team of the Module
+Writer’s Name:
+Editor’s Name:
+Reviewer’s Name:
+
+Melchor B. Ticag
+Laila B. Kiw-isen
+Bryan A. Hidalgo, Heather G. Banagui, Selalyn B. Maguilao, Jim
+Alberto
+
+Management Team:
+May B. Eclar, PhD
+Marie Carolyn B. Verano
+Carmel F. Meris
+Ethielyn E. Taqued
+Edgar H. Madlaing
+Soraya T. Faculo
+Francisco C. Copsiyan
+Printed in the Philippines by:
+Department of Education – Cordillera Administrative Region
+Office Address:
+Telefax:
+E-mail Address:
+
+Wangal, La Trinidad, Benguet
+(074) 422-4074
+car@deped.gov.ph
+
+10
+Mathematics
+Quarter 1 – Module 1:
+Generating Patterns
+
+0
+
+Introductory Message
+This Self-Learning Module (SLM) is prepared so that you, our dear learners,
+can continue your studies and learn while at home. Activities, questions, directions,
+exercises, and discussions are carefully stated for you to understand each lesson.
+Each SLM is composed of different parts. Each part shall guide you step-bystep as you discover and understand the lesson prepared for you.
+Pre-tests are provided to measure your prior knowledge on lessons in each
+SLM. This will tell you if you need to proceed on completing this module or if you
+need to ask your facilitator or your teacher’s assistance for better understanding of
+the lesson. At the end of each module, you need to answer the post-test to self-check
+your learning. Answer keys are provided for each activity and test. We trust that you
+will be honest in using these.
+In addition to the material in the main text, Notes to the Teacher are also
+provided to our facilitators and parents for strategies and reminders on how they can
+best help you on your home-based learning.
+Please use this module with care. Do not put unnecessary marks on any part
+of this SLM. Use a separate sheet of paper in answering the exercises and tests. And
+read the instructions carefully before performing each task.
+If you have any questions in using this SLM or any difficulty in answering the
+tasks in this module, do not hesitate to consult your teacher or facilitator.
+Thank you.
+
+What I Need To Know
+This module was designed and written with you in mind. It is here to indulge you in
+discovering and generating patterns. The scope of this module permits it to be used
+in many different learning situations. Recognizing and extending patterns are
+important skills needed to the learning of concepts related to sequences. The
+arrangement of the lessons follows the standard sequence of the course. But the
+pacing in which you read and answer this module is dependent on your ability.
+Primarily, the scope of this module is to develop your skill in generating patterns.
+While going through this module, you are expected to:
+1. generate pattern from a given succession of objects, numbers, letters, or
+symbols;
+2. find the nth term of a sequence; and
+3. write the rule for the nth term of a sequence.
+
+What I Know
+Let us determine how much you already know about generating patterns. If you
+answer all the test items correctly in this pretest, then you may skip studying this
+learning material and proceed to the next learning module.
+DIRECTION: Read and understand each item, then choose the letter of your answer
+and write it on your answer sheet.
+1. Which of the following does not show a sequence?
+A) K to 12 Curriculum
+B) Months of a year
+
+C) Body temperature
+D) Counting numbers
+
+2. Which of the following is a finite sequence?
+A) negative even numbers
+B) even numbers below 100
+
+C) even numbers greater than 1
+D) even numbers between 10 and 50
+
+3. What is the 9th term in the sequence −1, 4, −9, 16, −25, …?
+A) 64
+
+B) −81
+
+C) −64
+
+D) 81
+
+4. Find the first four terms of the sequence 𝑎𝑛 = 5𝑛 − 1.
+A) 5, 10, 15, 20
+B) 6, 11, 16, 21
+
+C) 4, 9, 14, 19
+D) 5, 9, 13, 17
+
+1
+
+CO_Q1_Mathematics 10_ Module 1
+
+5. What is the 20th term of the sequence 𝑎𝑛 =
+A)
+
+1
+400
+
+B) −
+
+1
+400
+
+(−1)𝑛
+?
+𝑛2
+
+C)
+
+20
+400
+
+D) −
+
+20
+400
+
+6. What rule will correctly describe the sequence: 2, 5, 10, 17, 26, 37, …?
+A) 𝑛 + 1
+
+B) 2𝑛
+
+C) 2𝑛 + 1
+1 1
+
+1 1
+
+D) 𝑛2 + 1
+
+1
+
+7. Find the nth term of the sequence − 2 , 4 , − 6 , 8 , − 10 , . ..
+(−1)n
+2n
+(−1)n
+B) 𝑎n = 2
+
+−1
+
+A) 𝑎n =
+
+C) 𝑎n = 2n
+
+1
+
+D) 𝑎n = − 2n
+
+8. What are the next four terms of the sequence 2, 3, 5, 8, ....?
+A) 12, 17, 23, 30
+B) 12, 20, 33, 54
+
+C) 13, 21, 34, 55
+D) 13, 18, 23, 28
+
+9. Consider the figures below, what is the nth term of the sequence?
+
+A)
+
+𝑛+1
+𝑛
+
+B)
+
+𝑛(𝑛+1)
+2
+
+C)
+
+2𝑛
+𝑛+1
+
+D)
+
+𝑛2 +1
+2
+
+10. Which numerical pattern follows the rule “the next term is obtained by
+alternately subtracting 2 and multiplying by 3”, when starting with 5?
+A) 5, 7, 21, 69
+B) 5, 3, 6, 4, 12
+
+C) 5, 9, 14, 36
+D) 5, 3, 9, 7, 21
+
+11. Which is the next ordered pair in the pattern (1, 6), (3, 18), (5, 30)?
+A) (7, 49)
+
+B) (7, 42)
+
+12. In the sequence, 𝑎𝑛 =
+28
+
+A) 5
+
+C) (8, 56)
+
+D) (8, 64)
+
+(−1)𝑛+1 (𝑛−1)(𝑛+2)
+𝑛
+
+, what is 𝑎5 ?
+
+24
+
+30
+
+B) − 5
+
+26
+
+C) 5
+
+D) − 5
+
+13. If x represents the number of terms, what is the rule for this pattern?
+1st term: 32,
+A) 4𝑥
+
+2nd term: 36,
+
+B) 𝑥 + 4
+
+3rd term: 40
+
+C) 4𝑥 + 28
+
+D) 4𝑥 + 32
+
+14. Which of the following patterns shows infinite sequence?
+A) 6, 12, 18, 24, 30
+B) English Alphabets
+
+C) First 20 whole numbers
+D) 100, 50, 25, 12.5, . ..
+
+2
+
+CO_Q1_Mathematics 10_ Module 1
+
+15. Madison has the number pattern {5, 3, 8, 6, 11} for a homework problem. She says
+that the number pattern is alternately adding 5 and subtracting 2. Did Madison
+correctly describe the pattern?
+A) No, the pattern is alternately adding 5 and subtracting 2.
+B) No, the pattern is alternately subtracting 2 and adding 5.
+C) No, the pattern is alternately subtracting 3 and adding 4.
+D) Yes, Madison's description of the pattern is correct.
+
+Lesson
+
+Generating Patterns
+
+What’s In
+When you were in grade 8, you learned about concepts related to generating patterns
+like Inductive Reasoning. The knowledge and skills you acquired are very important
+for you to understand how to generate patterns and sequences. Hence, let us review
+inductive reasoning and perform the activities that follow.
+review
+Inductive Reasoning is the process of observing data, recognizing patterns,
+and making generalizations (conjecture) from observations. A conjecture is a
+conclusion made from observing data or an educated guess based on patterns.
+
+Activity 1. Complete Me!
+Direction: Make a conjecture about each pattern. Then use your conjecture to draw
+or write the next term in the pattern.
+A) Complete the puzzle below by providing the needed term/s in each pattern.
+ACROSS
+3) 1, 8, 27, 64, 125, ___
+5) 4, 20, 100, 500, ___
+7) 1, 1, 2, 3, 5, 8, ___
+8) J, F, M, A, M, J, J, A, __, __, __, __
+DOWN
+1) 2, 4, 6, 8 10, ___
+2) 128, 64, 32, ___
+4) 1, 10, 100, 1000, ___
+5) 3, 9, 27, 81, ___
+6) 1A, 2B, 3C, ____
+9) O, T, T, F, F, S, S, E, ___, ___
+3
+
+CO_Q1_Mathematics 10_ Module 1
+
+B) Draw the next object in each picture pattern.
+1)
+
+4)
+
+2)
+
+5)
+
+3)
+
+6)
+
+What’s New
+At this point of the module, you are about to learn the Introduction to Sequences
+and Patterns. To understand better how to generate patterns, you will have to
+perform the simple activity below.
+Activity 2. Let’s Discover!
+Direction: Read, understand, and perform the given instructions below then
+answer the questions asked.
+Materials: string, pair of scissors
+1) Prepare five (5) strings with equal lengths.
+2) Cut the first string once.
+Cut the second string twice.
+Cut the third string thrice.
+Cut the fourth string four times.
+Cut the fifth string five times.
+
+(a) How many pieces are there? _____
+(b) How many pieces are there? _____
+(c) How many pieces are there? _____
+(d) How many pieces are there? _____
+(e) How many pieces are there? _____
+
+3) Based from your answers, complete the table below.
+Number of cuts (x)
+Number of pieces (y)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+4) Without cutting a string 6 times, how many pieces are there? _____
+5) Have you seen a pattern? If yes, describe the pattern and state your conjecture.
+Use a formula or equation in your conjecture, where y is the number of pieces
+and x is the number of cuts.
+6) Using your conjecture, how many pieces of strings can be made from (a)12
+cuts? (b) 24 cuts? (c) 35 cuts? and (d) 42 cuts? Show your solutions.
+
+4
+
+CO_Q1_Mathematics 10_ Module 1
+
+Were you able to complete the task? If yes, you may proceed to the next page. If no,
+take time to finish for you to better understand the next discussions.
+
+What Is It
+How did you find activity 2? Have you given idea on how to generate a pattern? Let
+us process your answers.
+1. Based from the task, the complete solution is shown in the table below:
+Number of cuts (𝑥)
+Number of pieces (y)
+
+1
+2
+
+2
+3
+
+3
+4
+
+4
+5
+
+5
+6
+
+6
+7
+
+2. From the table, notice that the number of pieces (y) of strings is one more than
+the number of cuts (x). Thus, we can state our conjecture as, “The number of
+pieces (y) when a string is cut x times can be computed using the formula y = x
++ 1.”
+3. Using the formula y = x + 1, we can now solve the number of pieces of strings
+that can be made from 12 cuts? 24 cuts? 35 cuts? and 42 cuts?
+a)
+b)
+c)
+d)
+
+12 cuts, 𝑥 = 12
+24 cuts, 𝑥 = 24
+35 cuts, 𝑥 = 35
+42 cuts, 𝑥 = 42
+
+y = 12 + 1 = 13
+y = 24 + 1 = 25
+y = 35 + 1 = 36
+y = 42 + 1 = 43
+
+Were you able to get the same answers? If yes, very good! If no, I hope you were able
+to understand the discussions above. Based from the given activity, the number of
+pieces, 𝑦 = 𝑥 + 1, when a string is cut 𝑥 times represents a sequence. Thus, the
+values of 𝑦 which are 2, 3, 4, 5, 6, 7, . .. is an example of a sequence.
+The word sequence means an order in which one thing follows another in succession.
+A sequence is an ordered list. For another example, if we write 𝑥, 2𝑥 2 , 3𝑥 3 , 4𝑥 4 , 5𝑥 5 ,
+?, what would the next term in the sequence be - the one where the question mark
+now stands? The answer is 6𝑥 6 .
+definition
+A sequence is a set of objects which is listed in a specific order, one after
+another. Each member or element in the sequence is called term. The terms in
+a sequence can be written as 𝒂𝟏 , 𝒂𝟐 , 𝒂𝟑 , 𝒂𝟒 , . . . , 𝒂𝒏 , . .. which means 𝑎1 is the first
+term, 𝑎2 is the second term, 𝑎3 is the third term, …, 𝑎𝑛 is the nth term, and so
+on.
+
+5
+
+CO_Q1_Mathematics 10_ Module 1
+
+Sequences are classified as finite and infinite. A finite sequence contains a limited
+number of terms. This means it has an end or last term. Consider the examples
+below.
+a) Days of the week: {𝑆𝑢𝑛𝑑𝑎𝑦, 𝑀𝑜𝑛𝑑𝑎𝑦, 𝑇𝑢𝑒𝑠𝑑𝑎𝑦, . . . , 𝑆𝑎𝑡𝑢𝑟𝑑𝑎𝑦}
+b) First 10 positive perfect squares: {1, 4, 9, 16, 25, 36, 49, 64, 81, 100 }
+On the other hand, an infinite sequence contains a countless number of terms.
+The number of terms of the sequence continues without stopping or it has no end
+term. The ellipsis (…) at the end of the following examples shows that the sequences
+are infinite. Consider the examples below.
+a) Counting numbers: {1, 2, 3, 4, 5, . . . }
+b) Multiples of 5: {5, 10, 15, 20, 15, . . . }
+Sometimes a pattern in the sequence can be obtained and the sequence can be
+written using a general term. In the previous example 𝑥, 2𝑥 2 , 3𝑥 3 , 4𝑥 4 , 5𝑥 5 , 6𝑥 6 , . . .,
+each term has the same exponent and coefﬁcient. We can write this sequence as
+𝑎𝑛 = 𝑛𝑥 𝑛 where 𝑛 = 1, 2, 3, 4, 5, 6, . .., and 𝒂𝒏 is called the general or nth term.
+
+A. Finding several terms of a sequence, given the general term:
+Example 1.
+Find the first four terms of the sequence 𝑎𝑛 = 2𝑛 − 1.
+Solution:
+
+To find the first term, let 𝑛 = 1
+𝑎𝑛 = 2𝑛 − 1
+
+use the given general term
+
+𝑎𝟏 = 2(𝟏) − 1
+
+substitute 𝑛 by 1
+
+𝑎1 = 2 − 1
+
+perform the operations
+
+𝑎1 = 1
+
+simplify
+
+Repeat the same process for the second to the fourth terms.
+Find the second term, 𝑛 = 2
+
+𝑎2 = 2(2) − 1 = 4 − 1 = 3
+
+Find the third term, 𝑛 = 3
+
+𝑎3 = 2(3) − 1 = 6 − 1 = 5
+
+Find the fourth term, 𝑛 = 4
+
+𝑎4 = 2(4) − 1 = 8 − 1 = 7
+
+Therefore, the first four terms of the sequence are 𝟏, 𝟑, 𝟓, 𝟕.
+Example 2.
+Find the 5th to the 8th terms of the sequence 𝑏𝑛 =
+Solution:
+
+(−1)𝑛
+𝑛+1
+
+.
+
+To find the 5th term, let 𝑛 = 5
+
+6
+
+CO_Q1_Mathematics 10_ Module 1
+
+𝑏𝑛 =
+𝑏5 =
+𝑏5 =
+
+(−1)𝑛
+
+use the given general term
+
+𝑛+1
+(−1)5
+
+substitute 𝑛 by 5
+
+5+1
+−1
+6
+
+=−
+
+1
+6
+
+simplify (−1 raised to an odd number power is always negative)
+
+Repeat the same process for the 6th to the 8th terms.
+Find the 6th term, 𝑛 = 6
+
+𝑏6 =
+
+Find the 7th term, 𝑛 = 7
+
+𝑏7 =
+
+Find the 8th term, 𝑛 = 8
+
+𝑏8 =
+
+(−1)6
+6+1
+(−1)7
+7+1
+(−1)8
+8+1
+
+=
+=
+=
+
+1
+7
+−1
+8
+
+=−
+
+1
+8
+
+1
+9
+
+𝟏 𝟏
+
+𝟏 𝟏
+
+𝟔 𝟕
+
+𝟖 𝟗
+
+Therefore, the 5th to the 8th terms of the sequence are − , , − , .
+B. Finding the general term, given several terms of the sequence:
+Example 3.
+Write the general term of the sequence 5, 12, 19, 26, 33, . ..
+Solution:
+
+Notice that each term is 7 more than the previous term. We can search
+the pattern using a tabular form.
+Term
+1
+2
+3
+4
+5
+n
+
+Given
+5
+12
+19
+26
+33
+an
+
+Pattern
+5
+5+7
+5+7+7
+5+7+7+7
+5+7+7+7+7
+5 + 7 + 7 + 7 + 7 +…+ 7
+
+5 + 7(0)
+5 + 7(1)
+5 + 7(2)
+5 + 7(3)
+5 + 7(4)
+5 + 7(n – 1)
+
+In the pattern, the number of times that 7 is added to 5 is one less
+than the nth term (n – 1). Thus,
+𝑎n = 5 + 7(n − 1)
+
+equate 𝑎𝑛 and 5 + 7(n − 1)
+
+𝑎𝑛 = 5 + 7𝑛 − 7
+
+apply distributive property of multiplication
+
+𝑎n = 7𝑛 – 2
+
+combine similar terms
+
+Therefore, the nth term of the sequence is 𝐚𝐧 = 𝟕𝒏 – 𝟐, where 𝑛 = 1, 2, 3, 4, 5, . ..
+
+7
+
+CO_Q1_Mathematics 10_ Module 1
+
+Example 4.
+Write the general term of the sequence 2, 4, 8, 16, 32, . ..
+Solution:
+
+Notice that each term is 2 times the previous term. We can search the
+pattern using a tabular form.
+Term
+1
+2
+3
+4
+5
+n
+
+Given
+2
+4
+8
+16
+32
+an
+
+Pattern
+2
+2(2)
+2(2)(2)
+2(2)(2)(2)
+2(2)(2)(2)(2)
+2(2)(2)(2)(2)…(2)
+
+21
+22
+23
+24
+25
+2n
+
+Therefore, the nth term of the sequence is 𝒂𝒏 = 𝟐𝒏 , where 𝑛 = 1, 2, 3, 4, 5, . ..
+Example 5.
+1 1
+
+Find the general term of the sequence 1, , ,
+
+1
+
+,
+
+1
+
+4 9 16 25
+
+Solution:
+
+1 1 1
+
+, , ,
+
+1
+
+1
+
+,
+
+1 4 9 16 25
+1
+
+,
+
+1
+
+,
+
+1
+
+,
+
+1
+
+,
+
+, . ..
+1
+
+12 22 32 42 52
+
+write 1 as
+1
+
+,..., 2
+𝑛
+
+, . ..
+
+1
+1
+
+notice each denominator is an integer squared
+
+Therefore, the nth term of the sequence is 𝒂𝒏 =
+
+𝟏
+𝒏𝟐
+
+, where 𝑛 = 1, 2, 3, 4, 5, . ..
+
+What’s More
+Now, it’s your turn to apply the concepts on sequences and patterns to find the
+specified terms of a sequence when given its general term and vice versa.
+
+Activity 3. Your Turn!
+Direction: Answer what is asked in each set of exercises on a separate sheet of paper
+• In Exercises 1 – 4, write the first four terms of each sequence. Assume 𝑛 starts
+at 1.
+1) 𝑎𝑛 = 𝑛
+
+2) 𝑎𝑛 =
+
+𝑛
+𝑛+1
+
+3) 𝑎𝑛 = (−1)𝑛+1 𝑛2
+
+4) 𝑎𝑛 =
+
+𝑛(𝑛+1)
+2
+
+8
+
+CO_Q1_Mathematics 10_ Module 1
+
+•
+
+In Exercises 5 – 8, find the indicated term of each sequence given.
+1 𝑛
+2
+
+5) 𝑎𝑛 = ( )
+7) 𝑎𝑛 =
+•
+
+6) 𝑎𝑛 =
+
+𝑎9 = ?
+
+(−1)𝑛+1 (𝑛−1)(𝑛+2)
+𝑛
+
+(𝑛+1)2
+
+𝑎14 = ?
+
+𝑛−9
+𝑛
+
+𝑛
+
+8) 𝑎𝑛 = ( 9 − 12)
+
+𝑎7 = ?
+
+𝑎99 = ?
+
+In Exercises 9 – 12, write an expression for the nth term of the given sequence.
+Assume 𝑛 starts at 1.
+9) 2, 4, 6, 8, 10, . ..
+
+10) 1, −1, 1, −1, 1, . ..
+
+11) 3, 9, 27, 81, . ..
+
+12)
+
+1
+
+,
+
+1
+
+,
+
+1
+
+,
+
+1
+
+,
+
+1
+
+2∙1 3∙2 4∙3 5∙4 6∙5
+
+, . ..
+
+What I Have Learned
+Great! You have reached this part of the module. To ensure your full understanding
+on the concepts related to generating patterns, it’s important that you are able to
+complete each statement below.
+1) A sequence is ________________________________________________________
+2) A term is ____________________________________________________________
+3) A finite sequence contains _______________________ while infinite sequence
+contains ______________________.
+4) To find the specified term/s of a sequence when given the general term,
+______________________________________________________________.
+5) To write the general term of a sequence when given some terms,
+______________________________________________________________.
+
+What I Can Do
+Generating patterns is a vital concept in performing any mathematical investigation.
+Similar to the previous activity on the number of pieces when a string is cut x times,
+a sequence is formed when a repeated process following a certain rule is employed.
+To perform a simple mathematical investigation, perform the task below.
+
+9
+
+CO_Q1_Mathematics 10_ Module 1
+
+Activity 4. Let’s Investigate!
+Direction: Given the figures below, perform a mathematical investigation by following
+the given steps.
+
+Figure 1
+
+Figure 2
+
+Figure 3
+
+Figure 4
+
+Step 1. To investigate, you are going to make your own problem to solve. Based from
+the figures above, what do you think could be a probable problem to
+investigate?
+Step 2. Identify your variables (dependent and independent variables). For example,
+number of pieces of strings, 𝑎𝑛 , and number of cuts 𝑛. Then list your data.
+Step 3. Present your data in a tabular form.
+Term
+1
+2
+3
+4
+𝑛
+
+Sequence
+
+Pattern
+
+𝑎𝑛
+
+Step 4. State your conjecture using a general or nth term.
+
+Step 5.
+
+Test your conjecture. Using your derived formula or general term, find the
+first four terms of your sequence if it matches.
+
+10
+
+CO_Q1_Mathematics 10_ Module 1
+
+Assessment
+Let us determine how much you have learned from this module. Read and
+understand each item, then choose the letter of your answer and write it on your
+answer sheet.
+1. Which of the following shows a pattern?
+A) 3, 2, 3, 2, 3, 2
+C) A, G, M, T, 0, 9
+B) 5, 7, 2, T, 6, Y
+D) smooth, long, wall, sing
+2. Which of the following defines infinite sequence?
+A) days of the week
+B) teenage life
+
+C) every other day
+D) first Fridays of July 2020
+
+3. What are the next three terms of the sequence 1, 11, 22, 34, . . ..?
+A) 46, 60, 75
+
+B) 47, 61, 76
+
+C) 42, 54, 66
+
+4. What is the 25th term of the sequence 𝑎𝑛 =
+1
+
+1
+
+A) 625
+
+(−1)𝑛
+𝑛2
+
+?
+
+25
+
+B) − 625
+
+D) 44, 60, 74
+
+25
+
+C) 625
+
+D) − 625
+
+5. What is the 11th term in the sequence −1, 4, −9, 16, −25, ..?
+A) 100
+
+B) −100
+
+C) 121
+
+D) −121
+
+6. Find the first four terms of the sequence 𝑎𝑛 = 3𝑛 + 2.
+A) 5, 7, 11, 14
+
+B) 5, 8, 11, 15
+
+C) 5, 8, 11, 14
+
+D) 5, 9, 13, 17
+
+7. Which numerical pattern follows the rule “the next term is obtained by alternately
+subtracting 3 and multiplying by 2”, when starting with 5?
+A) 5, 10, 20, 40, 50
+B) 5, 2, 4, 1, 2
+
+C) 5, 2, −1, −4, −7
+D) 5, 8, 16, 19, 38
+
+8. What rule will correctly describe the sequence: 2, 6, 12, 20, 30,…?
+A) 𝑛 + 1
+
+B) 𝑛2 + 1
+
+C) 2𝑛 + 1
+1
+
+1 1
+
+1
+
+2
+
+4 6
+
+8 10
+
+9. Find the nth term of the sequence , − , , − ,
+−1
+
+A) an = 2n
+
+B) an =
+
+(−1)(n+1)
+2
+
+1
+
+D) 𝑛2 + 𝑛
+
+,…
+
+C) an =
+
+(−1)(n+1)
+2n
+
+1
+
+D) an = − 2n
+
+11
+
+CO_Q1_Mathematics 10_ Module 1
+
+10. Which is the next ordered pair in the pattern (2, 1), (4, 4), (6, 9)?
+A) (8, 12)
+
+B) (7, 16)
+
+C) (8, 16)
+
+D) (7, 12)
+
+11. What is the 8th term in the sequence 9, 4, −1, −6, −11, …?
+A) −21
+
+B) −26
+
+12. In the sequence, 𝑎𝑛 =
+108
+
+C) −31
+
+(−1)𝑛+1 (𝑛−1)(𝑛+2)
+𝑛
+
+, what is 𝑎10 ?
+
+54
+
+A) 10
+
+D) −36
+
+52
+
+B) − 5
+
+104
+
+C) 5
+
+D) − 10
+
+13. Which of the following patterns shows finite sequence?
+A) 6, 12, 18, 24, 30, …
+B) multiples of 6
+
+C) First 20 whole numbers
+D) 100, 50, 25, 12.5, …
+
+14. Find the general term of the sequence 3, 9, 27, 81, …
+A) 3𝑛
+
+B) 𝑛3
+
+C) 3𝑛
+
+D) 𝑛 + 3
+
+15. Write the first four terms of the sequence 𝑎𝑛 = 𝑛2 − 1.
+A) 0, 3, 8, 15
+
+B) 1, 3, 5, 7
+
+C) 1, 5, 10, 16
+
+D) 0, 2, 7, 12
+
+Additional Activities
+Awesome! Before we end this module, let me introduce a puzzle game called Tower
+of Hanoi. Are you familiar with this game? If not, allow me to introduce it to you.
+
+In the Tower of Hanoi puzzle a
+player attempts to move a large pile of
+disks, known as the Tower, from the
+leftmost peg to the rightmost on the
+puzzle board. The rules of the puzzle
+state that the player can only move one
+disk per turn and can never place a
+larger disk onto a smaller one at any
+time.
+If you are interested to play the puzzle, you can search it on the internet. For
+the meantime, I just want to use the puzzle game for the purpose of applying
+sequences and generating patterns.
+
+12
+
+CO_Q1_Mathematics 10_ Module 1
+
+Situation: In playing the game, you can choose the number of disks of your tower
+and play with the least possible moves. The least number of moves when
+playing the puzzle with respect to the number of disks are as follows:
+Number of Disks
+1
+2
+3
+4
+
+Number of Moves
+1
+3
+7
+15
+
+Number of Disks
+5
+6
+7
+9
+
+Number of Moves
+31
+63
+127
+255
+
+Task: Based on the above data, find the general term in finding the number of moves
+with respect to the number of disks in playing the tower of Hanoi.
+
+13
+
+CO_Q1_Mathematics 10_ Module 1
+
+CO_Q1_Mathematics 10_ Module 1
+14
+What I Know
+
+(1) C
+(2) D
+(3) B
+
+(4) C
+(5) A
+(6) D
+
+(7) A
+(8) A
+(9) B
+
+(10) D
+(11) B
+(12) A
+
+(13) C
+(14) D
+(15) B
+
+What’s In (Activity 1)
+
+What’s More (Activity 3)
+1) 1, 2, 3, 4
+4) 1, 3, 6, 10
+1 2 3 4
+
+2) , , ,
+
+5)
+
+2 3 4 5
+
+3) 1, −4, 9, −16
+
+1
+512
+
+6) 45
+
+7)
+
+54
+7
+
+10) 𝑎𝑛 = (−1)𝑛+1
+
+12) 𝑎𝑛 =
+
+9) 𝑎𝑛 = 2𝑛
+
+11) 𝑎𝑛 = 3
+
+8) −1
+
+𝑛
+1
+
+(𝑛+1)∙𝑛
+
+What I Have Learned
+1) a set of objects which is listed in a specific order.
+
+4) answer may vary
+
+2) each member or element in the sequence.
+
+5) answer may vary
+
+3) limited number of terms; countless number of terms
+
+What Can I Do (Activity 4)
+No. of Hexagons (n)
+No. of Triangles (an)
+Pattern
+1
+6
+6
+6 + 4(0)
+2
+10
+6+4
+6 + 4(1)
+3
+14
+6+4+4
+6 + 4(2)
+4
+18
+6 + 4 + 4 +4
+6 + 4(3)
+N
+an
+6+4+4+4+…+4
+6 + 4( n-1) or 4n + 2
+Conjecture:
+The total number of triangles, 𝑎𝑛 , used in the nth term hexagonal sequence is 𝟒𝒏 + 𝟐.
+(A)
+
+Assessment
+
+(1) A
+(2) C
+(3) B
+
+(4) B
+(5) D
+(6) C
+
+(7) B
+(8) D
+(9) C
+
+(10) C
+(11) B
+(12) B
+
+(13) C
+(14) C
+(15) A
+
+Additional Activities
+The least possible number of moves, 𝑎𝑛 , with respect to the number of disks (𝑛) can be computed using the
+general term 𝒂𝒏 = 𝟐𝒏 − 𝟏.
+
+Answer Key
+
+References
+Jaap’s Puzzle Page (2012). Tower of Hanoi. Retrieved from
+http://nozdr.ru/puzzles/hanoi.htm
+Oronce, Orlando and Mendoza, Marilyn (2010). Logical Reasoning. E-math
+III Geometry – Revised Edition
+SureSwift Capital (2020). Patterns Questions. Help Teaching. Retrieved from
+https://www.helpteaching.com/questions/Patterns
+Young, Cynthia (2010). Sequences and Series. Precalculus
+
+15
+
+CO_Q1_Mathematics 10_ Module 1
+
+For inquiries or feedback, please write or call:
+Department of Education – Bureau of Learning Resources (DepEd-BLR)
+Ground Floor, Bonifacio Bldg., DepEd Complex
+Meralco Avenue, Pasig City, Philippines 1600
+Telefax: (632) 8634-1072; 8634-1054; 8631-4985
+Email Address: blr.lrqad@deped.gov.ph * blr.lrpd@deped.gov.ph
+
+16
+
+CO_Q1_Mathematics
+10_
+Module
+1 4
+CO_Q1_Mathematics
+10_
+Module
+
+

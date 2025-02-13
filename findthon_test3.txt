@@ -1,0 +1,7433 @@
+PY
+
+10
+
+C
+O
+
+Mathematics
+
+EP
+E
+
+D
+
+Learner’s Module
+Unit 1
+
+D
+
+This book was collaboratively developed and reviewed by
+educators from public and private schools, colleges, and/or universities.
+We encourage teachers and other education stakeholders to email their
+feedback, comments, and recommendations to the Department of
+Education at action@deped.gov.ph.
+We value your feedback and recommendations.
+
+Department of Education
+Republic of the Philippines
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Mathematics – Grade 10
+Learner’s Module
+First Edition 2015
+
+C
+O
+
+PY
+
+Republic Act 8293, section 176 states that: No copyright shall subsist in any work
+of the Government of the Philippines. However, prior approval of the government agency or
+office wherein the work is created shall be necessary for exploitation of such work for profit.
+Such agency or office may, among other things, impose as a condition the payment of
+royalties.
+Borrowed materials (i.e., songs, stories, poems, pictures, photos, brand names,
+trademarks, etc.) included in this book are owned by their respective copyright holders.
+DepEd is represented by the Filipinas Copyright Licensing Society (FILCOLS), Inc. in seeking
+permission to use these materials from their respective copyright owners. All means have
+been exhausted in seeking permission to use these materials. The publisher and authors do
+not represent nor claim ownership over them.
+Only institution and companies which have entered an agreement with FILCOLS and
+only within the agreed framework may copy this Learner’s Module. Those who have not
+entered in an agreement with FILCOLS must, if they wish to copy, contact the publisher and
+authors directly.
+Authors and publishers may email or contact FILCOLS at filcols@gmail.com or (02)
+439-2204, respectively.
+
+Published by the Department of Education
+Secretary: Br. Armin A. Luistro FSC
+Undersecretary: Dina S. Ocampo, PhD
+
+Development Team of the Learner’s Module
+
+D
+
+Consultants: Soledad A. Ulep, PhD, Debbie Marie B. Verzosa, PhD, and
+Rosemarievic Villena-Diaz, PhD
+
+EP
+E
+
+Authors: Melvin M. Callanta, Allan M. Canonigo, Arnaldo I. Chua, Jerry D. Cruz,
+Mirla S. Esparrago, Elino S. Garcia, Aries N. Magnaye, Fernando B. Orines,
+Rowena S. Perez, and Concepcion S. Ternida
+Editor: Maxima J. Acelajado, PhD
+
+Reviewers: Maria Alva Q. Aberin, PhD, Maxima J. Acelajado, PhD, Carlene P.
+Arceo, PhD, Rene R. Belecina, PhD, Dolores P. Borja, Agnes D. Garciano, Phd,
+Ma. Corazon P. Loja, Roger T. Nocom, Rowena S. Requidan, and Jones A.
+Tudlong, PhD
+
+D
+
+Illustrator: Cyrell T. Navarro
+
+Layout Artists: Aro R. Rara and Ronwaldo Victor Ma. A. Pagulayan
+Management and Specialists: Jocelyn DR Andaya, Jose D. Tuguinayo Jr.,
+Elizabeth G. Catao, Maribel S. Perez, and Nicanor M. San Gabriel Jr.
+
+Printed in the Philippines by REX Book Store
+Department of Education-Instructional Materials Council Secretariat (DepEd-IMCS)
+Office Address:
+5th Floor Mabini Building, DepEd Complex
+Meralco Avenue, Pasig City
+Philippines 1600
+Telefax:
+(02) 634-1054, 634-1072
+E-mail Address:
+imcsetd@yahoo.com
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Introduction
+This material is written in support of the K to 12 Basic Education
+Program to ensure attainment of standards expected of students.
+
+PY
+
+In the design of this Grade 10 materials, it underwent different
+processes - development by writers composed of classroom teachers, school
+heads, supervisors, specialists from the Department and other institutions;
+validation by experts, academicians, and practitioners; revision; content
+review and language editing by members of Quality Circle Reviewers; and
+finalization with the guidance of the consultants.
+There are eight (8) modules in this material.
+
+D
+
+C
+O
+
+Module 1 – Sequences
+Module 2 – Polynomials and Polynomial Equations
+Module 3 – Polynomial Functions
+Module 4 – Circles
+Module 5 – Plane Coordinate Geometry
+Module 6 – Permutations and Combinations
+Module 7 – Probability of Compound Events
+Module 8 – Measures of Position
+
+D
+
+EP
+E
+
+With the different activities provided in every module, may you find this
+material engaging and challenging as it develops your critical-thinking and
+problem-solving skills.
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Table of Contents
+Unit 1
+Module 1: Sequences................................................................................... 1
+
+Lessons and Coverage ............................................................................ 2
+Module Map ............................................................................................. 3
+Pre-Assessment ...................................................................................... 4
+Learning Goals and Targets .................................................................... 8
+
+Lesson 1: Arithmetic Sequences..................................................................... 9
+
+C
+O
+
+PY
+
+Activity 1 ........................................................................................ 9
+Activity 2 ...................................................................................... 11
+Activity 3 ...................................................................................... 11
+Activity 4 ...................................................................................... 12
+Activity 5 ...................................................................................... 13
+Activity 6 ...................................................................................... 14
+Activity 7 ...................................................................................... 15
+Activity 8 ...................................................................................... 16
+Activity 9 ...................................................................................... 18
+Activity 10 .................................................................................... 18
+Activity 11 .................................................................................... 19
+Activity 12 .................................................................................... 20
+Activity 13 .................................................................................... 21
+Activity 14 .................................................................................... 23
+Summary/Synthesis/Generalization ............................................................. 25
+
+D
+
+Lesson 2: Geometric and Other Sequences ................................................. 26
+
+D
+
+EP
+E
+
+Activity 1 ...................................................................................... 26
+Activity 2 ...................................................................................... 27
+Activity 3 ...................................................................................... 28
+Activity 4 ...................................................................................... 28
+Activity 5 ...................................................................................... 29
+Activity 6 ...................................................................................... 31
+Activity 7 ...................................................................................... 37
+Activity 8 ...................................................................................... 39
+Activity 9 ...................................................................................... 40
+Activity 10 .................................................................................... 41
+Activity 11 .................................................................................... 42
+Activity 12 .................................................................................... 43
+Activity 13 .................................................................................... 44
+Summary/Synthesis/Generalization ............................................................. 46
+Glossary of Terms ........................................................................................ 47
+References and Website Links Used in this Module ................................... 48
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Module 2: Polynomials and Polynomial Equations ............................. 49
+
+PY
+
+Lessons and Coverage .......................................................................... 50
+Module Map ........................................................................................... 50
+Pre-Assessment ..................................................................................... 51
+Learning Goals and Targets ................................................................... 56
+Lesson 1: Division of Polynomials ................................................................ 57
+Activity 1 ...................................................................................... 57
+Activity 2 ...................................................................................... 58
+Activity 3 ...................................................................................... 60
+Activity 4 ...................................................................................... 63
+Activity 5 ...................................................................................... 64
+Activity 6 ...................................................................................... 65
+Activity 7 ...................................................................................... 65
+Activity 8 ...................................................................................... 66
+Activity 9 ...................................................................................... 67
+Activity 10 .................................................................................... 68
+Summary/Synthesis/Generalization ............................................................. 69
+
+C
+O
+
+Lesson 2: The Remainder Theorem and Factor Theorem .......................... 70
+
+EP
+E
+
+D
+
+Activity 1 ...................................................................................... 70
+Activity 2 ...................................................................................... 71
+Activity 3 ...................................................................................... 72
+Activity 4 ...................................................................................... 74
+Activity 5 ...................................................................................... 76
+Activity 6 ...................................................................................... 76
+Activity 7 ...................................................................................... 77
+Activity 8 ...................................................................................... 78
+Activity 9 ...................................................................................... 79
+Activity 10 .................................................................................... 80
+Summary/Synthesis/Generalization ............................................................. 81
+
+Lesson 3: Polynomial Equations................................................................... 82
+
+D
+
+Activity 1 ...................................................................................... 82
+Activity 2 ...................................................................................... 83
+Activity 3 ...................................................................................... 84
+Activity 4 ...................................................................................... 85
+Activity 5 ...................................................................................... 87
+Activity 6 ...................................................................................... 88
+Activity 7 ...................................................................................... 89
+Activity 8 ...................................................................................... 91
+Activity 9 ...................................................................................... 91
+Activity 10 .................................................................................... 92
+Activity 11 .................................................................................... 92
+Activity 12 .................................................................................... 93
+Activity 13 .................................................................................... 93
+Activity 14 .................................................................................... 94
+Activity 15 .................................................................................... 95
+Summary/Synthesis/Generalization ............................................................. 96
+Glossary of Terms ......................................................................................... 96
+List of Theorems Used in this Module ......................................................... 96
+References and Website Links Used in this Module ................................... 97
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+EP
+E
+
+D
+
+C
+O
+
+PY
+
+I. INTRODUCTION
+
+“Kilos Kabataan”
+
+D
+
+In her first public address, the principal mentioned about the
+success of the recent “Brigada Eskwela.” Because of this success, the
+principal challenged the students, especially the Grade 9 and Grade 10
+students, to extend the same service to their community by having a oneSaturday community clean-up which the principal called “Kilos Kabataan
+Project.” Volunteers have to sign up until 5 p.m. for the project. Accepting
+the principal’s challenge, 10 students immediately signed up for the cleanup. After 10 minutes, there were already 15 who had signed up. After 10
+more minutes, there were 20, then 25, 30, and so on. Amazed by the
+students’ response to the challenge, the principal became confident that
+the youth could be mobilized to create positive change.
+The above scenario illustrates a sequence. In this learning module,
+you will know more about sequences, and how the concept of a sequence
+is utilized in our daily lives.
+1
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+II. LESSONS AND COVERAGE
+In this module, you will learn more about sequences when you take
+the following lessons:
+Lesson 1 – Arithmetic Sequences
+Lesson 2 – Geometric and Other Sequences
+In these lessons you will learn to:
+
+
+
+
+
+PY
+
+illustrate a geometric sequence
+differentiate a geometric sequence from an arithmetic
+sequence
+determine the nth term of a given geometric sequence
+find the geometric means between terms of a
+geometric sequence
+determine the sum of the first n terms of a geometric
+sequence
+determine the sum of the first n terms of an infinite
+geometric sequence
+illustrate other types of sequences like harmonic
+sequence and Fibonacci sequence
+solve problems involving geometric sequence
+
+EP
+E
+
+
+
+
+C
+O
+
+
+
+generate and describe patterns
+find the next few terms of a sequence
+find the general or nth term of a sequence
+illustrate an arithmetic sequence
+determine the nth term of a given arithmetic sequence
+find the arithmetic means between terms of an
+arithmetic sequence
+determine the sum of the first n terms of a given
+arithmetic sequence
+solve problems involving arithmetic sequence
+
+D
+
+Lesson 1
+
+
+
+
+
+
+
+
+Lesson 2
+
+
+
+D
+
+
+
+
+
+2
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Sequences
+
+Geometric
+Sequences
+
+Other Types of
+Sequences
+
+C
+O
+
+PY
+
+Arithmetic
+Sequences
+
+Finding the Next Term
+
+D
+
+Finding the nth Term
+
+EP
+E
+
+Finding the Arithmetic/Geometric Means
+
+D
+
+Finding the Sum of the First n Terms
+
+Solving Real-Life Problems
+
+3
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+III. PRE-ASSESSMENT
+Part 1
+Find out how much you already know about the topics in this module.
+Choose the letter of the best answer. Take note of the items that you were
+not able to answer correctly and find the right answer as you go through
+this module.
+1. What is the next term in the geometric sequence 4, 12, 36?
+B. 54
+
+D. 108
+
+C. 72
+
+PY
+
+A. 42
+
+2. Find the common difference in the arithmetic sequence 3,
+1
+4
+
+B.
+
+3
+4
+
+C.
+
+5
+2
+
+C
+O
+
+A.
+
+13 7 15
+, ,
+, ...
+4 2 4
+
+D. 4
+
+1
+,  1, 2,  4
+2
+
+D. 2,
+
+EP
+E
+
+B.
+
+D
+
+3. Which set of numbers is an example of a harmonic sequence?
+1
+1 1
+1
+1 1 1
+1
+A. ,  , ,  ,
+C. , ,
+,
+2
+2 2
+2
+3 9 27 81
+2 2 2
+, ,
+3 5 7
+
+4. What is the sum of all the odd integers between 8 and 26?
+A. 153
+B. 151
+C. 149
+
+D. 148
+
+D
+
+5. If three arithmetic means are inserted between 11 and 39, find the
+second arithmetic mean.
+A. 18
+B. 25
+C. 32
+D. 46
+6. If three geometric means are inserted between 1 and 256, find the third
+geometric mean.
+A. 64
+B. 32
+C. 16
+D. 4
+7. What is the next term in the harmonic sequence
+A. 27
+
+B. 25
+
+C.
+
+4
+
+1
+25
+
+1 1
+1
+1
+,
+,
+,
+,...?
+11 15 19 23
+1
+D.
+27
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+8. Which term of the arithmetic sequence 4, 1, 2, 5 , . . . is 29 ?
+A. 9th term
+B. 10th term
+C. 11th term
+D. 12th term
+2 2
+, , 2, 10, ...?
+25 5
+C. 1250
+D. 2500
+
+9. What is the 6th term of the geometric sequence
+A. 25
+
+B. 250
+
+PY
+
+10. The first term of an arithmetic sequence is 2 while the 18th term is 87.
+Find the common difference of the sequence.
+A. 7
+B. 6
+C. 5
+D. 3
+
+C
+O
+
+11. What is the next term in the Fibonacci sequence 1, 1, 2, 3, 5, 8, ...?
+A. 13
+B. 16
+C. 19
+D. 20
+12. Find the sum of the geometric sequence where the first term is 3, the
+last term is 46 875, and the common ratio is 5.
+A. 58 593
+B. 58 594
+C. 58 595
+D. 58 596
+
+EP
+E
+
+D
+
+13. Find the eighth term of a geometric sequence where the third term is
+27 and the common ratio is 3.
+A. 2187
+B. 6561
+C. 19 683
+D. 59 049
+14. Which of the following is the sum of all the multiples of 3 from 15 to
+48?
+A. 315
+B. 360
+C. 378
+D. 396
+
+D
+
+15. What is the 7th term of the sequence whose nth term is an 
+A.
+
+24
+25
+
+B.
+
+23
+25
+
+C.
+
+47
+50
+
+n2  1
+?
+n2  1
+D.
+
+49
+50
+
+16. What is the nth term of the arithmetic sequence 7, 9, 11, 13, 15, 17, . .?
+A. 3n  4
+B. 4n  3
+C. n  2
+D. 2n  5
+17. What is the nth term of the harmonic sequence
+A.
+
+1
+n 1
+
+B.
+
+1
+n 1
+
+C.
+
+2
+
+5
+
+1
+2n
+
+1 1 1 1
+, , , ,...?
+2 4 6 8
+
+D.
+
+1
+4n  2
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+18. Find p so that the numbers 7p  2, 5p  12, 2p  1,... form an arithmetic
+sequence.
+A. 8
+
+B. 5
+
+C. 13
+
+D. 23
+
+3 9 27 81
+
+
+
+ ...?
+4 16 64 256
+3
+3
+C.
+D.
+4
+7
+
+19. What is the sum of the infinite geometric series
+A. 3
+
+B. 1
+
+PY
+
+20. Find k so that the numbers 2k  1, 3k  4, and 7k  6 form a geometric
+sequence.
+A. 2; -1
+B. -2; 1
+C. 2; 1
+D. -2; -1
+
+C
+O
+
+21. Glenn bought a car for Php600,000. The yearly depreciation of his car is
+10% of its value at the start of the year. What is its value after 4 years?
+A. Php437,400 B. Php438,000
+C. Php393,660 D. Php378,000
+
+D
+
+22. During a free-fall, a skydiver jumps 16 feet, 48 feet, and 80 feet on the
+first, second, and third fall, respectively. If he continues to jump at this
+rate, how many feet will he have jumped during the tenth fall?
+A. 304
+B. 336
+C. 314 928
+D. 944 784
+
+EP
+E
+
+23. Twelve days before Valentine’s Day, Carl decided to give Nicole
+flowers according to the Fibonacci sequence. On the first day, he sent
+one red rose, on the second day, two red roses, and so on. How many
+roses did Nicole receive during the tenth day?
+A. 10
+B. 55
+C. 89
+D. 144
+
+D
+
+24. A new square is formed by joining the midpoints of the consecutive
+sides of a square 8 inches on a side. If the process is continued until
+there are already six squares, find the sum of the areas of all squares
+in square inches.
+A. 96
+B. 112
+C. 124
+D. 126
+25. In President Sergio Osmeña High School, suspension of classes is
+announced through text brigade. One stormy day, the principal
+announces the suspension of classes to two teachers, each of whom
+sends this message to two other teachers, and so on. Suppose that
+text messages were sent in five rounds, counting the principal’s text
+message as the first, how many text messages were sent in all?
+A. 31
+B. 32
+C. 63
+D. 64
+6
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Part II
+Read and understand the situation below, then answer the questions or
+perform the tasks that follow.
+
+C
+O
+
+PY
+
+Hold on to HOPE
+Because of the super typhoon Yolanda, there was a big need for blood
+donors, medicines, doctors, nurses, medical aides, or any form of medical
+assistance. The Red Cross planned to involve different agencies,
+organizations, and offices, public and private, local and international, in their
+project to have massive medical services. The Red Cross contacted first
+three of the biggest networks, and each of these networks contacted three
+other networks, and agencies, organizations, and offices, and so on, until
+enough of these were contacted. It took one hour for an organization to
+contact three other organizations and all the contacts made were completed
+within 4 hours. Assume that no group was contacted twice.
+
+D
+
+1. Suppose you are one of the people in the Red Cross who visualized
+this project. How many organizations do you think were contacted in
+the last round? How many organizations were contacted within 4
+hours?
+
+EP
+E
+
+2. Make a table to represent the number of organizations, agencies, and
+offices who could have been contacted in each round.
+
+D
+
+3. Write an equation to represent the situation. Let the independent
+variable be the number of rounds and the dependent variable be the
+number of organizations, agencies, and offices that were contacted in
+that round.
+4. If another hour was used to contact more organizations, how many
+additional organizations, agencies, and offices could be contacted?
+5. Use the given information in the above situation to formulate problems
+involving these concepts.
+6. Write the necessary equations that describe the situations or problems
+that you formulated.
+7. Solve the problems that you formulated.
+7
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Rubric for the Equations Formulated and Solved
+Score
+
+Descriptors
+
+4
+
+Equations are properly formulated and solved correctly.
+
+3
+
+Equations are properly formulated but not all are solved
+correctly.
+
+2
+
+Equations are properly formulated but are not solved
+correctly.
+
+1
+
+Equations are properly formulated but are not solved at all.
+
+PY
+
+Rubric for the Problems Formulated and Solved
+
+Descriptors
+
+6
+
+Poses a more complex problem with two or more solutions
+and communicates ideas unmistakably, shows in-depth
+comprehension of the pertinent concepts and/or processes
+and provides explanation wherever appropriate
+
+5
+
+Poses a more complex problem and finishes all significant
+parts of the solution and communicates ideas unmistakably,
+shows in-depth comprehension of the pertinent concepts
+and/or processes
+
+4
+
+Poses a complex problem and finishes all significant parts of
+the solution and communicates ideas unmistakably, shows
+in-depth comprehension of the pertinent concepts and/or
+processes
+
+3
+
+Poses a complex problem and finishes most significant parts
+of the solution and communicates ideas unmistakably, shows
+comprehension of major concepts although neglects or
+misinterprets less significant ideas or details
+
+2
+
+Poses a problem and finishes some significant parts of the
+solution and communicates ideas unmistakably but shows
+gaps on the theoretical comprehension
+
+1
+
+Poses a problem but demonstrates minor comprehension,
+not being able to develop an approach
+
+D
+
+EP
+E
+
+D
+
+C
+O
+
+Score
+
+Source: D.O. #73, s. 2012
+
+IV. LEARNING GOALS AND TARGETS
+After using this module, you should be able to demonstrate
+understanding of sequences like arithmetic sequences, geometric sequences,
+and other types of sequences and solve problems involving sequences.
+
+8
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+PY
+
+In this lesson, you will work with patterns. Recognizing and
+extending patterns are important skills needed for learning concepts
+related to an arithmetic sequence.
+
+C
+O
+
+Activity 1:
+
+Each item below shows a pattern. Answer the given questions.
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+EP
+E
+
+,
+___
+
+D
+
+1. What is the next shape?
+
+2. What is the next number?
+What is the 10th number?
+____
+
+D
+
+0, 4, 8, 12, 16,
+
+3. What is the next number?
+What is the 8th number?
+9, 4, -1, -6, -11,
+
+____
+
+9
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+4. What is the next number?
+What is the 12th number?
+1,
+
+3,
+
+9,
+
+81,
+
+27,
+
+_____
+
+5. What is the next number?
+What is the 7th number?
+160,
+
+80,
+
+40,
+
+20,
+
+10,
+
+_____
+
+PY
+
+The set of shapes and the sets of numbers in the above activity are
+called sequences.
+
+C
+O
+
+Were you able to find patterns and get the next number in the
+sequence? Let us now give the formal definition of a sequence.
+What is a sequence?
+
+1
+
+n
+
+Example:
+
+2
+
+3
+
+4
+
+5
+
+
+
+
+
+
+
+
+
+EP
+E
+
+
+
+D
+
+A sequence is a function whose domain is the finite set {1, 2, 3,…, n}
+or the infinite set {1, 2, 3,… }.
+
+a n 
+
+3 1
+
+1.5 10 
+
+This finite sequence has 5 terms. We may use the notation
+
+a1, a2 , a3 , ..., an to denote a 1 , a  2, a  3 , ..., a  n , respectively.
+
+D
+
+In Grade 10, we often encounter sequences that form a pattern such
+as that found in the sequence below.
+
+n
+Example:
+
+an
+
+1
+
+2
+
+3
+
+4
+
+...
+
+
+
+
+
+
+
+
+
+4
+
+7
+
+10 13 ...
+
+The above sequence is an infinite sequence where an  3n  1
+
+10
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+In the next two activities, you will learn more about sequences. A
+general term or nth term will be given to you and you will be asked to
+give the next few terms. You will also be asked to give the nth term or
+the rule for a particular sequence. You may now start with Activity 2.
+Activity 2:
+Find the first 5 terms of the sequence given the nth term.
+
+PY
+
+1. an n  4
+
+2n  1
+2. a
+n
+12  3n
+3. a
+n
+5. an 
+
+ 2
+
+C
+O
+
+4. an  3n
+n
+
+EP
+E
+
+D
+
+How did you find the activity? Did you find it easy to give the first 5
+terms of each sequence? In Activity 3, you will be given the terms of a
+sequence and you will be asked to find its nth term. You may now do
+Activity 3.
+Activity 3:
+
+What is the nth term for each sequence below?
+3, 4, 5, 6, 7, ...
+3, 5, 7, 9, 11, ...
+2, 4, 8, 16, 32, ...
+-1, 1, -1, 1, -1, ...
+1 1 1 1
+5. 1, , , , , ...
+2 3 4 5
+
+D
+
+1.
+2.
+3.
+4.
+
+In the activities you have just done, you were able to enumerate the
+terms of a sequence given its nth term and vice versa. Knowing all these
+will enable you to easily understand a particular sequence. This
+sequence will be discussed after doing the following activity.
+
+11
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Activity 4:
+We need matchsticks for this group activity. Form a group of 3
+students.
+1. Below are squares formed by matchsticks.
+
+number of squares
+
+1
+
+2
+
+3
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+C
+O
+
+number of matchsticks
+
+4
+
+PY
+
+2. Count the number of matchsticks in each figure and record the results
+in a table.
+
+EP
+E
+
+D
+
+1. Is there a pattern in the number of matchsticks? If there is, describe
+it.
+2. How is each term (number of matchsticks) found?
+3. What is the difference between any two consecutive terms?
+How was the activity? What new thing did you learn from the
+activity?
+
+D
+
+The above activity illustrates a sequence where the difference between
+any two consecutive terms is a constant. This constant is called the common
+difference and the said sequence is called an arithmetic sequence.
+An arithmetic sequence is a sequence where every term after the first
+is obtained by adding a constant called the common difference.
+The sequences 1, 4, 7, 10, ... and 15, 11, 7, 3, ... are examples of
+arithmetic sequences since each one has a common difference of 3 and 4,
+respectively.
+Is the meaning of arithmetic sequence clear to you? Are you ready
+to learn more about arithmetic sequences? If so, then you have to
+perform the next activity.
+
+12
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Activity 5:
+Let us go back to Activity 4. With your groupmates, take a look at the
+completed table below.
+number of squares
+number of matchsticks
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+4
+
+7
+
+10
+
+13
+
+16
+
+19
+
+22
+
+25
+
+28
+
+31
+
+C
+O
+
+PY
+
+Let us take the number of matchsticks 4, 7, 10, 13, 16, 19, 22, 25, 28,
+and 31. We see that the number of matchsticks forms an arithmetic
+sequence. Suppose we want to find the 20th, 50th, and 100th terms of the
+sequence. How do we get them? Do you think a formula would help? If so, we
+could find a formula for the nth term of the sequence. In this case, it will not
+be difficult since we know the common difference of the sequence.
+
+
+a1 4,
+a2 7,
+a3 10,
+a4 13.
+Let us take the first four terms. Let
+How do we obtain the second, third, and fourth terms?
+
+a2
+
+4
+
+4+3
+
+a3
+
+a4
+
+EP
+E
+
+a1
+
+D
+
+Consider the table below and complete it. Observe how each term is
+rewritten.
+
+a5
+
+a6
+
+a7
+
+a8
+
+4+3+3 4+3+3+3
+
+...
+
+an
+
+...
+
+How else can we write the terms? Study the next table and complete it.
+
+a2
+
+D
+
+a1
+
+a3
+
+a4
+
+a5
+
+a6
+
+a7
+
+4+0(3) 4+1(3) 4+2(3) 4+3(3)
+
+a8
+
+...
+
+an
+
+...
+
+What is a5 ? a20 ? a50 ?
+What is the formula for determining the number of matchsticks needed
+to form n squares?
+In general, the first n terms of an arithmetic sequence with a1 as first
+term and d as common difference are
+
+a1, a1  d, a1  2d, ..., a1   n  1 d.
+13
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+If a1 and d are known, it is easy to find any term in an arithmetic
+sequence by using the rule
+
+an  a1   n  1 d.
+Example: What is the 10th term of the arithmetic sequence 5, 12, 19, 26, ...?
+
+5 and d 
+7, then a10 
+5  10  1 7 
+68.
+Solution: Since a1 
+
+PY
+
+How did you find the activity? The rule for finding the nth term of an
+arithmetic sequence is very useful in solving problems involving
+arithmetic sequence.
+Activity 6:
+
+EP
+E
+
+D
+
+1. 3, 12, 21, __, __, __
+2. 8, 3, 2 , __, __
+3. 5, 12, __, 26, __
+4. 2, __, 20, 29, __
+5. __, 4, 10, 16, __
+6. 17, 14, __, __, 5
+7. 4, __, __, 19, 24, ...
+8. __, __, __, 8, 12, 16
+9. 1, __, __, __, 31, 39
+10. 13, __, __, __, 11, 17
+
+C
+O
+
+A. Find the missing terms in each arithmetic sequence.
+
+D
+
+B. Find three terms between 2 and 34 of an arithmetic sequence.
+Were you able to get the missing terms in each sequence in Part
+A? Were you able to get the 3 terms in Part B? Let us discuss a
+systematic way of finding missing terms of an arithmetic sequence.
+
+Finding a certain number of terms between two given terms of an
+arithmetic sequence is a common task in studying arithmetic sequences. The
+terms between any two nonconsecutive terms of an arithmetic sequence are
+known as arithmetic means.
+
+14
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Example: Insert 4 arithmetic means between 5 and 25.
+Solution: Since we are required to insert 4 terms, then there will be 6 terms
+in all.
+Let a1  5 and a6  25. We will insert a2 , a3 , a4 , a5 as shown below:
+
+5, a2 , a3 , a4 , a5 , 25
+We need to get the common difference. Let us use a6 a1  5d to
+
+PY
+
+solve for d. Substituting the given values for a6 and a1 , we obtain 25 5  5d.
+So, d  4.
+
+Using the value of d, we can now get the values of a2 , a3 , a4 , and a5 .
+
+a5 
+5  4  4 
+21.
+
+C
+O
+
+5  4 1 
+9, a3 
+5  4  2 
+13, a4 
+5  4 3  
+17, and
+Thus, a2 
+
+The 4 arithmetic means between 5 and 25 are 9, 13, 17, and 21.
+
+EP
+E
+
+D
+
+At this point, you know already some essential things about
+arithmetic sequence. Now, we will learn how to find the sum of the first n
+terms of an arithmetic sequence. Do Activity 7.
+
+Activity 7:
+
+What is the sum of the terms of each finite sequence below?
+1, 4, 7, 10
+3, 5, 7, 9, 11
+10, 5, 0, -5, -10, -15
+81, 64, 47, 30, 13, -4
+-2, -5, -8, -11, -14, -17
+
+D
+
+1.
+2.
+3.
+4.
+5.
+
+15
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Activity 8:
+What is 1 + 2 + 3 + ... + 50 + 51 + ... + 98 + 99 + 100?
+A famous story tells that this was the problem given by an elementary
+school teacher to a famous mathematician to keep him busy. Do you know
+that he was able to get the sum within seconds only? Can you beat that? His
+name was Karl Friedrich Gauss (1777-1885). Do you know how he did it? Let
+us find out by doing the activity below.
+
+PY
+
+Think-Pair-Share
+
+C
+O
+
+Determine the answer to the above problem. Then look for a partner
+and compare your answer with his/her answer. Discuss with him/her your
+technique (if any) in getting the answer quickly. Then with your partner,
+answer the questions below and see if this is similar to your technique.
+
+EP
+E
+
+D
+
+1. What is the sum of each of the pairs 1 and 100, 2 and 99, 3 and 98, ...,
+50 and 51?
+2. How many pairs are there in #1?
+3. From your answers in #1 and #2, how do you get the sum of the
+integers from 1 to 100?
+4. What is the sum of the integers from 1 to 100?
+Let us now denote the sum of the first n terms of an arithmetic
+sequence a1  a2  a3  ...  an by Sn .
+
+We can rewrite the sum in reverse order, that is,
+
+Sn  an  an 1  an 2  ...  a1.
+
+D
+
+Rewriting the two equations above using their preceding terms and the
+difference d, we would have
+Equation 1:
+
+Sn a1   a1  d    a1  2d   ...  a1   n  1 d 
+
+Equation 2 :
+
+Sn an   an  d    an  2d   ...  an   n  1 d 
+
+Adding equation 1 and equation 2, we get
+
+2Sn   a1  an    a1  an    a1  an   ...   a1  an .
+
+Sn n  a1  an  .
+Since there are n terms of the form a1  an , then 2
+16
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Dividing both sides by 2, we have
+Sn
+
+n
+ a1  an  .
+2
+
+Now, since we also know that an  a1   n  1 d, then by substitution,
+we have
+
+n a1   a1   n  1 d 
+
+n
+2a1  (n  1)d .
+2
+2
+Example 1: Find the sum of the first 10 terms of the arithmetic sequence
+5, 9, 13, 17, ...
+10
+Solution: 
+2  5   10  1
+S10
+ 4 230
+2 
+or S
+n
+
+PY
+
+S
+n
+
+C
+O
+
+Example 2: Find the sum of the first 20 terms of the arithmetic sequence
+2,  5,  8,  11, ...
+20
+Solution: S20  2  2   20  1 3  
+610
+2
+
+EP
+E
+
+D
+
+How did you find Activity 7? Did you learn many things about
+arithmetic sequences?
+
+D
+
+Learn more about arithmetic
+sequences through the web.
+You may open the following
+links:
+
+http://coolmath.com/algebra/19-sequencesseries/05-arithmetic-sequences-01.html
+http://www.mathisfun.com/algebra/sequencesseries.html
+http://www.mathguide.com/lessons/SequenceArit
+hmetic.html#identify
+
+17
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Your goal in this section is to apply the key concepts of arithmetic
+sequence. Use the mathematical ideas and the examples presented in
+the preceding section to answer the activities provided.
+Activity 9:
+
+C
+O
+
+EP
+E
+
+D
+
+1. 3, 7, 11, 15, 19
+2. 4, 16, 64, 256
+3. 48, 24, 12, 6, 3, ...
+4. 1, 4, 9, 16, 25, 36
+1
+1
+5. 1,
+, 0, 
+2
+2
+6. 2, 4,  8, 16, ...
+7. 1, 0, 1, 2, , 3
+1 1 1 1
+8.
+,
+,
+,
+, ...
+2 3 4 5
+x x
+9. 3 x, x,
+,
+, ...
+3 9
+10. 9.5, 7.5, 5.5, 3.5, ...
+
+PY
+
+Which of the following sequences is an arithmetic sequence? Why?
+
+Did you find it easy to determine whether a sequence is arithmetic
+or not? Were you able to give a reason why?
+
+D
+
+The next activity will assess your skill in using the nth term of an
+arithmetic sequence. You may start the activity now.
+
+Activity 10:
+
+Use the nth term of an arithmetic sequence an  a1   n  1 d to answer the
+following questions.
+1. Find the 25th term of the arithmetic sequence 3, 7, 11, 15, 19,...
+2. The second term of an arithmetic sequence is 24 and the fifth term is 3.
+Find the first term and the common difference.
+
+18
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+3. Give the arithmetic sequence of 5 terms if the first term is 8 and the
+last term is 100.
+1
+4. Find the 9th term of the arithmetic sequence with a1  10 and d   .
+2
+5. Find a1 if a8  54 and a9  60.
+6. How many terms are there in an arithmetic sequence with a common
+difference of 4 and with first and last terms 3 and 59, respectively?
+7. Which term of the arithmetic sequence is 18, given that a1  7 and
+
+a2  2?
+
+C
+O
+
+PY
+
+8. How many terms are in an arithmetic sequence whose first term is -3,
+common difference is 2, and last term is 23?
+9. What must be the value of k so that 5k  3, k  2, and 3k  11 will form
+an arithmetic sequence?
+10. Find the common difference of the arithmetic sequence with a4  10
+and a11  45.
+Did you find the activity challenging? The next activity is about
+finding arithmetic means. Remember the nth term of an arithmetic
+sequence.
+
+EP
+E
+
+Activity 11:
+
+D
+
+You may now do Activity 11.
+
+A. Insert the indicated number of arithmetic means between the given first
+and last terms of an arithmetic sequence.
+
+D
+
+1. 2 and 32
+2. 6 and 54
+3. 68 and 3
+4. 10 and 40
+1
+5.
+and 2
+2
+6. –4 and 8
+7. –16 and –8
+1
+11
+8.
+and
+3
+3
+9. a and b
+10. x  y and 4 x  2y
+
+[1]
+[3]
+[4]
+[5]
+[2]
+[3]
+[3]
+[4]
+[1]
+[2]
+
+19
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+B. Solve the following problems.
+1. The arithmetic mean between two terms in an arithmetic sequence
+is 39. If one of these terms is 32, find the other term.
+2. If five arithmetic means are inserted between 9 and 9, what is the
+third mean?
+3. What are the first and last terms of an arithmetic sequence when its
+arithmetic means are 35, 15, and 5?
+4. Find the value of x if the arithmetic mean of 3 and 3 x  5 is 8.
+5. Find the value of a when the arithmetic mean of a  7 and a  3 is
+
+PY
+
+3a  9.
+
+C
+O
+
+Did you find the nth term of an arithmetic sequence helpful in
+finding the arithmetic means?
+The next activity is about finding the sum of the terms of an
+arithmetic sequence. You may now proceed.
+Activity 12:
+
+D
+
+A. Find the sum of each of the following.
+
+D
+
+EP
+E
+
+1. integers from 1 to 50
+2. odd integers from 1 to 100
+3. even integers between 1 and 101
+4. first 25 terms of the arithmetic sequence 4, 9, 14, 19, 24, ...
+5. multiples of 3 from 15 to 45
+6. numbers between 1 and 81 which are divisible by 4
+7. first 20 terms of the arithmetic sequence –16, –20, –24, …
+8. first 10 terms of the arithmetic sequence 10.2, 12.7, 15.2, 17.7, …
+9. 1 + 5 + 9 + … + 49 + 53
+1 3 5
+17 19
+
+10.    ... 
+2 2 2
+2
+2
+
+B. The sum of the first 10 terms of an arithmetic sequence is 530. What is the
+first term if the last term is 80? What is the common difference?
+C. The third term of an arithmetic sequence is –12 and the seventh term is 8.
+What is the sum of the first 10 terms?
+
+20
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+D. Find the sum of the first 25 multiples of 8.
+E. Find the sum of the first 12 terms of the arithmetic sequence whose
+
+3n  5.
+general term is a
+n
+Were you able to answer Activity 12?
+In this section, you were provided with activities to assess your
+knowledge and skill in what you learned in the previous section.
+
+C
+O
+
+PY
+
+Now that you know the important ideas about arithmetic sequences,
+let us go deeper by moving to the next section.
+
+D
+
+Activity 13:
+Do each of the following.
+
+EP
+E
+
+1. Mathematically speaking, the next term cannot be determined by
+giving only the first finite number of terms of a general sequence.
+Explain this fact by giving an example.
+
+2. Make a concept map for arithmetic sequences.
+
+D
+
+3. Using the formula for arithmetic sequence, an  a1   n  1 d,
+give problems where the unknown value is (a) a1 , (b) an , (c) d
+
+and show how each can be found.
+
+4. What should be the value of x so that x + 2, 3x – 2, 7x – 12 will form an
+arithmetic sequence? Justify your answer.
+5. Find the value of x when the arithmetic mean of x + 2 and 4x + 5 is
+3x + 2.
+
+21
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+6. It is alarming that many people now are being infected by HIV. As the
+president of the student body in your school, you invited people to give
+a five-day series of talks on HIV and its prevention every first Friday of
+the month from 12 noon to 1 p.m. in the auditorium. On the first day, 20
+students came. Finding the talk interesting, these 20 students shared
+the talk to other students and 10 more students came on the second
+day, another 10 more students came on the third day, and so on.
+
+PY
+
+a. Assuming that the number of participants continues to increase in
+the same manner, make a table representing the number of
+participants from day 1 of the talk until day 5.
+
+C
+O
+
+b. Represent the data in the table using a formula. Use the formula to
+justify your data in the table.
+c. You feel that there is still a need to extend the series of talks, so
+you decided to continue it for three more days. If the pattern
+continues where there are 10 additional students for each talk, how
+many students in all attended the talk on HIV?
+
+D
+
+Were you able to accomplish the activity? How did you find it?
+
+EP
+E
+
+You may further assess your knowledge and skill by trying another
+activity.
+
+Try This:
+
+D
+
+After a knee surgery, your trainer tells you to return to your jogging
+program slowly. He suggests jogging for 12 minutes each day for the first
+week. Each week, thereafter, he suggests that you increase that time by 6
+minutes per day. On what week will it be before you are up to jogging 60
+minutes per day?
+Were you able to solve the problem?
+Now that you have a deeper understanding of the topic, you are
+now ready to do the tasks in the next section.
+
+22
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Your goal in this section is to apply what you learned to real-life
+situations. You will be given a task which will demonstrate your
+understanding of arithmetic sequences.
+
+PY
+
+Activity 14:
+In groups of five, create a well-developed Reality Series considering
+the following steps:
+
+EP
+E
+
+D
+
+C
+O
+
+1. Choose a real-life situation which involves arithmetic sequences. You
+could research online or create your own. Be sure to choose what
+interests your group the most to make your Reality Series not only
+interesting but also entertaining.
+2. Produce diagrams or pictures that will help others see what is taking
+place in the situation or the scenario that you have chosen.
+3. Prepare the necessary table to present the important data in your
+situation and the correct formula and steps to solve the problem.
+4. Show what you know about the topic by using concepts about
+arithmetic sequences to describe the situation. For example, show how
+to find the nth term of your arithmetic sequence or find the sum of the
+first n terms. Write your own questions about the situation and be
+ready with the corresponding answers.
+5. Present your own Reality Series in the class.
+
+D
+
+How did the task help you realize the importance of the topic in real life?
+
+23
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Rubric for the Written Report about Chosen Real-Life Situation
+
+4
+
+3
+
+2
+1
+
+PY
+
+5
+
+Descriptors
+The written report is completely accurate and logically
+presented/designed. It includes facts, concepts, and
+computations involving arithmetic sequences. The chosen reallife situation is very timely and interesting.
+The written report is generally accurate and the
+presentation/design reflects understanding of arithmetic
+sequences. Minor inaccuracies do not affect the overall results.
+The chosen real-life situation is timely and interesting.
+The written report is generally accurate but the
+presentation/design lacks application of arithmetic sequences.
+The chosen real-life situation is somehow timely and
+interesting.
+The written report contains major inaccuracies and significant
+errors in some parts. The chosen real-life situation is not timely
+and interesting.
+There is no written report made.
+
+C
+O
+
+Score
+
+Descriptors
+Oral presentation is exceptionally clear, thorough, fully
+supported with concepts and principles of arithmetic
+sequences, and easy to follow.
+Oral report is generally clear and reflective of students’
+personalized ideas, and some accounts are supported by
+mathematical principles and concepts of arithmetic sequences.
+Oral report is reflective of something learned; it lacks clarity and
+accounts have limited support.
+Oral report is unclear and impossible to follow, is superficial,
+and more descriptive than analytical.
+No oral report was presented.
+
+EP
+E
+
+Score
+
+D
+
+Rubric for the Oral Presentation
+
+5
+
+D
+
+4
+3
+2
+1
+
+24
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+SUMMARY/SYNTHESIS/GENERALIZATION
+This lesson is about arithmetic sequences and how they are illustrated
+in real life. You learned to:
+
+PY
+
+generate patterns;
+determine the nth term of a sequence;
+describe an arithmetic sequence, and find its nth term;
+determine the arithmetic means of an arithmetic sequence;
+find the sum of the first n terms of an arithmetic sequence; and
+solve real-life problems involving arithmetic sequence.
+
+D
+
+EP
+E
+
+D
+
+C
+O
+
+
+
+
+
+
+
+
+25
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Activity 1:
+
+C
+O
+
+PY
+
+The previous lesson focused on arithmetic sequences. In this
+lesson, you will also learn about geometric sequences and the process
+on how they are generated. You will also learn about other types of
+sequences.
+
+2,
+–3,
+
+3.
+
+1,
+
+4.
+5.
+6.
+
+–5,
+12,
+–49,
+1
+,
+4
+
+8
+9
+1
+2
+–10
+4
+7
+1
+2
+
+a2,
+
+a3
+
+k–1,
+3m,
+
+k
+3mr
+
+7.
+
+D
+
+8.
+9.
+10.
+
+EP
+E
+
+1.
+2.
+
+D
+
+Find the ratio of the second number to the first number.
+
+You need the concept of ratio in order to understand the next kind
+of sequence. We will explore that sequence in the next activity. Do the
+next activity now.
+
+26
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Activity 2:
+Do the activity with a partner. One of you will perform the paper folding
+while the other will do the recording in the table.
+1. Start with a big square from a piece of paper. Assume that the area of
+the square is 64 square units.
+2. Fold the four corners to the center of the square and find the area of
+the resulting square.
+3. Repeat the process three times and record the results in the table
+below.
+1
+
+2
+
+C
+O
+
+Area
+
+3
+
+PY
+
+Square
+
+EP
+E
+
+D
+
+1. What is the area of the square formed after the first fold? Second
+fold? Third fold?
+2. Is there a pattern in the areas obtained after 3 folds?
+3. You have generated a sequence of areas. What are the first 3
+terms of the sequence?
+4. Is the sequence an arithmetic sequence? Why?
+5. Using the pattern in the areas, what would be the 6th term of the
+sequence?
+The sequence 32, 16, 8, 4, 2, 1 is called a geometric sequence.
+
+D
+
+A geometric sequence is a sequence where each term after the first
+is obtained by multiplying the preceding term by a nonzero constant called the
+common ratio.
+
+The common ratio, r, can be determined by dividing any term in the
+sequence by the term that precedes it. Thus, in the geometric sequence
+1
+16 1
+32, 16, 8, 4, 2, ... , the common ratio is
+since
+ .
+2
+32 2
+The next activity will test whether you can identify geometric
+sequences or not.
+
+27
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Activity 3:
+State whether each of the following sequences is geometric or not.
+1. 5, 20, 80, 320, ...
+
+PY
+
+2. 7 2, 5 2, 3 2, 2,...
+3. 5, –10, 20, –40
+4. 1, 0.6, 0.36, 0.216, ...
+10 10 10 10
+5.
+,
+,
+,
+3
+6
+9 15
+6. 4, 0, 0, 0, 0…
+
+Activity 4:
+
+Form a group of 3 members and answer the guide questions using the table.
+
+Term
+
+Other Ways to Write the Terms
+In Exponential
+In Factored Form
+Form
+2
+
+2 x 30
+
+a3  18
+
+D
+
+a1  2
+
+C
+O
+
+Problem: What are the first 5 terms of a geometric sequence whose first term
+is 2 and whose common ratio is 3?
+
+2x3x3
+
+2 x 32
+
+a4  54
+
+2x3x3x3
+
+2 x 33
+
+a5  162
+
+2x3x3x3x3
+
+2 x 34
+
+2x3
+
+2 x 31
+
+EP
+E
+
+a2  6
+
+?
+
+D
+
+an
+
+1. Look at the two ways of writing the terms. What does 2 represent?
+2. For any two consecutive terms, what does 3 represent?
+3. What is the relationship between the exponent of 3 and the position of
+the term?
+4. If the position of the term is n, what must be the exponent of 3?
+5. What is an for this sequence?
+6. In general, if the first term of a geometric sequence is a1 and the
+common ratio is r, what is the nth term of the sequence?
+
+28
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+What did you learn in the activity? Given the first term a1 and the
+common ratio r of a geometric sequence, the nth term of a geometric
+sequence is an  a1r n -1.
+Example: What is the 10th term of the geometric sequence 8, 4, 2, 1, ...?
+9
+
+Solution:
+
+1
+ 1
+ 1  1
+
+
+Since
+r
+, then
+a10 8
+8 
+.
+
+
+
+2
+2
+ 512  64
+
+PY
+
+In the next activity, you will find the nth term of a geometric
+sequence, a skill that is useful in solving other problems involving
+geometric sequences. Do the next activity.
+Activity 5:
+
+C
+O
+
+A. Find the missing terms in each geometric sequence.
+3,
+
+12,
+
+48,
+
+__,
+
+__
+
+2.
+
+__,
+
+__,
+
+32,
+
+64,
+
+128,
+
+3.
+
+120,
+
+60,
+
+30,
+
+__,
+
+__,
+
+4.
+
+5,
+
+__,
+
+20,
+
+40,
+
+__,
+
+5.
+
+__,
+
+4,
+
+12,
+
+36,
+
+6.
+
+–2,
+
+__,
+
+__,
+
+7.
+
+256,
+
+__,
+
+D
+
+EP
+E
+
+D
+
+1.
+
+...
+
+__
+__
+
+__,
+
+__
+
+–16
+
+–32
+
+–64
+
+__,
+
+–32
+
+16,
+
+...
+
+8.
+
+27,
+
+9,
+
+__,
+
+__,
+
+9.
+
+1
+,
+4
+
+1
+3
+
+__,
+
+__,
+
+__,
+
+64,
+
+256
+
+10.
+
+5x2
+
+__,
+
+5x6
+
+5x8
+
+__ ,
+
+...
+
+B. Insert 3 terms between 2 and 32 of a geometric sequence.
+
+29
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Were you able to answer the activity? Which item in the activity did
+you find challenging? Let us now discuss how to find the geometric
+means between terms of a geometric sequence.
+Inserting a certain number of terms between two given terms of a
+geometric sequence is an interesting activity in studying geometric sequences.
+We call the terms between any two given terms of a geometric sequence the
+geometric means.
+
+PY
+
+Example: Insert 3 geometric means between 5 and 3125.
+Solution:
+
+Since a5  a1r 4 , then 3125  5r 4 .
+
+C
+O
+
+Let a1  5 and a5  3125. We will insert a2 , a3 , and a4 .
+
+Solving for the value of r, we get 625  r 4 or r  5.
+
+D
+
+We obtained two values of r, so we have two geometric sequences.
+
+EP
+E
+
+If r  5, the geometric means are
+a2  5  5   25,
+1
+
+a3  5  5   125, a4  5  5   625.
+2
+
+3
+
+Thus, the sequence is 5, 25, 125, 625, 3125.
+If r  5, then the geometric means are
+a2  5  5   25, a3  5  5   125, a4  5  5   625.
+
+D
+
+1
+
+2
+
+3
+
+Thus, the sequence is 5,  25, 125, 625, 3125.
+
+30
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+At this point, you already know some essential ideas about
+geometric sequences. Now, we will learn how to find the sum of the first
+n terms of a geometric sequence. Do Activity 6.
+
+Activity 6:
+Do the following with a partner.
+
+PY
+
+Part 1:
+
+Consider the geometric sequence 3, 6, 12, 24, 48, 96, ...
+What is the sum of the first 5 terms?
+
+Let S5  3  6  12  24  48.
+
+C
+O
+
+There is another method to get the sum of the first 5 terms.
+
+Multiplying both sides by the common ratio 2, we get
+
+D
+
+2S5 6  12  24  48  96
+
+EP
+E
+
+Subtracting 2S5 from S5 , we have
+
+S5  3  6  12  24  48
+
+  2S
+5
+
+ 96
+
+D
+
+
+ S5 3
+
+6  12  24  48  96 
+
+S5 
+93
+S5  93
+
+Try the method for the sequence 81, 27, 9, 3, 1, ... and find the sum of
+the first 4 terms.
+From the activity, we can derive a formula for the sum of the first n
+terms, Sn , of a geometric sequence.
+
+31
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Consider the sum of the first n terms of a geometric sequence:
+Sn  a1  a1r  a1r 2  ...  a1r n 1 (equation 1)
+Multiplying both sides of equation 1 by the common ratio r, we get
+(equation 2)
+rSn  a1r  a1r 2  a1r 3  ...  a1r n 1  a1r n
+Subtracting equation 2 from equation 1, we get
+
+a1r  a1r 2  ...  a1r n 1  a1r n
+
+ rS
+
+n
+
+
+
+equation 1
+equation 2
+
+PY
+
+
+
+Sn  a1  a1r  a1r 2  ...  a1r n 1
+
+__________________________________________
+ a1r n
+
+
+Sn  rSn a1
+
+Sn 1  r  a1 1  r n  .
+
+C
+O
+
+Factoring both sides of the resulting equation, we get
+
+Dividing both sides by 1 r , where 1 r  0, we get
+
+
+
+1 r
+
+ , r  1.
+
+D
+
+Sn
+
+
+a1 1  r n
+
+EP
+E
+
+Note that since an  a1r n 1, if we multiply both sides by r we get
+
+an  r   a1r n 1  r  or an r  a1r n .
+
+
+
+
+
+D
+
+a1 1  r n
+a arn
+Since
+
+Sn
+ 1 1 ,
+1 r
+1 r
+
+Then replacing a1r n by anr, we have
+a1  an r
+, r  1.
+Sn
+
+1 r
+What if r  1?
+If r  1, then the formula above is not applicable. Instead,
+Sn  a1  a1 1  a1 1  ...  a1 1
+2
+
+n 1
+
+ a1  a1  a1  ...  a1  na1.
+n terms
+
+32
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Example: What is the sum of the first 10 terms of 2  2  2  ...?
+Solution: 2  2  2  2  2  2  2  2  2  2  10  2  20
+
+What if r  1?
+If r  1 and n is even, then
+Sn  a1  a1  1  a1  1  a1  1  ...  a1  1
+3
+
+ a1  a1  a1  a1  ...  a1  a1
+
+  a1  a1    a1  a1   ...   a1  a1 
+
+C
+O
+
+0
+
+n 1
+
+PY
+
+2
+
+However, if r  1 and n is odd, then
+
+Sn  a1  a1  1  a1  1  a1  1  ...  a1  1
+2
+
+3
+
+n 1
+
+ a1  a1  a1  a1  ...  a1  a1  a1
+
+D
+
+  a1  a1    a1  a1   ...   a1  a1   a1
+
+EP
+E
+
+ a1
+
+
+
+ a1 1  r n
+
+To summarize, Sn   1  r
+
+na1,
+
+ or a  a r ,
+1
+
+n
+
+1 r
+
+if r  1
+if r  1
+
+D
+
+In particular, if r  1, the sum Sn simplifies to
+0 if n is even
+Sn  
+a1 if n is odd
+
+Example 1: What is the sum of the first 10 terms of 2  2  2  2  ...?
+Solution: Since r  1 and n is even, then the sum is 0.
+Example 2: What is the sum of the first 11 terms of 2  2  2  2  ...?
+Solution: Since r  1 and n is odd, then the sum is 2.
+
+33
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Example 3: What is the sum of the first five terms of 3, 6, 12, 24, 48, 96,...?
+Solution: Since a1  3, r  2, and n  5, then the sum is
+S5 
+
+
+
+3 1  25
+1 2
+
+  3  31  93.
+1
+
+Alternative Solution: Using Sn 
+
+S5 
+
+3   48  2 
+1 2
+
+
+
+a1  an r
+, let a1  3, a5  48, and r  2. Then
+1 r
+
+3  96 93
+
+ 93.
+1
+1
+
+PY
+
+Part 2:
+
+If we use the formula Sn 
+
+1
+
+1
+2
+
+1 r
+
+ , then
+
+1 1 1
+
+n
+ 1 1  1 n 
+2 2  2 
+ 1
+
+ 2       1   .
+1
+2
+ 2 2  2  
+2
+n
+
+EP
+E
+
+Sn 
+
+
+
+a1 1  r n
+
+D
+
+1   1 
+1 
+
+2   2  
+n
+
+C
+O
+
+Is it possible to get the sum of an infinite number of terms in a
+geometric sequence?
+1 1 1 1
+Consider the infinite geometric sequence , , ,
+, ...
+2 4 8 16
+
+D
+
+The first five values of Sn are shown in the table below.
+n
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Sn
+
+1
+2
+
+3
+4
+
+7
+8
+
+15
+16
+
+31
+32
+
+What happens to the value of Sn as n gets larger and larger?
+
+Observe that Sn approaches 1 as n increases, and we say that S = 1.
+To illustrate further that the sum of the given sequence is 1, let us
+1 1 1 1
+show the sum of the sequence   
+ ... on a number line, adding
+2 4 8 16
+one term at a time:
+
+34
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+1 1 1 1
+  
+ ...  1.
+2 4 8 16
+
+What does this tell us? Clearly,
+
+Recall that Sn 
+
+
+
+a1 1  r n
+
+PY
+
+We call the sum that we got as the sum to infinity. Note that the
+1
+common ratio in the sequence is , which is between –1 and 1. We will now
+2
+derive the formula for the sum to infinity when 1  r  1.
+
+  a  a r . Suppose that  1  r  1. As
+1
+
+1
+
+n
+
+D
+
+formula
+
+C
+O
+
+1 r
+1 r 1 r
+the number of terms becomes larger, that is, as n approaches infinity, then r n
+arn
+approaches 0. Thus, the sum of the terms of an
+approaches 0, and 1
+1 r
+infinite geometric sequence a1, a1r , a1r 2,... , where 1  r  1, is given by the
+
+a1
+.
+1 r
+
+EP
+E
+
+S
+
+This formula is also known as the sum to infinity.
+
+1 1 1 1
+, , ,
+,...?
+2 4 8 16
+1
+1
+1
+Solution: Since a1 
+and r  , then S  2  1.
+1
+2
+2
+1
+2
+1 1
+Example 2: What is the sum to infinity of 3  1    ...?
+3 9
+3
+9
+1
+ .
+Solution: Since a1  3 and r   , then S 
+ 1 4
+3
+1   
+ 3
+
+D
+
+Example 1: What is the sum to infinity of
+
+35
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+You have already learned how to find the sum of the terms of an
+infinite geometric sequence, where r  1, that is, 1  r  1. What if r  1,
+that is, r  1 or r  1? Let us find out by performing the next activity.
+Part 3:
+Consider the infinite geometric sequence 2, 4, 8, 16, 32, 64, ...
+Complete the table below by finding the indicated partial sums. Answer the
+questions that follow.
+
+S2
+
+S3
+
+S4
+
+S5
+
+C
+O
+
+PY
+
+S1
+
+1. What is the common ratio of the given sequence?
+
+2. What happens to the values of Sn as n increases?
+
+D
+
+3. Does the given infinite sequence have a finite sum?
+Note that if r  1, the values of Sn are not guaranteed to approach a
+
+EP
+E
+
+finite number as n approaches infinity.
+Consider the infinite geometric sequence 5, –25, 125, –625,…
+Complete the table below by finding the indicated partial sums. Answer the
+questions that follow.
+
+S2
+
+S3
+
+S4
+
+S5
+
+D
+
+S1
+
+1. What is the common ratio of the given sequence?
+2. What happens to the values of Sn as n increases?
+3. Does the given sequence have a finite sum?
+
+36
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Note that if r  1, the values of Sn are not guaranteed to approach a
+finite number.
+The
+
+above
+
+activities
+
+indicate
+
+that
+
+whenever
+
+r  1, that is,
+
+r  1 or r  1, the sum of the terms of an infinite geometric sequence does
+not exist.
+Did you learn many things about geometric sequences?
+
+PY
+
+Activity 7:
+
+C
+O
+
+Determine whether each sequence is arithmetic, geometric, or neither. If the
+sequence is arithmetic, give the common difference; if geometric, give the
+common ratio.
+
+EP
+E
+
+D
+
+1. 6, 18, 54, 162, ...
+2. 4, 10, 16, 22, ...
+3. 1, 1, 2, 3, 5, 8, ...
+4. 625, 125, 25, 5, …
+1 1 1 1
+5. , , , , ...
+2 4 6 8
+6. 5, 8, 13, 21, 34, ...
+7. –1296, 216, –36, 6, …
+8. 8.2, 8, 7.8, 7.6, ...
+1
+1
+1
+1
+,  , ...
+9.  ,  , 
+42
+35
+28
+21
+
+D
+
+10. 11, 2,  7,  16, ...
+
+The sequences in numbers 3, 5, 6, and 9 are neither arithmetic nor
+
+geometric. The sequences in numbers 5 and 9 which are 1 , 1 , 1 , 1 , ... and
+
+
+2 4 6 8
+1
+1
+1
+1
+, 
+, 
+, 
+, ...
+, respectively, are called harmonic sequences
+42
+35
+28
+21
+
+while the sequences in numbers 3 and 6 which are 1, 1, 2, 3, 5, 8, ... and
+5, 8, 13, 21, 34, ... , respectively, are parts of what we call a Fibonacci
+sequence. These are other types of sequences.
+
+37
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+What is a harmonic sequence?
+A harmonic sequence is a sequence such that the reciprocals of the
+terms form an arithmetic sequence.
+If we take the reciprocals of the terms of the harmonic sequence
+1 1 1 1
+, , , , ... then the sequence becomes 2, 4, 6, 8, ... which is an
+2 4 6 8
+1 1 1 1
+arithmetic sequence. What is the next term in the sequence , , , ,..?
+2 4 6 8
+
+PY
+
+Example 1: Given the arithmetic sequence 20,  26,  32,  38, ... ,
+find the first 8 terms of the corresponding harmonic sequence.
+
+C
+O
+
+Solution: Completing the 8 terms of the given sequence, we have
+20,  26,  32,  38,  44,  50,  56,  62.
+Therefore, the first 8 terms of the harmonic sequence are
+1
+1
+1
+1
+1
+1
+1
+1
+ , 
+, 
+, 
+, 
+, 
+, 
+, 
+.
+20
+26
+32
+38
+44
+50
+56
+62
+
+1
+3
+, 1, , 2, ... ,
+2
+2
+find the 10th term of the corresponding harmonic sequence.
+
+EP
+E
+
+D
+
+Example 2: Given the arithmetic sequence
+
+Solution: Getting the 10th term of the given sequence which is 5, then the
+1
+10th term of the harmonic sequence is .
+5
+
+D
+
+What is a Fibonacci sequence?
+
+A Fibonacci sequence is a sequence where its first two terms are
+either both 1, or 0 and 1; and each term, thereafter, is obtained by adding the
+two preceding terms.
+What is the next term in the Fibonacci sequence 0, 1, 1, 2, 3, 5, ...?
+Example: Given the Fibonacci sequence 5, 8, 13, 21, 34, ... ,
+find the next 6 terms.
+
+38
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Solution: Since each new term in a Fibonacci sequence can be obtained by
+adding its two preceding terms, then the next 6 terms are 55, 89, 144, 233,
+377, and 610.
+You are now acquainted with four kinds of sequences: arithmetic,
+geometric, harmonic, and Fibonacci.
+http://coolmath.com/algebra/19-sequencesseries/07-geometric-sequences-01.html
+
+http://www.mathisfun.com/algebra/sequencesseries-sums-geometric.html
+http://www.mathguide.com/lessons/SequenceG
+eometric.html
+
+C
+O
+
+Learn more about geometric,
+harmonic, and Fibonacci
+sequences through the web.
+You may open the following
+links:
+
+PY
+
+http://coolmath.com/algebra/19-sequencesseries/08-geometric-series-01.html
+
+csexcelgroup.tripod.com
+
+EP
+E
+
+D
+
+www.mathisfun.com/numbers/fibonaccisequence.html
+
+Your goal in this section is to apply the key concepts of geometric
+sequences. Use the mathematical ideas and the examples presented in the
+preceding section to answer the activities provided.
+Activity 8:
+
+D
+
+State whether the given sequence is arithmetic, geometric, harmonic, or part
+of a Fibonacci. Then, give the next term of the sequence.
+1. 8, 16, 24, 32, ...
+2.
+
+1 1
+1
+1
+,
+,
+,
+, ...
+3 9 27 81
+
+3. 1296, 216, 36, 6, ...
+4. 8, 13, 21, 34, 55, ...
+39
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+5.
+
+3
+5 3
+, 1, , , ...
+4
+4 2
+
+6.
+
+1
+1
+1
+1
+,
+,
+,
+, ...
+24 20 16 12
+
+6 6
+6
+6
+,
+,
+,
+, ...
+11 17 23 29
+
+9.
+
+6,  18, 54,  162, ...
+
+10. 40, 8,
+
+8 8
+,
+, ...
+5 25
+
+C
+O
+
+8.
+
+PY
+
+7. 2 2, 5 2, 8 2, 11 2, ...
+
+Was it easy for you to determine which sequence is arithmetic,
+geometric, harmonic, or Fibonacci? Were you able to give the next term?
+
+EP
+E
+
+Activity 9:
+
+D
+
+The next activity will assess your skill in using the nth term of a
+geometric sequence. You may start the activity now.
+
+n 1
+Use the nth term of a geometric sequence an  a1r
+to answer the following
+
+questions.
+
+3 3
+, , 15,... ?
+20 2
+2. Find the sixth term of a geometric sequence where the second term is
+6 and the common ratio is 2.
+3. Find k so that the terms k  3, k  1, and 4k  2 form a geometric
+sequence.
+4. In the geometric sequence 6, 12, 24, 48, ..., which term is 768?
+3
+5. The second term of a geometric sequence is
+and its fourth term is 3.
+4
+What is the first term?
+
+D
+
+1. What is the 5th term of the geometric sequence
+
+The next activity is about finding the geometric means. Always
+remember the nth term of a geometric sequence.
+You may now proceed to Activity 10.
+
+40
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Activity 10:
+A. Find the indicated number of geometric means between each pair of
+numbers.
+1. 16 and 81
+2. 256 and 1
+3. –32 and 4
+1
+64
+4.
+and
+3
+3
+5. 2xy and 16xy4
+
+[3]
+[3]
+[2]
+[1]
+
+PY
+
+[2]
+
+C
+O
+
+B. The geometric mean between the first two terms in a geometric sequence
+is 32. If the third term is 4, find the first term.
+C. Insert a geometric mean between k and
+
+1
+.
+k
+
+D
+
+D. If 2 and 3 are two geometric means between m and n, find the values of m
+and n.
+
+EP
+E
+
+E. Three positive numbers form a geometric sequence. If the geometric
+mean of the first two numbers is 6 and the geometric mean of the last two
+numbers is 24, find the three numbers and their common ratio.
+Was knowing the nth term of a geometric sequence helpful in
+finding geometric means?
+
+D
+
+The next activity is about finding the sum of the first n terms of a
+geometric sequence. You may now proceed.
+
+41
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Activity 11:
+A. For each given geometric sequence, find the sum of the first:
+1. 5 terms of 4, 12, 36, 108, ...
+2. 6 terms of 3, –6, 12, –24, …
+3. 6 terms of –3, 3, –3, 3, …
+4. 7 terms of –3, 3, –3, 3, …
+
+3 3 3 3
+, , , , ...
+4 4 4 4
+
+PY
+
+5. 8 terms of
+
+1. 64, 16, 4, 1, ...
+2.
+
+1 1 1 1
+, ,
+,
+,...
+3 9 27 81
+
+2 1
+, , ...
+3 9
+
+EP
+E
+
+4. 24, 4,
+
+D
+
+1
+1
+3. 4,  1,  ,  , ...
+4
+16
+
+C
+O
+
+B. Find the sum to infinity of each geometric sequence, if it exists.
+
+5. 1, 2, 2, 2 2, ...
+
+C. Find the sum of the terms of a geometric sequence where the first term is
+4, the last term is 324, and the common ratio is 3.
+
+D
+
+D. The sum to infinity of a geometric sequence is twice the first term. What is
+the common ratio?
+
+42
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Activity 12:
+Do the following.
+1. Create a concept web for geometric sequences.
+
+PY
+
+2. Compare and contrast arithmetic and geometric sequences using a
+two-column chart.
+
+C
+O
+
+3. Given the geometric sequence 1, 2, 4, 8, 16, 32, …., think of a simple
+real-life situation which represents this sequence (group activity
+through “Power of Four”).
+4. Find the value of x so that x  2, 5x  1, x  11 will form a geometric
+sequence. Justify your answer. Find the sum of the first 10 terms of the
+given sequence.
+
+D
+
+5. Find the value of x if the geometric mean of 2x and 19x – 2 is 7x – 2.
+
+D
+
+EP
+E
+
+6. The World Health Organization (WHO) reported that about 16 million
+adolescent girls between 15 and 19 years of age give birth each year.
+Knowing the adverse effects of adolescent childbearing on the health
+of the mothers as well as their infants, a group of students from
+Magiting High School volunteered to help the government in its
+campaign for the prevention of early pregnancy by giving lectures to 7
+barangays about the WHO Guidelines on teenage pregnancy. The
+group started in Barangay 1 and 4 girls attended the lecture. Girls from
+other barangays heard about it, so 8 girls attended from Barangay 2,
+16 from Barangay 3, and so on.
+a. Make a table representing the number of adolescent girls who
+attended the lecture from Barangay 1 to Barangay 7 assuming that
+the number of attendees doubles at each barangay.
+
+b. Analyze the data in the table and create a formula. Use the formula
+to justify your data in the table.
+
+43
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+PY
+
+c. Because people who heard about the lecture given by the group
+thought that it would be beneficial to them, five more different
+barangays requested the group to do the lectures for them. If the
+number of young girls who will listen to the lecture from these five
+barangays will increase in the same manner as that of the first 7
+barangays, determine the total number of girls who will benefit from
+the lecture.
+
+Do the following by group.
+
+C
+O
+
+Activity 13:
+
+EP
+E
+
+D
+
+Imagine that you were one of the people in the Human Resource
+group of a fast growing company in the Philippines. All of you were asked
+by the management to create a salary scheme for a very important job
+that the company would offer to the best IT graduates this year. The
+management gave the salary range good for 2 years, telling everyone in
+your group that whoever could give a salary scheme that would best
+benefit both the employer and the would-be employees would be given
+incentives.
+
+D
+
+1. Form groups of 5. In your respective groups, make use of all the
+concepts you learned on geometric sequences considering the starting
+salary, the rate of increase, the time frame, etc. in making different
+salary schemes and in deciding which one will be the best for both the
+employer and the would-be employees.
+2. Prepare a visual presentation of your chosen salary scheme with the
+different data that were used, together with the formulas and all the
+computations done. You may include one or two salary schemes that
+you have prepared in your group for comparison.
+3. In a simulated board meeting, show your visual presentation to your
+classmates who will act as the company’s human resource
+administrative officers.
+
+44
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Rubric for the Chosen Salary Scheme and Visual Presentation
+Descriptors
+
+5
+
+The salary scheme and visual presentation are completely
+accurate and logically presented/designed including facts,
+concepts, and computation involving geometric sequences.
+The scheme is advantageous to both employer and
+employees.
+
+4
+
+The salary scheme and visual presentation are generally
+accurate and the presentation/design reflects understanding
+of geometric sequences. Minor inaccuracies do not affect the
+overall results. The scheme is advantageous to both
+employer and employees.
+
+3
+
+The salary scheme and visual presentation are generally
+accurate but the presentation/design lacks application of
+geometric sequences. The scheme is a little bit favorable to
+the employer.
+
+2
+
+The salary scheme and visual presentation contain major
+inaccuracies and significant errors in some parts. One
+cannot figure out which scheme is advantageous.
+
+1
+
+There are no salary scheme and visual presentation made.
+
+D
+
+C
+O
+
+PY
+
+Score
+
+EP
+E
+
+Rubric for Presentation
+Score
+
+Descriptors
+
+5
+
+Presentation is exceptionally clear, thorough, fully supported
+with concepts and principles of geometric sequences, and
+easy to follow.
+
+3
+
+Presentation is reflective of something learned; lacks clarity
+and accounts have limited support.
+
+2
+
+Presentation is unclear and impossible to follow, is
+superficial, and more descriptive than analytical.
+
+1
+
+No presentation.
+
+D
+4
+
+Presentation is generally clear and reflective of students’
+personalized ideas, and some accounts are supported by
+mathematical principles and concepts of geometric
+sequences.
+
+45
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Summary/Synthesis/Generalization
+This lesson was about geometric sequences and other types of sequences.
+You learned to:
+
+PY
+
+distinguish between arithmetic and geometric sequences;
+recognize harmonic and Fibonacci sequences;
+describe a geometric sequence, and find its nth term;
+determine the geometric means between two terms;
+find the sum of the terms of a geometric sequence; and
+solve real-life problems involving geometric sequences.
+
+D
+
+EP
+E
+
+D
+
+C
+O
+
+
+
+
+
+
+
+
+46
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+GLOSSARY OF TERMS
+Arithmetic Means – terms m1, m2, ..., mk between two numbers a and b
+such that a, m1, m2, ..., mk , b is an arithmetic sequence
+
+Arithmetic Sequence – a sequence where each term after the first is
+obtained by adding the same constant
+
+PY
+
+Common Difference – a constant added to each term of an arithmetic
+sequence to obtain the next term of the sequence
+Common Ratio – a constant multiplied to each term of a geometric sequence
+to obtain the next term of the sequence
+
+C
+O
+
+Fibonacci Sequence – a sequence where its first two terms are either both
+1, or 0 and 1; and each term, thereafter, is obtained by adding the two
+preceding terms.
+Finite Sequence – a function whose domain is the finite set 1, 2, 3, ..., n
+
+D
+
+Geometric Means – terms m1, m2, ..., mk between two numbers a and b
+
+EP
+E
+
+such that a, m1, m2, ..., mk , b is a geometric sequence.
+Geometric Sequence – a sequence where each term after the first is
+obtained by multiplying the preceding term by the same constant
+
+D
+
+Harmonic Sequence – a sequence such that the reciprocals of the terms
+form an arithmetic sequence
+Infinite Sequence – a function whose domain is the infinite set {1, 2, 3, …}
+
+Sequence (of real numbers) – a function whose domain is the finite set
+{1, 2, 3, …, n} or the infinite set {1, 2, 3, …}
+Term - any number in a sequence
+
+47
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+REFERENCES AND WEBSITE LINKS USED IN THIS MODULE:
+References:
+Coronel, Iluminada C. et al. Intermediate Algebra. Bookmark, 2003
+De Sagun, Priscila C. Dynamic Math III. Diwa Scholastic Press, Inc., 1999
+Hall, Bettye C. and Fabricant, Mona. Algebra 2 with Trigonometry. Prentice
+Hall, New Jersey, 1993
+Insigne, Ligaya G. et al. Intermediate Algebra. Bookman Inc., 2003
+
+PY
+
+Larson, Roland E. and Hostetler, Robert P. Precalculus, 3rd edition.
+D.C. Heath and Company, 1993
+
+Leithold, Louis. College Algebra and Trigonometry. Addison-Wesley
+Publishing Company, Inc., 1989
+
+C
+O
+
+Oronce, Orlando A. and Mendoza, Marilyn O. Exploring Mathematics II. Rex
+Bookstore, Inc., 2003
+Swokowski, Earl W. and Cole, Jeffery A. Algebra and Trigonometry with
+Analytic Geometry, 10th edition. Brooks/Cole, 2002
+Teaching Mathematics III Volume 2. Philippines-Australia Science and
+Mathematics Project, 1992
+
+D
+
+Vance, Elbridge P. Modern College Algebra, 3rd edition. Addison-Wesley
+Publishing Co. Inc., 1975
+
+EP
+E
+
+Website Links as References and as Sources of Learning Activities:
+http://regentsprep.org
+
+http://teacherweb.com/tweb
+www.doe.virginia.gov
+
+D
+
+http://www.who.int/topics/en/
+
+http://coolmath.com/algebra/19-sequences-series/05-arithmetic-sequences01.html
+http://www.mathisfun.com/algebra/sequences-series.html
+http://www.mathguide.com/lessons/SequenceArithmetic.html#identify
+http://coolmath.com/algebra/19-sequences-series/07-geometric-sequences01.html
+http://coolmath.com/algebra/19-sequences-series/08-geometric-series-01.html
+http://www.mathisfun.com/algebra/sequences-series-sums-geometric.html
+http://www.mathguide.com/lessons/SequenceGeometric.html
+
+48
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+I. INTRODUCTION
+
+D
+
+EP
+E
+
+D
+
+C
+O
+
+PY
+
+In Grade 9, you learned about quadratic equations. This module on
+polynomial equations will extend what you learned in Grade 9.
+
+Some real-life situations require the application of polynomials.
+For example, engineers can use polynomials to create building plans and
+entrepreneurs can use polynomials to design cost-effective products.
+
+49
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+By the end of this module, you are expected to be able to solve
+polynomial equations. Before that, you need to learn first the basic
+concepts related to polynomial equations.
+
+II. LESSONS AND COVERAGE
+In this module, the following lessons will be discussed:
+Lesson 1 – Division of Polynomials
+Lesson 2 – The Remainder Theorem and the Factor Theorem
+
+PY
+
+Lesson 3 – Polynomial Equations
+In these lessons, you will learn to:
+
+ perform long division and synthetic division on
+polynomials
+
+Lesson 2
+
+ prove the Remainder Theorem and the Factor Theorem
+ factor polynomials
+illustrate polynomial equations
+prove the Rational Roots Theorem
+solve polynomial equations
+solve problems involving polynomials and polynomial
+equations
+
+D
+
+
+
+
+
+
+EP
+E
+
+Lesson 3
+
+C
+O
+
+Lesson 1
+
+D
+
+Polynomials and Polynomial Equations
+
+Long
+Division
+
+Division of
+Polynomials
+
+Remainder Theorem
+Rational Root
+Theorem
+
+Synthetic
+Division
+
+Remainder Theorem
+
+Polynomial
+Equations
+
+Factoring
+Polynomials
+
+Problems Involving Polynomials and Polynomial Equations
+
+50
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+III. PRE-ASSESSMENT
+Part I
+Let us find out first what you already know about the content of this
+module. Try to answer all items. Take note of the items/questions that you
+were not able to answer correctly and revisit them as you go through this
+module for self-correction.
+1. Which of the following is a polynomial?
+
+A. i only
+B. ii only
+
+PY
+
+iii.
+
+4x3 + 9x – 5x2 + 7
+2x-5 + x-2 + x-3 + 2x + 5
+1
+2
+x  3x  6
+C. i and ii
+D. i and iii
+
+C
+O
+
+i.
+ii.
+
+2. The following are examples of polynomials, EXCEPT
+A. x2 – 4x + 5
+C. 3x4 – 5x3 + 2x – 1
+-3
+-2
+B. 4x + 8x + 10x – 7
+D. x3 – y3
+
+EP
+E
+
+D
+
+3. The leading coefficient of the polynomial 5x10 + 4x12 + 4x6 + x4 – x is
+A. 4
+C. 10
+B. 5
+D. 12
+4. What is the quotient when x2 – 25 is divided by x – 5?
+C. x + 5
+A. x – 5
+B. x – 25
+D. x + 25
+
+D
+
+For items 5 to 8, use the illustration on long division that follows:
+Divide (5x2 + 14x – 24) by (x + 4).
+
+5x  6
+
+x  4 5 x 2  14 x  24
+5x 2  20 x
+ 6 x  24
+6 x  24
+0
+
+2nd line
+
+51
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+C. – 6
+D. 0
+
+6. Which is the divisor?
+A. x + 4
+B. 5x – 6
+
+C. 5x2 + 14x – 24
+D. 0
+
+7. Which is the quotient?
+A. x + 4
+B. 5x – 6
+
+C. 5x2 + 14x – 24
+D. 0
+
+PY
+
+5. What is the remainder?
+A. 5x – 6
+B. x + 4
+
+C
+O
+
+8. What is the process used to obtain the 2nd line?
+A. Subtracting 5x from (x + 4)
+C. Adding 5x to (x + 4)
+B. Dividing 5x by (x + 4)
+D. Multiplying 5x by (x + 4)
+
+D
+
+9. Which expression gives the remainder when P(x) = 4x2 + 2x – 5 is
+divided by x – 2?
+A. P(–5)
+C. P(2)
+5
+B. P(–2)
+D. P 
+4
+
+EP
+E
+
+10. Find the remainder when (x9 + 2x8 + 3x7 +…+ 9x) is divided by (x – 1).
+A. 45
+C. 180
+B. 90
+D. 360
+
+D
+
+11. What is the remainder when (5x100 + 5) is divided by (x – 1)?
+A. 5
+C. –5
+B.10
+D. –10
+12. The remainder after dividing (–10x3 + 5x2 + K) by (x + 1) is 4. Which of
+the following is the value of K?
+A. 9
+C. –19
+B. 19
+D. –11
+
+13. Which of the following polynomials is exactly divisible by (3x + 1)?
+A. 6x2 + 17x + 5
+C. 3x3 + 4x2 – 8x – 3
+B. 9x2 + 6x + 1
+D. all of the above
+
+52
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+14. Which of the following is the factored form of x3 + 3x2 – 10x – 24?
+C. (x – 4)(x – 3)(x + 2)
+A. (x + 4)(x – 3)(x + 2)
+B. (x – 4)(x – 3)(x – 2)
+D. (x + 4)(x + 3)(x – 2)
+15. Which polynomial gives a quotient of (3x2 + 2x + 4) and a remainder of
+19 when divided by (2x – 3)?
+A. 6x3 – 5x2 + 2x
+C. 6x3 – 5x2 + 2x + 7
+B. 6x3 – 5x2 + 4x + 7
+D. 6x3 + 5x2 + 2x + 7
+
+PY
+
+16. What is the quotient when (2x4 + 4x3 – 5x2 + 2x – 3) is divided by
+(2x2 + 1)?
+A. x2 + 2x – 3
+C. x2 – 2x – 3
+B. x2 – 2x + 3
+D. x2 + 2x + 3
+
+C
+O
+
+17. Find the value of k so that (x + 2) is a factor of 3x3 + kx2 + 5x – 27.
+61
+A. 4
+C.
+4
+4
+B.
+D. 61
+61
+
+EP
+E
+
+D
+
+18. Find k so that (x – 2) is a factor of x3 + kx – 4.
+A. –3
+C. –1
+B. –2
+D. 0
+C. (2x + 9)( 4x2 + 18x + 81)
+D. (2x – 9)( 4x2 + 18x + 81)
+
+20. Factor P(x) = x4 + x3 + x2 + x.
+A. x(x + 1)(x2 + 1)
+B. x(1)(x2 + 1)
+
+C. x(x – 1)(x2 + 1)
+D. x(–1)(x2 + 1)
+
+D
+
+19. Factor 8x3 – 729 completely.
+A. (2x – 9)(4x2 – 18x + 81)
+B. (2x + 9)(4x2 – 18x + 81)
+
+21. Below is the solution when P(x) = (x3 + 6x2 + 2x – 12) is divided by
+(x + 2).
+–2
+
+1
+1
+
+6
+–2
+4
+
+53
+
+2
+–8
+–6
+
+–12
+12
+0
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Express the third row as a polynomial in x.
+C. x2 + 4x + 6
+A. x2 – 4x – 6
+B. x2 – 4x + 6
+D. x2 + 4x – 6
+22. If (7x4 – 5x5 – 7x3 + 2x – 3) is divided by (x + 3) using synthetic division,
+the numbers in the first row would be
+A. –5 7 –7 0 2 –3
+C. 1 7 –7 0 2 –3
+B. –7 –7 –5 0 2 –3
+D. –3 7 –7 0 2 –5
+
+PY
+
+23. Given P(x) = 2x3 + 3x2 – 5x – 12. What is the value of P(3)?
+A. 56
+C. 54
+B. 55
+D. 53
+
+5
+
+–16
+
+4
+
+–3
+
+5
+
+10
+–6
+
+–12
+–8
+
+–16
+–19
+
+D
+
+2
+
+C
+O
+
+24. Gabriel used synthetic division to find the quotient if
+(5x2 – 16x + 4x3 – 3) is divided by (x – 2). He obtained –19 as
+remainder. His solution is shown below.
+
+D
+
+EP
+E
+
+What is the error?
+i. The sign of the divisor was not changed.
+ii. The terms of the polynomial were not arranged according
+to decreasing powers of x.
+iii. The sum entries in the third row are incorrect.
+iv. The numerical coefficients of the first row were not
+properly written.
+
+A. i only
+B. ii only
+
+C. ii and iv only
+D. i and iii only
+
+25. Genber will evaluate an 8th degree polynomial in x at x = 10 using the
+Remainder Theorem and synthetic division. How many coefficients of x
+will be written in the first row of the synthetic division procedure?
+A. 8
+C. 10
+B. 9
+D. 11
+
+54
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+26. Which of the following is NOT a root of
+x(x + 3)(x + 3)(x – 1)(2x + 1) = 0?
+i. 0
+iii. –1
+1
+ii. –3
+iv.
+2
+A. i only
+C. i and ii only
+B. ii only
+D. iii and iv only
+
+PY
+
+27. Find a cubic polynomial equation with roots –2, 2, and 4.
+C. 10x3 – x2 – x + 16 = 0
+A. x3 + 4x2 – 4x + 16 = 0
+D. x3– 4x2 – 4x + 16 = 0
+B. x3 – 4x2 – x + 16 = 0
+
+C
+O
+
+28. How many positive real roots does x4 – x3 – 11x2 + 9x + 18 = 0 have?
+A. 0
+C. 2
+B. 1
+D. 3
+
+EP
+E
+
+D
+
+29. One of the roots of the polynomial equation 2x3 + 9x2 – 33x + 14 = 0
+is 2. Find the other roots.
+1
+1
+and 7
+C.
+and –7
+A.
+2
+2
+1
+1
+B. – and 7
+D. – and –7
+2
+2
+30. If P(– 2) = 0, which of the following statements is true about P(x)?
+A. x + 2 is a factor of P(x)
+C. P(x) = 0, has two negative roots
+B. 2 is root of P(x) = 0
+D. P(0) = – 2
+
+D
+
+Part II
+
+Read and analyze the situation below. Then, answer the questions or perform
+the tasks that follow.
+Your City Government Projects Office provides guidance and
+training for local governments, including municipalities or regional
+mobility authorities in the development of transportation projects. One of
+its current projects involves the construction of recreational facilities for
+the city’s residents.
+
+55
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Suppose you were one of the engineers of the said project and your
+job was to renovate/improve the walkway, patio, and driveway. After your
+ocular inspection, you noticed that a rectangular floor measuring (10 m
+by 14 m) needed to be fixed. Likewise, your plan is to put brick paves to
+ensure that the walkway is strong and durable.
+Consider the following:
+
+Rubric for Rating the Output
+
+The problem is properly modelled with appropriate
+mathematical concepts used in the solution and a
+correct final answer is obtained.
+
+EP
+E
+
+4
+
+Descriptors
+
+D
+
+Score
+
+C
+O
+
+PY
+
+1. Each piece of brick pave is a square with an edge of 50 cm. How many
+pieces of brick paves will be needed to cover the rectangular floor that
+needs fixing?
+2. If one bag of adhesive cement for brick paves can cover 10 sq. m, how
+many bags of adhesive cement will be needed?
+3. Make a model to illustrate the situation with appropriate mathematical
+solutions.
+
+2
+
+The problem is not properly modelled, other
+alternative mathematical concepts are used in the
+solution, and the correct final answer is obtained.
+
+D
+
+3
+
+The problem is properly modelled with appropriate
+mathematical concepts partially used in the solution
+and a correct final answer is obtained.
+
+1
+
+The problem is not properly modelled by the solution
+presented and the final answer is incorrect.
+
+IV. LEARNING GOALS AND TARGETS
+After going through this module, you should be able to demonstrate
+understanding of key concepts of polynomials and polynomial equations and
+formulate and solve problems involving these concepts through appropriate
+and accurate representations.
+
+56
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+PY
+
+In this lesson, you will recall operations on polynomials with
+emphasis on division.
+Activity 1:
+
+C
+O
+
+Look at each pair of expressions below. Identify the expression that is not a
+polynomial from each. Give reasons for your answers.
+A
+
+2
+
+2. x-3 + 2x2 – 7
+3. 2 x
+1
+2
+
+D
+
+1. 2x + 1
+
+B
+
+1
+
+x
+x3 + 2x2 – 7
+x 2
+
+2x 3  3x 2  x  4
+
+5. (x + 5)(9x + 1)2(x – 4)
+
+( x  5)(9x  1) 2
+( x  4)
+
+EP
+E
+
+4. 2x 3  3x  x  4
+
+Did this activity help you recall what a polynomial expression is?
+
+D
+
+A polynomial expression P(x) is an expression of the form
+anxn + an – 1xn – 1 + an – 2xn – 2 + … + a1x + a0, an  0
+
+where the nonnegative integer n is called the degree of the polynomial and
+coefficients a0, a1, …, an are real numbers.
+The terms of a polynomial may be written in any order. However, we
+often follow the convention of writing the terms in decreasing powers of the
+variable x. In this case, the polynomial expression is said to be in standard
+form.
+57
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Activity 2:
+Divide the following and write an equivalent equation by following the given
+example.
+Example: 19 ÷ 5 = 3 +
+
+4
+ 19 = 3(5) + 4
+5
+
+= __________  __________
+= __________  __________
+= __________  __________
+= __________  __________
+= __________  __________
+
+PY
+
+1. 29 ÷ 5
+2. 34 ÷ 7
+3. 145 ÷ 11
+4. 122 ÷ 7
+5. 219 ÷ 15
+
+C
+O
+
+The procedure above can be applied when dividing polynomials.
+You can see this in the discussion below.
+Let us divide (2x2 + 5x – 23) by (x + 5).
+
+
+
+Quotient
+
+ x + 5 2x 2  5x  23 
+
+Dividend
+
+D
+
+2x – 5
+
+2x2 + 10x
+–5x – 23
+–5x – 25
+2 
+
+Re mainder
+
+D
+
+EP
+E
+
+Divisor
+
+You can write the result as follows.
+Dividend
+
+Quotient Remainder
+
+↓
+
+2x  5x  23
+2
+ 2x  5 
+x 5
+x 5
+2
+
+Dividend
+
+Divisor
+
+or 2x2 + 5x – 23 = (2x – 5)(x + 5) + 2
+
+
+Divisor
+
+Quotient
+
+58
+
+Remainder
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+In general, if P(x) and D(x) are polynomials with D(x) ≠ 0, we can write
+P( x )
+R( x )
+ Q( x ) 
+or P(x) = Q(x)•D(x) + R(x), where R(x) is either 0 or its
+D( x )
+D( x )
+degree is less than the degree of D(x). If R(x) = 0, then we say that D(x) is a
+factor of P(x).
+
+Dividing Polynomials
+
+PY
+
+As previously shown, the procedure for dividing a polynomial by
+another polynomial is similar to the procedure used when dividing whole
+numbers. Another example is shown below.
+
+C
+O
+
+Example: (10x2 + 2x4 + 8 + 7x3) ÷ (2x2 + x – 1)
+
+D
+
+Solution:
+First, write the dividend in standard form and insert zeros as
+coefficients of any missing term to obtain 2x4 + 7x3 + 10x2 + 0x + 8. Both
+dividend and divisor should be in standard form. The long division method is
+shown below.
+
+EP
+E
+
+x2 + 3x + 4
+
+Divisor
+
+ 2x2 + x – 1 2x 4  7 x 3  10x 2  0x  8
+
+D
+
+2x4 + x3 –
+
+
+
+Quotient
+
+
+
+Dividend
+
+x2
+
+Subtract
+
+6x3 + 11x2 + 0x
+6x3 + 3x2 – 3x
+
+Subtract
+
+8x2 + 3x + 8
+8x2 + 4x – 4
+–x + 12
+
+Subtract
+
+
+
+Re mainder
+
+2x 4  7 x 3  10 x 2  8
+ x  12
+ x 2  3x  4  2
+Hence,
+.
+2
+2x  x  1
+2x  x  1
+
+59
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Activity 3:
+Perform the indicated division and write your answers in the form
+P( x )
+R( x )
+ Q( x ) 
+as shown in the following example;
+D( x )
+D( x )
+
+( x 4  x 2  5)  ( x  5) 
+
+x4  x2  5
+645
+ x 3  5 x 2  26 x  130 
+x 5
+x 5
+
+2. (6x3 – 16x2 + 17x – 6) ÷ (3x – 2)
+
+3. (2x4 + x3 – 19x2 + 18x + 5) ÷ (2x – 5)
+4. (4x5 + 6x4 + 5x2 – x – 10) ÷ (2x2 + 3)
+
+PY
+
+1. (5x 2 – 17x – 15) ÷ (x – 4)
+
+C
+O
+
+5. (4x5 – 25x4 + 40x3 + 3x2 – 18x) ÷ (x2 – 6x + 9)
+
+How did you find the activity? What can you say about the procedure?
+
+D
+
+There is a shorter procedure when a polynomial is to be divided by a
+binomial of the form (x – r). This method is called synthetic division. In this
+procedure, we write only the coefficients.
+
+EP
+E
+
+The steps outlined below illustrate synthetic division. The procedure
+involves writing numbers in three rows.
+Example 1. Use synthetic division to divide P(x) = (3x3 + 4x2 + 8) by ( x  2) .
+Step 1: Arrange the coefficients
+of P(x) in descending powers of
+x, placing 0s for the missing
+terms. The leading coefficient of
+P(x) becomes the first entry of
+the third row.
+
+D
+
+3
+
+4
+
+0
+
+8
+
+4
+
+0
+
+8
+
+3
+
+–2
+
+Step 2: Place the value of r in the
+upper left corner. In this example,
+x – r = x + 2 = x – (–2), so r = –2.
+
+3
+3
+
+60
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Step 3: The first number in the
+second row (–6) is the product of
+r (–2) and the number in the third
+row (3) of the preceding column.
+The second number in the third
+row (–2) is the sum of the two
+numbers (4 and –6) above it.
+
+–2
+
+3
+
+4
+
+0
+
+8
+
+–6
+
+Step 4: Repeat the procedure
+described in Step 3 until the last
+number in the third row is
+obtained.
+
+–2
+
+3
+
+–2
+
+3
+
+4
+
+0
+
+8
+
+–6
+
+4
+
+–8
+
+–2
+
+4
+
+0
+
+PY
+
+3
+
+C
+O
+
+Step 5: Write the quotient Q(x).
+Note that the degree of Q(x) is
+one less than the degree of
+P(x).The entries in the third row
+give the coefficients of Q(x) and
+the remainder R.
+
+Q(x) = 3x2 – 2x + 4,
+
+R=0
+
+D
+
+A concise form of Steps 1 to 5 is shown below:
+
+Dividend (3x3 + 4x2 + 8)
+
+EP
+E
+
+Divisor (x + 2)
+
+D
+
+–2
+
+3
+
+4
+–6
+–2
+
+3
+
+0
+4
+4
+
+8
+–8
+0
+
+Remainder: 0
+
+Quotient: 3x2 – 2x + 4
+
+Example 2. Use synthetic division to find the quotient of
+(x4 + 8x2 – 5x3 – 2 + 15x) ÷ (x – 3)
+Solution:
+By inspection, the dividend is not in standard form, so there is a need
+to rearrange the terms of the polynomial,
+Thus, x4 + 8x2 – 5x3 – 2 + 15x = x4 – 5x3 + 8x2 + 15x – 2.
+
+61
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Then, write the coefficients of the polynomial in the first row. Follow the steps
+described in Example 1.
+3
+
+1
+
+–5
+
+8
+
+15
+
+–2
+
+1
+
+3
+–2
+
+–6
+2
+
+6
+21
+
+63
+61
+
+Therefore, the quotient is ( x3 – 2x2 + 2x + 21) and the remainder is 61.
+Example 3. Use synthetic division to find the quotient of
+(6x5 – x4 – 32x3 – 20x2 + 5x + 8) ÷ (2x – 3).
+
+C
+O
+
+3
+
+(6x5 – x4 – 32x3 – 20x2 + 5x + 8) ÷ 2  x  
+2
+
+
+PY
+
+Solution:
+Observe that the divisor is not of the form (x – r). However, note that
+3
+
+2x – 3 = 2  x   . Therefore, the problem can be restated as follows:
+2
+
+
+6
+
+–1
+9
+8
+
+EP
+E
+
+3
+2
+
+D
+
+Thus, we first use synthetic division to divide
+3
+
+(6x5 – x4 – 32x3 – 20x2 + 5x + 8) by  x   , and then divide the result by 2 to
+2
+
+get the final answer.
+
+6
+
+–20
+–30
+–50
+
+5
+–75
+–70
+
+8
+–105
+–97
+
+ 97
+3
+x
+2
+
+by 2.
+
+6x4 + 8x3 – 20x2 – 50x – 70 +
+
+D
+
+Now, let us divide the result
+
+–32
+12
+–20
+
+To get the final answer, 3x4 + 4x3 – 10x2 – 25x – 35 +
+
+ 97
+.
+2x  3
+
+Now that you have learned about the division of polynomials, you
+may try the activities in the next section.
+
+The following websites
+provide more information
+about polynomial division.
+
+http://www.mathsisfun.com/algebra/polynomialsdivision-long.html
+http://www.youtube.com/watch?v=qd-T-dTtnX4
+http://www.purplemath.com/modules/polydiv2.htm
+
+62
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Your goal in this section is to apply the key concepts of dividing
+polynomials. Use mathematical ideas and examples presented in
+answering the succeeding activities.
+Activity 4:
+
+1.
+
+5
+
+0
+5
+5
+
+5
+
+Answer:
+
+2.
+
+Divisor
+
+Dividend
+
+1
+
+D
+
+–2
+
+1
+
+Divisor
+
+EP
+E
+
+Answer:
+
+3.
+
+3
+
+D
+
+Answer:
+
+4.
+
+Divisor
+
+–4
+
+Dividend
+
+2
+
+Dividend
+
+-3
+
+5.
+
+Divisor
+
+5
+
+Dividend
+
+Answer:
+
+Divisor
+
+Dividend
+
+63
+
+0
+18
+18
+
+–54
+54
+0
+
+0
+–52
+–52
+
+–208
+208
+0
+
+Quotient
+
+1
+10
+11
+
+2
+
+7 30
+8 –30
+15
+0
+
+Quotient
+
+1
+12
+13
+
+2
+
+2
+–6
+–4
+
+Quotient
+
+0
+6
+6
+
+2
+
+–8
+8
+0
+
+Quotient
+
+5
+–2
+3
+
+-3
+Answer:
+
+3
+5
+8
+
+C
+O
+
+1
+
+PY
+
+Identify the divisor, dividend, and quotient in each item below. Write your
+answers in your notebook.
+
+–7
+55
+48
+
+–240
+240
+0
+
+Quotient
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+This activity helped you identify the quotient in a synthetic division
+procedure. In the next activity, you will match a division problem with a
+corresponding solution.
+Activity 5:
+
+PY
+
+Match Column I with the appropriate synthetic division in Column II. Write
+the letter of the correct answer.
+Column I
+
+Column II
+
+1. (2x + x3 + 7x2 – 40) ÷ (x – 2)
+
+1
+
+6
+–2
+4
+
+2
+–8
+–6
+
+44
+12
+56
+
+2
+
+–5
+
+–13
+
+–15
+
+2
+
+–5
+–10
+
+25 –30
+12 –45
+
+C
+O
+B.
+
+D
+
+2. (6x2 + x3 + 2x +44) ÷ (x + 2)
+
+1
+
+–2
+
+A.
+
+3. ( x3 + 35 + 9x2 +13x) ÷ (x – 5)
+
+EP
+E
+
+C.
+
+D
+
+4. (4x3 + 26x +320 +21x2) ÷ (x + 5)
+
+5. (–13x + 2x3 – 5x2 – 15) ÷ (2x + 5)
+
+D.
+
+E.
+
+5
+2
+
+–5
+
+5
+
+2
+
+4
+
+21
+
+26
+
+320
+
+–20
+
+–5
+
+-105
+
+4
+
+1
+
+21
+
+215
+
+1
+
+9
+
+13
+
+35
+
+5
+
+70
+
+415
+
+1
+
+14
+
+83
+
+450
+
+1
+
+7
+2
+9
+
+2
+18
+20
+
+–40
+40
+0
+
+1
+
+In the next activity, you will perform synthetic division on your own.
+
+64
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Activity 6:
+Use synthetic division to find the quotient and remainder in each of the
+following. Write your complete solutions on a separate sheet of paper.
+Quotient:_______________
+Remainder:_____________
+
+2. (x3 + 4x2 – x – 25)  (x + 5)
+
+Quotient:_______________
+Remainder:_____________
+
+3. (6x3 – 5x2 + 4x – 1)  (3x – 1)
+
+PY
+
+1. (3x3 + x2 – 22x – 25)  (x – 2)
+
+Quotient:_______________
+Remainder:_____________
+Quotient:_______________
+Remainder:_____________
+
+C
+O
+
+4. (2x4– 9x3 + 9x2 + 5x – 1)  (2x + 1)
+
+5. (2x4 + 5x3 + 3x2 + 8x + 12)  (2x + 3)
+
+Quotient:_______________
+Remainder:_____________
+
+EP
+E
+
+D
+
+Can you now perform synthetic division? In the next activity, not all
+tasks can be solved easily by synthetic division. Make sure you use long
+division when necessary.
+
+Activity 7:
+
+D
+
+Find the quotient and the remainder by using synthetic division. Write your
+complete solution on a separate sheet of paper.
+1. (x2 + 3x + 10)  (x + 2)
+
+Quotient: ________________
+Remainder: ______________
+
+2. (10x3 + 5x2 + 75x – 40)  (2x + 1)
+
+Quotient: ________________
+Remainder: ______________
+
+3. (12x3 + 10x2 + 5x + 1)  (3x + 1)
+
+Quotient: ________________
+Remainder: ______________
+
+65
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+4. (3x4 – x3 + x – 2)  (3x2 + x + 1)
+
+Quotient:_______________
+Remainder:_____________
+
+5. (4x5 – 25x4 + 40x3 + 5x2 – 30x – 18)  (x2 – 6x + 9)
+Quotient:_______________
+Remainder:_____________
+Activity 8:
+
+PY
+
+Solve the following problems. Show your complete solutions.
+1. The total cost of (3a – 2b) units of cell phone is (6a2 + 5ab – 6b2)
+pesos. What expression represents the cost of one cell phone?
+
+C
+O
+
+2. If one ream of bond paper costs (3x – 4) pesos, how many reams can
+you buy for (6x4 – 17x3 + 24x2 – 34x + 24) pesos?
+3. If a car covers (15x2 + 7x – 2) km in (3x + 2) hours, what is the average
+speed in km/hr?
+
+EP
+E
+
+D
+
+4. The volume of a rectangular solid is (x3 + 3x2 + 2x – 5) cubic cm, and
+its height is (x + 1) cm. What is the area of its base?
+5. The area of a parallelogram is (2x2 + 11x – 9) square units. If the
+length is given by (2x – 3) units, what expression represents its width?
+6. If a car moving at a constant rate travels (2x3 – x2 – 4x + 3) km in
+(x2 – 2x + 1) hours, what is the rate of the car in km per hour?
+
+D
+
+7. A tailor earns (12y2 + y – 35) pesos for working (3y – 5) hours.
+How much does he earn per hour?
+
+66
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Your goal in this section is to take a closer look at some of the
+ideas in this lesson. The activities will help you assess your
+understanding of division of polynomials.
+
+Answer each of the following completely.
+
+PY
+
+Activity 9:
+
+1. If r = 2x3 + 4x2 – x – 6 and s = x – 2. What is
+
+r
+?
+s
+
+C
+O
+
+2. Find the quotient when (x3 – 6x2 + 2x + 8) is divided by (x – 3).
+3. What must be multiplied to (x2 + 2x + 1) to get (x4 + x3 + x2 + 3x + 2)?
+
+D
+
+4. If a square has a perimeter of (2x – 48) meters, what expression
+represents its area?
+
+EP
+E
+
+5. Suppose the area of a rectangle is (6x2 –7x + 14) square units. If its
+width is (2x – 5) units, what expression represents its length? How
+about its perimeter?
+
+D
+
+After performing each activity, are you now confident about your
+knowledge of division of polynomials? Try to express your insights
+through the following activity.
+
+67
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+The next section will help you use division of polynomial to solve
+some real-world problems.
+
+Activity 10:
+
+PY
+
+Solve the following problems. Show your complete solutions.
+
+C
+O
+
+1. Mr. Aquino wants to paint the ceiling of a room that has a length of
+(c2 + 2cd + d2) meters and a width of (c + d) meters. If one can of paint
+will cover (c + d) 2 square meter, what is the minimum number of cans
+of paint needed? Express your answer as a polynomial.
+
+D
+
+2. The side of a square lot is (5x – 3) meters. How many meters of
+fencing materials are needed to enclose the square lot? If one square
+meter of the lot costs Php15,000, what is the cost of the square lot?
+
+EP
+E
+
+3. A rectangular garden in a backyard has an area of (3x2 + 5x – 6)
+square meters. Its width is (x + 2) meters.
+a. Find the length of the garden.
+
+D
+
+b. You decided to partition the garden into two or more smaller
+congruent gardens. Design a possible model and include
+mathematical concepts in your design.
+
+68
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Rubric for the Performance Task
+
+Creativity
+
+The
+computations
+are accurate.
+Use of key
+concepts of
+division of
+polynomials is
+evident.
+The model is
+firm and
+stationary.
+
+The design is
+comprehensive
+and displays the
+aesthetic
+aspects of the
+mathematical
+concepts
+learned.
+The explanation
+is clear,
+exhaustive or
+thorough, and
+coherent. It
+includes
+interesting facts
+and principles. It
+uses complex
+and refined
+mathematical
+reasoning.
+
+The design is
+presentable and
+makes use of
+the concepts of
+algebraic
+representations.
+
+The explanation
+is clear and
+coherent. It
+covers the
+important
+concepts. It
+uses effective
+mathematical
+reasoning.
+
+EP
+E
+
+Mathematical
+Reasoning
+
+The
+computations
+are accurate. A
+wise use of key
+concepts of
+division of
+polynomials is
+evident.
+The model is
+well fixed and in
+place.
+
+Developing
+2
+
+Beginning
+1
+
+The
+computations
+are erroneous
+and show some
+use of key
+concepts of
+division of
+polynomials.
+The model is
+less firm and
+show slight
+movement.
+The design
+makes use of
+the algebraic
+representations
+but not
+presentable.
+
+The
+computations
+are erroneous
+and do not
+show some use
+of key concepts
+of division of
+polynomials.
+The model is
+not firm and has
+the tendency to
+collapse.
+The design
+does not use
+algebraic
+representation
+and not
+presentable.
+
+The explanation
+is
+understandable
+but not logical. It
+presents only
+some evidences
+of mathematical
+reasoning.
+
+The explanation
+is incomplete
+and inconsistent
+with little
+evidence of
+mathematical
+reasoning.
+
+Rating
+
+PY
+
+Stability
+
+Satisfactory
+3
+
+C
+O
+
+Accuracy
+
+Outstanding
+4
+
+D
+
+CRITERIA
+
+Overall Rating
+
+D
+
+Source: D.O. #73, s. 2012
+
+SUMMARY/SYNTHESIS/GENERALIZATION
+This lesson was about polynomial division. You learned to:
+ divide polynomials using long division;
+ determine when synthetic division is appropriate;
+ divide polynomials using synthetic division; and
+ express the result of division in terms of the quotient and remainder.
+
+69
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+PY
+
+In this lesson, you will learn a new method of finding the remainder
+when a polynomial is divided by x – r. You will also learn a method of
+determining whether or not x – r is a factor of a given polynomial. Before
+that, you first need to recall your lessons on evaluating polynomials.
+
+C
+O
+
+Activity 1:
+
+A. P(x) = x3 + x2 + x + 3
+–2
+
+–1
+
+EP
+E
+
+x
+P(x)
+message
+
+D
+
+Evaluate the polynomial at the given values of x. Next, determine the letter
+that matches your answer. When you are done, you will be able to decode the
+message.
+0
+
+1
+
+2
+
+0
+
+1
+
+5
+
+B. P(x) = x4 – 4x3 – 7x2 + 22x + 18
+x
+P(x)
+message
+
+D
+
+A. 17
+M. 3
+P. 6
+
+–2
+
+–1
+
+C. –3
+N. 78
+R. 0
+
+E. 5
+O. 2
+S. –6
+
+I. 18
+O. 30
+T. 23
+
+1. How did you find the value of a polynomial expression P(x) at a
+given value of x?
+2. What message did you obtain?
+
+70
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Did the activity help you recall how to evaluate a polynomial at the
+given value? The next activity is a little more challenging.
+Activity 2:
+
+If x = 1
+
+5x3
+
+If x = –2
+
+–
+
+–
+2x2
+
++
+
++
+
+2x2
+
++
+
+–
+
++
+
+–
+
+–
+
+EP
+E
+
+If x = - 3
+
+=
+
+10
+
+=
+
+10
+
+=
+
+10
+
+–
+
+D
+
+If x = 0
+
+If x = 0
+
+C
+O
+
+If x = –1
+
+PY
+
+Fill the empty boxes with any of the following terms 3x2, 7x, 5x, 3x, 10, and 8
+to satisfy the answer at the end with the given value of x at the beginning.
+Use each term only once. Use the values at the top to complete the
+polynomial vertically and the value on the left to complete the polynomial
+horizontally.
+
++
++
+
+=
+
+=
+
+–10
+
+–10
+
+–10
+
+D
+
+=
+
+1. How did you find the value of a polynomial with the given value
+of x?
+2. What mathematical ideas and skills or strategies did you apply in
+solving the puzzle game? Why?
+
+71
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Activity 3:
+Directions: Fill in the blanks with words and symbols that will best complete
+the statements given below.
+Suppose that the polynomial P(x) is divided by (x – r), as follows:
+
+P (x )
+R
+ Q (x ) 
+x r
+x r
+
+PY
+
+If P(x) is of degree n, then Q(x) is of degree _____. The remainder R is a
+constant because ____________________.
+Now supply the reasons for each statement in the following table.
+REASON
+
+.
+
+1. P(x) = (x – r) Q(x) + R
+.
+
+2. P(r) = (r – r) Q(r) + R
+.
+
+4. P(r) = R
+
+D
+
+3. P(r) = (0) Q(r) + R
+
+C
+O
+
+STATEMENT
+
+EP
+E
+
+The previous activity shows the proof of the Remainder Theorem:
+The Remainder Theorem
+
+If the polynomial P(x) is divided by (x – r), the remainder R is a
+constant and is equal to P(r).
+
+D
+
+R = P(r)
+
+Thus, there are two ways to find the remainder when P(x) is divided by
+(x – r), that is:
+(1) use synthetic division, or
+(2) calculate P(r).
+Similarly, there are two ways to find the value of P(r):
+(1) substitute r in the polynomial expression P(x), or
+(2) use synthetic division.
+72
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Example 1. Find the remainder when (5x2 – 2x + 1) is divided by (x + 2).
+Solution:
+a. Using the Remainder Theorem:
+P(x) = 5x2 – 2x + 1, r = –2
+P(–2) = 5(–2)2 – 2(–2) + 1
+P(–2) = 5(4) + 4 + 1
+P(–2) = 20 + 4 + 1 = 25
+
+PY
+
+Therefore, the remainder when P(x) = 5x2 – 2x + 1 is divided by x + 2
+is 25.
+b. Using synthetic division:
+5
+
+–2
+–10
+–12
+
+1
+24
+25
+
+C
+O
+
+–2
+
+5
+
+D
+
+Thus, the remainder is 25.
+
+EP
+E
+
+Example 2. Find the remainder when P(x) = 2x4 + 5x3 + 2x2 – 7x – 15 is
+divided by (2x – 3).
+Solution:
+
+D
+
+a. Using the Remainder Theorem:
+3
+3
+Write 2x – 3 as 2  x   . Here, r = .
+2
+2
+
+4
+3
+2
+P(x) = 2x + 5x + 2x – 7x – 15
+
+Thus,
+
+4
+
+3
+
+3
+3
+3
+3
+P  = 2  + 5  + 2 
+2
+2
+2
+2
+3
+P  = 6
+2
+
+2
+
+3
+–7   –15
+2
+
+6
+2 x 4  5 x 3  2 x 2  7 x  15
+.
+ 2x3 + 8x2 + 14x + 14 +
+3
+3
+x
+x
+2
+2
+
+73
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+If we divide both sides of the equation by 2, we obtain
+2x 4  5x 3  2x 2  7x  15
+6
+ x 3  4x 2  7x  7 
+, so the
+2x  3
+2x  3
+remainder is also 6.
+b. Using synthetic division:
+3
+2
+
+2
+
+5
+3
+8
+
+–7
+21
+14
+
+–15
+21
+6
+
+PY
+
+2
+
+2
+12
+14
+
+Therefore, the remainder is 6.
+
+The Factor Theorem
+
+C
+O
+
+Sometimes, the remainder when P(x) is divided by (x – r) is 0. This
+means that x – r is a factor of P(x). Equivalently, P(r) = 0. This idea is
+illustrated by the Factor Theorem.
+
+The polynomial P(x) has x – r as a factor if and only if P(r) = 0.
+
+EP
+E
+
+D
+
+Proof: There are two parts of the proof of the Factor Theorem, namely:
+Given a polynomial P(x),
+1. If (x – r) is a factor of P(x), then P(r) = 0.
+2. If P(r) = 0, then (x – r) is a factor of P(x).
+Activity 4:
+
+D
+
+The proof is a consequence of the Remainder Theorem. Fill in the blanks to
+complete the statement. Write your answers in your notebook.
+1. x – r is a factor of P(x) if and only if the remainder R of P(x)  (x – r)
+is _______.
+
+2. By the Remainder Theorem, R = 0 if and only if ____________.
+3. Thus, (x – r) is a factor of P(x) if and only if ____________.
+
+74
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Let us see how the Factor Theorem is used in the following examples.
+Example 1. Show that (x – 1) is a factor of 3x3 – 8x2 + 3x + 2.
+Solution:
+Using the Factor Theorem, we have:
+P(1) = 3(1)3 – 8(1)2 +3(1) + 2
+=3–8+3+2
+=0
+
+PY
+
+Since P(1) = 0, then x – 1 is a factor of 3x3 – 8x2 + 3x + 2.
+
+Example 2. Find the value of k for which the binomial (x + 4) is a factor of
+x4 + kx3 – 4x2.
+
+D
+
+C
+O
+
+Solution:
+If (x + 4) is a factor of P(x) = x4 + kx3 – 4x2, we know from the Factor
+Theorem that P(–4) = 0.
+P(–4) = (–4)4 + k(–4)3 – 4(–4)2 = 0
+256 – 64k – 64 = 0
+64k 192
+
+64
+64
+k=3
+
+EP
+E
+
+To check whether the answer is correct or not, use synthetic division to
+divide P(x) = x4 + 3x3 – 4x2 by x + 4.
+–4
+
+1
+1
+
+3
+–4
+–1
+
+–4
+4
+0
+
+0
+0
+0
+
+0
+0
+0
+
+D
+
+This shows that the remainder when P(x) is divided by x + 4 is 0.
+
+Now that you have learned about the Remainder Theorem and the
+Factor Theorem for polynomials, you may try the activities in the next
+section.
+
+75
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Practice your skills through the activities in this section.
+Activity 5:
+
+1. P(x) = x3 – 7x + 5
+b. x + 1
+
+2. P(x) = 2x3 – 7x + 3
+a. x – 1
+
+b. x + 1
+
+3. P(x) = 4x4 – 3x3 – x2 + 2x + 1
+
+b. x + 1
+
+D
+
+a. x – 1
+
+c. x – 2
+
+C
+O
+
+a. x – 1
+
+PY
+
+Use the Remainder Theorem to find the remainder when the given polynomial
+is divided by each binomial. Verify your answer using synthetic division.
+Indicate whether or not each binomial is a factor of the given polynomial.
+
+c. x – 2
+
+c. x – 2
+
+4. P(x) = 2x4 – 3x3 + 4x2 + 17x + 7
+
+b. 2x + 3
+
+EP
+E
+
+a. 2x – 3
+
+c. 3x – 2
+
+5. P(x) = 8x4 + 12x3 – 10x2 + 3x + 27
+a. 2x – 3
+
+b. 2x + 3
+
+c. 3x – 2
+
+D
+
+Activity 6:
+
+Use the Remainder Theorem to find the remainder R in each of the following.
+1. (x4 – x3 + 2)  (x + 2)
+2. (x3 – 2x2 + x + 6)  (x – 3)
+3. (x4 – 3x3 + 4x2 – 6x + 4)  (x – 2)
+4. (x4 – 16x3 + 18x2 – 128)  (x + 2)
+5. (3x2 + 5x3 – 8)  (x – 4)
+76
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+6. (x2 – 3x + 7)  (x + 5)
+7. (2x3 – 10x2 + x – 5)  (x – 1)
+8. (x4 – x3 + 2)  (2x + 5)
+9. (x3 – x2 – 8x – 4)  (3x + 2)
+
+PY
+
+10. (x2 – 8x + 7)  (5x + 2)
+
+Activity 7:
+
+D
+
+C
+O
+
+1. What is the relation between the remainder and the value of the
+polynomial at x = r when the polynomial P(x) is divided by a binomial
+of the form x – r?
+2. How will you find the remainder when a polynomial in x is divided by
+a binomial of the form x – r?
+3. What happens if the remainder is zero?
+
+EP
+E
+
+Use the Factor Theorem to determine whether or not the first polynomial is a
+factor of the second. Then, give the remainder if the second polynomial is
+divided by the first polynomial.
+1. x – 1; x2 + 2x + 5
+2. x – 1; x3 – x – 2
+
+D
+
+3. x – 4; 2x3 – 9x2 + 9x – 20
+4. a – 1; a3 – 2a2 + a – 2
+5. y + 3; 2y3 + y2 – 13y + 6
+6. x – 3; – 4x3 + 5x2 + 8
+7. b – 2; 4b3 – 3b2 – 8b + 4
+8. a + 1; 2a3 + 5a2 – 3
+
+77
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+9. c + 2; c3 + 6c2 + 3c – 10
+10. c + 3; c4 – 13c2 + 36
+In the following activity, one factor of a polynomial is given. Use
+synthetic division to find the other factor.
+Activity 8:
+
+1. x3 – 8 = (x – 2)(__________)
+
+C
+O
+
+2. 2x3 + x2 – 23x + 20 = (x + 4)(__________)
+
+PY
+
+Find the missing factor in each of the following. Write your answers in your
+notebook.
+
+3. 3x3 + 2x2 – 37x + 12 = (x – 3)(__________)
+4. x3 – 2x2 – x + 2 = (x – 2)(__________)
+
+D
+
+5. 2x3 – x2 – 2x + 1 = (2x – 1)(__________)
+6. x3 – 4x2 + 4x – 3 = (x – 3)(__________)
+
+EP
+E
+
+7. x3 + 2x2 – 11x + 20 = (x + 5)(__________)
+8. 3x3 – 17x2 + 22x – 60 = (x – 5)(__________)
+9. 4x3 + 20x2 – 47x + 12 = (2x – 3)(__________)
+
+D
+
+10. 4x4 – 2x3 – 4x2 + 16x – 7 = (2x – 1)(__________)
+
+78
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+This section will require you to apply the Remainder and the Factor
+Theorems to solve more challenging problems.
+
+Answer each of the following problems.
+
+PY
+
+Activity 9:
+
+C
+O
+
+1. What is the remainder when 5x234 + 2 is divided by
+a. x – 1?
+b. x + 1?
+
+2. What is the remainder when 4x300 – 3x100 – 2x25 + 2x22 – 4 is divided by
+a. x – 1?
+b. x + 1?
+
+D
+
+3. When divided by x – 1, x + 1, x – 2, and x + 2, the polynomial
+P(x) = x4 + rx3 + sx2 + tx + u leaves a 0 remainder. Find P(0).
+
+EP
+E
+
+4. Determine the value of A so that
+a. x – 1 is a factor of 2x3 + x2 + 2Ax + 4.
+b. x + 1 is a factor of x3 + k2x2 – 2Ax – 16.
+
+D
+
+5. Use synthetic division to show
+a. (x + 2) and (3x – 2) are factors of 3x4 – 20x3 + 80x – 48.
+b. (x – 7) and (3x + 5) are not factors of
+6x4 – 2x3 – 80x2 + 74x – 35.
+
+At this point you will be given a practical task which will
+demonstrate your understanding of different concepts you learned from
+this lesson on polynomials.
+
+79
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Polynomial expressions are useful in representing volumes. The
+next section will help you use division of polynomials as well as the
+Remainder and the Factor Theorems to solve a real-world problem.
+Performance Task
+
+PY
+
+Activity 10:
+
+Step 1
+
+Step 2
+
+Product: A box
+with no cover
+
+EP
+E
+
+D
+
+8 units
+
+D
+
+6 units
+
+C
+O
+
+Write a real-life problem based on the procedure shown in the figures below.
+You may use a situation involving real persons to make the math problem more
+interesting. You need to consider all significant information in the figures.
+
+Let the situation end with the volume of the resulting box. What
+insights did you gain from this activity?
+
+80
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Rubric for the Performance Task
+Satisfactory
+3
+
+Developing
+2
+
+Beginning
+1
+
+The
+computations
+are accurate and
+show a wise use
+of key concepts
+of division of
+polynomials.
+
+The
+computations
+are accurate and
+show the use of
+key concepts of
+division of
+polynomials.
+
+The
+computations
+are erroneous
+and show some
+use of key
+concepts of
+division of
+polynomials.
+
+The
+computations
+are erroneous
+and do not show
+some use of key
+concepts of
+division of
+polynomials.
+
+The model is
+well- fixed and in
+place.
+
+The model is
+firm and
+stationary.
+
+The model is
+less firm and
+show slight
+movement.
+
+The model is not
+firm and has the
+tendency to
+collapse.
+
+Creativity
+
+The design is
+comprehensive
+and displays the
+aesthetic
+aspects of the
+mathematical
+concepts
+learned.
+
+The design is
+presentable and
+makes use of the
+concepts of
+algebraic
+representations.
+
+The design
+makes use of the
+algebraic
+representations
+but not
+presentable.
+
+The design does
+not use algebraic
+representation
+and it is not
+presentable.
+
+Mathematical
+Reasoning
+
+The explanation
+is clear,
+exhaustive or
+thorough, and
+coherent. It
+includes
+interesting facts
+and principles. It
+uses complex
+and refined
+mathematical
+reasoning.
+
+The explanation is
+clear and
+coherent. It covers
+the important
+concepts. It uses
+effective
+mathematical
+reasoning.
+
+The explanation
+is understandable
+but not logical. It
+contains only
+some evidences
+of mathematical
+reasoning.
+
+The explanation
+is incomplete
+and inconsistent,
+with little
+evidence of
+mathematical
+reasoning.
+
+C
+O
+
+EP
+E
+
+Stability
+
+D
+
+Accuracy
+
+Rating
+
+PY
+
+Outstanding
+4
+
+CRITERIA
+
+Overall Rating
+
+D
+
+Source D.O. #73, s. 2012
+
+SUMMARY/SYNTHESIS/GENERALIZATION
+This lesson involved the Remainder and Factor Theorems and their
+applications. You learned how to:
+
+
+
+
+find the remainder using synthetic division or the Remainder Theorem;
+evaluate polynomials using substitution or synthetic division; and
+determine whether (x – r) is a factor of a given polynomial.
+
+81
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Activity 1:
+
+C
+O
+
+PY
+
+In Grade 9, you learned how to solve quadratic equations using the
+Zero-Product Property. In this lesson, you will apply the same property to
+solve equations involving polynomials in factored form. You will also
+learn how to factor polynomials and solve general polynomial equations.
+
+Determine the real root(s) of each equation.
+
+D
+
+EP
+E
+
+D
+
+1. x – 2 = 0
+2. x + 3 = 0
+3. x(x – 4) = 0
+4. (x + 1)(x – 3) = 0
+5. x2 + x – 2 = 0
+6. x2(x – 9)(2x + 1) = 0
+7. (x + 4)(x2 – x + 3) = 0
+8. 2x (x2 – 36) = 0
+9. (x + 8)(x – 7)(x2 – 2x + 5) = 0
+10. (3x + 1)2(x + 7)(x – 2)4 = 0
+
+1. What do you call the given equations?
+2. Describe the roots of an equation.
+3. In finding the roots of an equation with degree greater than 1, what
+have you noticed about the number of roots? Can you recall a principle
+that supports this?
+4. Describe how to solve for the roots of an equation.
+5. How many roots does the equation x2 + 2x + 1 = 0 have?
+
+82
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Did you find this activity easy? Did you solve some of these
+equations mentally? What is the highest degree of the polynomial
+expressions in the previous activity? Have you encountered equations
+involving polynomials with a higher degree? The next activity will
+introduce you to an important principle involving polynomial equations.
+Activity 2:
+
+1. (x + 1)2(x – 5) = 0
+
+Degree
+3
+
+2. x – 8 = 0
+3. (x + 2)(x – 2) = 0
+4. (x – 3)(x + 1)(x – 1) = 0
+
+Real Roots of
+an Equation
+
+Number of
+Real Roots
+
+–1 (2 times); 5
+
+3
+
+C
+O
+
+Polynomial Equation
+
+PY
+
+Some polynomial equations are given below. Complete the table and answer
+the questions that follow. (If a root occurs twice, count it twice; if thrice, count
+it three times, and so on. The first one is done for you)
+
+D
+
+5. x(x – 4)(x + 5)(x – 1) = 0
+
+EP
+E
+
+6. (x – 1)(x – 3)3 = 0
+
+7. (x2 – 4x + 13)(x – 5)3 = 0
+8. (x + 1)5(x – 1)2 =0
+
+9. (x2 + 4)(x – 3)3 = 0
+
+
+
+0
+ x  2  x 
+6
+
+6
+
+4
+
+D
+
+10. x  2
+
+1. Is it easy to give the roots of a polynomial equation when the
+polynomial is expressed as a product of linear factors? Give a strategy
+to find roots when a polynomial is expressed as a product of linear
+factors.
+2. What do you observe about the relationship between the number of
+roots and the degree of a polynomial equation? This relationship was
+discovered by the German mathematician Karl Friedrich Gauss (17771885).
+
+83
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+The general statement for the previous observation is known as the
+Fundamental Theorem of Algebra. We state it here without proof.
+Fundamental Theorem of Algebra
+If P(x) is a polynomial equation of degree n and with real coefficients,
+then it has at most n real roots.
+
+PY
+
+3. Consider the following polynomial equations. At most how many real
+roots does each have?
+a. x20 – 1 = 0
+
+C
+O
+
+b. x3 – 2x2 – 4x + 8 = 0
+c. 18 + 9x5 – 11x2 – x23 + x34 = 0
+
+EP
+E
+
+D
+
+Were you able to find the number of roots of polynomial equations
+by inspection? The next activity is connected to the problem of finding
+roots of polynomial equations.
+
+Activity 3:
+
+Answer the following.
+
+D
+
+A. When do we say that a real number, say r, is a root of a given polynomial
+equation in x?
+B. Recall the Zero-Product Property. State this property and apply this to
+solve the equation (x – 1)(x – 3) = 0. Is the result consistent with the
+Fundamental Theorem of Algebra?
+
+84
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+C. Find the roots of the following polynomial equations by applying the ZeroProduct Property.
+(x + 3)(x – 2)(x + 1)(x – 1) = 0
+
+2.
+
+(x + 5)(x – 5)(x + 5)(x – 1) = 0
+
+3.
+
+(x + 4)2(x – 3)3 = 0
+
+4.
+
+x (x – 3)4(x + 6)2 = 0
+
+5.
+
+x2(x – 9) = 0
+
+PY
+
+1.
+
+C
+O
+
+D. If a root occurs twice (such as –4 in Item C, Equation 3), the root is called
+a root of multiplicity 2. In general, if a root occurs n times, it is called a
+root of multiplicity n. Identify the multiplicity of each root in the equations
+in Item C.
+
+D
+
+Now, you are ready to find the roots when the polynomial is not in
+factored form. The next activity will help you see how.
+
+EP
+E
+
+Activity 4:
+
+Answer the following.
+
+D
+
+A. Let P(x) be a polynomial. Recall the Factor Theorem by completing the
+statement:
+P(r) = 0 if and only if (x – r) is ________________.
+B. Consider the polynomial equation x3 + 6x2 + 11x + 6 = 0
+Trial 1. Is x = 1 a root of the equation?
+Using synthetic division,
+1
+
+1
+
+6
+
+11
+
+6
+
+The remainder is __________. Therefore, ________________.
+85
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Trial 2. Is x = –1 a root of the equation?
+Using synthetic division,
+–1
+
+1
+
+6
+
+11
+
+6
+
+The remainder is __________. Therefore, ________________.
+The 3rd line of the synthetic division indicates that
+
+PY
+
+x 3  6 x 2  11x  6
+ __________.
+x 1
+
+C
+O
+
+The expression on the right, when equated to zero is called a
+depressed equation of the given polynomial equation. The roots of
+depressed equations are also roots of the given polynomial equation. The
+roots of this depressed polynomial equation are _________ and
+_________.
+
+D
+
+Therefore, the roots of the polynomial equation x3 + 6x2 + 11x + 6 = 0
+are _______, __________, and __________.
+
+EP
+E
+
+C. Deepen your skills by discussing the solutions to each polynomial
+equation with a classmate. As shown above, you first need to guess
+possible roots of the equation.
+1. x3 – 2x2 – x + 2 = 0
+
+D
+
+2. x3 + 9x2 + 23x + 15 = 0
+
+For sure, you have come to a conclusion that it is not always easy
+to guess the roots of a polynomial equation.
+A more systematic approach is to limit the roots that one needs to try
+when solving a polynomial equation. The next activity will demonstrate this.
+
+86
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Activity 5:
+Complete the table below. Verify that the given numbers in the last column of
+the table are rational roots of the corresponding polynomial equation.
+Leading
+Coefficient
+
+Polynomial Equation
+
+1. x3 + 6x2 + 11x – 6 = 0
+
+Constant
+Term
+
+1
+
+2. x3 – x2 – 10x – 8 = 0
+
+1, 2, 3
+–8
+
+3. x3 + 2x2 – 23x – 60 = 0
+
+–4, –3, 5
+
+2
+
+C
+O
+
+5. 3x4 – 16x3 + 21x2 + 4x – 12 = 0
+
+–2, –1, 4
+
+PY
+
+1
+
+4. 2x4 – 3x3 – 4x2 + 3x + 2 = 0
+
+Roots
+
+–12
+
+
+
+1
+,–1,1,2
+2
+
+
+
+2
+,1, 2, 3
+3
+
+Do the task in item 1 below, and answer the questions in items 2 and 3.
+
+EP
+E
+
+D
+
+1. For each equation, list all possible rational numbers whose numerators
+are factors of the constant term and whose denominators are factors of
+the leading coefficient.
+Example: In Equation 1, x3 + 6x2 + 11x – 6 = 0, the factors of the
+constant term –6 are ±6, ±3, ±2, and ±1, and the factors of the leading
+coefficient 1 are ±1. The rational numbers satisfying the above
+3
+2
+6
+1
+conditions are
+ 3 ,
+ 2 , and
+ 6 ,
+ 1 (or  6 ,  3 ,
+1
+1
+1
+1
+ 2 , 1). Write a corresponding list for each equation in the table.
+
+D
+
+2. Look at the roots of each polynomial equation in the table. Are these
+roots in the list of rational numbers in Question 1?
+3. Refer to Equations 1 – 3 in the table. The leading coefficient of each
+polynomial equation is 1. What do you observe about the roots of each
+equation in relation to the corresponding constant term?
+
+You may have observed that the leading coefficient and constant
+term of a polynomial equation are related to the rational roots of the
+equation. Hence, these can be used to determine the rational solutions
+to polynomial equations. This observation is formally stated as the
+Rational Root Theorem, which is the focus of the next activity.
+
+87
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Activity 6:
+Based on the previous activity, fill in the blanks below with the correct
+expressions. Then, complete the proof that follows.
+The Rational Root Theorem
+
+Proof:
+STATEMENT
+n
+
+1. a n  p   a n 1  p 
+q 
+
+p
+ a n 2  
+q 
+
+n 2
+
+2
+
+p
+p
+ ...a 2    a 1    a 0  0
+q 
+q 
+
+REASON
+1. Definition of a root of
+a polynomial
+equation.
+2. Addition Property of
+Equality (Add – a0 to
+both sides).
+3. Multiply both sides by qn.
+4. Factor out p on the
+left side of the
+equation.
+
+C
+O
+
+q 
+
+n 1
+
+PY
+
+Let anxn + an – 1xn – 1 + an – 2 xn – 2 + … + a2x2 + a1x + a0 = 0, where an ≠ 0
+and ai is an integer for all i, 0 ≤ i ≤ n, be a polynomial equation of degree n. If
+p
+, in lowest terms, is a rational root of the equation, then ______ is a factor
+q
+of a0 and ______ is a factor of an.
+
+2.
+3.
+
+D
+
+4.
+
+EP
+E
+
+5. Since p is a factor of the left side, then it must
+also be a factor of the right side.
+6. p and q (and hence qn) do not share any
+common factor other than ±1.
+7. p must be a factor of a0. (This proves the first
+part of the Rational Root Theorem).
+8. Similarly, a n 1  p 
+
+D
+
+q 
+
+n 1
+
+2
+
+p
+p 
+p 
+ ...  a 2    a 1    a 0  a n  
+q 
+q 
+q 
+
+5. Definition of equality
+6.
+
+p
+is in lowest terms.
+q
+
+7. p is not a factor of qn.
+n
+
+8.
+9. Multiply both sides by qn.
+
+9.
+
+10. Factor out q on the left
+side left side of an
+equation.
+11. Definition of
+equality
+
+10.
+
+11. Since q is a factor of the left side, then it must
+also be a factor of the right side.
+12. q and p (and hence pn) do not share any
+12.
+common factor other than ±1.
+13. q must be a factor of an. This proves the second 13. q is not a factor of
+pn.
+part of the Rational Root Theorem.
+88
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Now that the Rational Root Theorem has been proved, we are now
+ready to apply it to solve polynomial equations. Work on the next activity.
+Activity 7:
+Study the guided solution to the given polynomial equations. Fill in the blanks
+with appropriate words, numbers, or symbols to complete the solution.
+
+PY
+
+A. Solve x3 + x2 – 12x – 12 = 0, and write the polynomial in factored form.
+Solution:
+
+C
+O
+
+The equation has at most ______ real roots. The leading coefficient is
+_____, and its factors are _________ and _________. The constant term
+is ______, and its factors are ______, ______, ______, ______, _____,
+_____, _____, _____, _____, _____, ______, and ______. The possible
+roots of the equation are  ____,  ____,  ____,  ____,  ____ and 
+____.
+
+1
+
+EP
+E
+
+1
+
+D
+
+To test if 1 is a root of the given equation, use synthetic division.
+1
+
+–12
+
+–12
+
+Since the remainder is _________, therefore 1 is _________of the
+equation.
+
+D
+
+Test if –1 is a root of the equation.
+–1
+
+1
+
+1
+
+–12
+
+–12
+
+Since the remainder is _________, therefore -1 is _________of the
+equation.
+
+x 3  x 2  12x  12
+ x 2  12.
+Hence,
+x 1
+We can obtain the other roots of x 3  x 2  12x  12 
+0 by solving for
+2
+the roots of x – 12 = 0 by using the quadratic formula.
+89
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Its roots are _______ and_________.
+To check, simply substitute each of these values to the given equation.
+Therefore, the real roots of the polynomial equation x 3  x 2  12x  12  0
+are ______, ______and______. The factored form of the polynomial
+x 3  x 2  12x  12 is__________.
+
+2x4 – 11x3 + 11x2 – 11x – 9 = 0
+
+C
+O
+
+Describe the roots of the equation.
+
+PY
+
+B. Now, try to solve the equation given below on your own.
+
+Now that you have gained skill in solving polynomial equations, try
+to sharpen this skill by working on the next activities.
+
+D
+
+https://www.brightstorm.com/math/algebra2/factoring/rational-roots-theorem/
+http://www.youtube,com/watch? v=RXKfaQemtii
+
+D
+
+EP
+E
+
+The following websites give
+additional information about
+the Rational Root Theorem.
+
+90
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Practice your skills through the following activities.
+Activity 8:
+
+PY
+
+By inspection, determine the number of real roots of each polynomial
+equation. Roots of multiplicity n are counted n times.
+
+2. x2 (x3 – 1) = 0
+3. x(x + 3)(x – 6)2 = 0
+4. 3x (x3 – 1)2 = 0
+
+C
+O
+
+1. (x – 4)(x + 3)2(x – 1)3 = 0
+
+EP
+E
+
+Activity 9:
+
+D
+
+5. (x3 – 8)(x4 + 1) = 0
+
+Find all real roots of the following equations. Next, write each polynomial on
+the left side of the equation in factored form. Show your complete solutions.
+
+D
+
+1. x3 – 10x2 + 32x – 32 = 0
+
+2. x3 – 6x2 + 11x – 6 = 0
+3. x3 – 2x2 + 4x – 8 = 0
+4. 3x3 – 19x2 + 33x – 9 = 0
+5. x4 – 5x2 + 4 = 0
+
+91
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Activity 10:
+One of the roots of the polynomial equation is given. Find the other roots.
+
+1
+2
+
+x1 = 
+
+2. x4 – 3x2 + 2 = 0;
+
+x1 = 1
+
+3. x4 – x3 – 7x2 + 13x – 6 = 0;
+
+x1 = 1
+
+4. x5 – 5x4 – 3x3 + 15x2 – 4x + 20 = 0;
+
+x1 = 2
+
+x1 = –1
+
+C
+O
+
+5. 2x4 – 17x3 + 13x2 + 53x + 21 = 0;
+
+PY
+
+1. – 2x4 + 13x3 – 21x2 + 2x + 8 = 0;
+
+EP
+E
+
+D
+
+How did you find these activities? Did the Rational Root Theorem
+make it easier for you to find the roots of a polynomial equation? It is
+important that these ideas are clearly grasped before you proceed to the
+next activities. Write a mathematical journal that will relate your experience
+with the Rational Root Theorem.
+
+D
+
+This activity will broaden your understanding of polynomial
+equations.
+
+Activity 11:
+
+Write TRUE if the statement is true. Otherwise, modify the underlined word(s)
+to make it true.
+1. The roots of a polynomial equation in x are the values of x that satisfy
+the equation.
+2. Every polynomial equation of degree n has n – 1 real roots.
+
+92
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+3. The equation 2x3 – 6x2 + x – 1 = 0 has no rational root.
+4. The possible roots of 3x5 – x4 + 6x3 – 2x2 + 8x – 5 = 0 are
+3
+ , 3, and  5 .
+5
+5. The only rational root of the equation x3 + 6x2 + 10x + 3 = 0 is 3.
+
+PY
+
+Activity 12:
+
+C
+O
+
+Give 3 examples of polynomial equations with a relatively short list of possible
+roots, and 3 examples of polynomial equations with a relatively long list of
+possible roots.
+
+Activity 13:
+
+EP
+E
+
+1. –1, 3, –6
+
+D
+
+For each item below, give a polynomial equation with integer coefficients that
+has the following roots.
+
+2. ±2, ±7
+
+3. 0, –4, –5, ±1
+3
+5
+
+5. ±2, 
+
+1 2
+, ,3
+3 7
+
+D
+
+4. ±2, 3,
+
+93
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+After going through a number of activities that deepen your
+understanding of polynomial equations, you are now ready to apply your
+learning to real-life situations. Work on the next activity.
+
+PY
+
+Activity 14:
+Set up a polynomial equation that models each problem below. Then solve
+the equation, and state the answer to each problem.
+
+C
+O
+
+1. One dimension of a cube is increased by 1 inch to form a rectangular
+block. Suppose that the volume of the new block is 150 cubic inches.
+Find the length of an edge of the original cube.
+
+EP
+E
+
+D
+
+2. The dimensions of a rectangular metal box are 3 cm, 5 cm, and 8 cm.
+If the first two dimensions are increased by the same number of
+centimeters, while the third dimension remains the same, the new
+volume is 34 cm3 more than the original volume. What is the new
+dimension of the enlarged rectangular metal box?
+3. The diagonal of a rectangle is 8 m longer than its shorter side. If the
+area of the rectangle is 60 square m, find its dimensions.
+
+D
+
+4. Identical squares are cut from each corner of an 8 inch by 11.5 inch
+rectangular piece of cardboard. The sides are folded up to make a box
+with no top. If the volume of the resulting box is 63.75 cubic inches,
+how long is the edge of each square that is cut off?
+
+94
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Activity 15:
+Solve the problem.
+
+PY
+
+Packaging is one important feature in producing quality products. A
+box designer needs to produce a package for a product in the shape of a
+pyramid with a square base having a total volume of 200 cubic inches. The
+height of the package must be 4 inches less than the length of the base. Find
+the dimensions of the product.
+
+D
+
+C
+O
+
+Solution:
+
+EP
+E
+
+Let __________= area of the base
+
+__________= height of the pyramid
+1
+(base)(height),
+3
+
+D
+
+If the volume of the pyramid is V =
+
+then, the equation that will lead to the solution is 36 = ____________.
+
+The possible roots of the equation are:______________.
+Using synthetic division, the roots are_______________.
+Therefore, the length of the base of the package is ___________
+
+and its height is _______________________.
+
+95
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+SUMMARY/SYNTHESIS/GENERALIZATION
+
+PY
+
+This lesson was about solving polynomial equations and the Rational Root
+Theorem. You learned how to:
+ use the Fundamental Theorem of Algebra to determine the maximum
+number of real roots of a polynomial;
+ solve polynomial equations in factored form;
+ solve polynomial equations using the Rational Root Theorem; and
+ solve problems that can be modelled by polynomial equations.
+
+GLOSSARY OF TERMS
+
+C
+O
+
+Degree of a Polynomial - the highest degree of a term in a polynomial
+
+Factor Theorem - the polynomial P(x) has x – r as a factor if and only if
+P(r) = 0
+
+D
+
+Mathematical Model - a mathematical representation of some phenomena in
+real world
+
+EP
+E
+
+Polynomial - an algebraic expression of the form
+anxn + an – 1xn – 1 + an – 2xn – 2 + … + a1x + a0, where an  0, and a0, a1,
+a2, …, an are real numbers
+
+LIST OF THEOREMS USED IN THIS MODULE:
+
+D
+
+Rational Root Theorem - Let an – 1xn – 1 + an – 2xn – 2 + … + a1x + a0 = 0 be a
+polynomial equation of degree n. If
+
+p
+, in lowest terms, is a rational
+q
+
+root of the equation, then p is a factor of a0 and q is a factor of an.
+Remainder Theorem - If the polynomial P(x) is divided by (x – r), the
+remainder R is a constant and is equal to P(r).
+Synthetic Division - a short method of dividing polynomial expressions using
+only the coefficient of the terms
+96
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+REFERENCES AND WEBSITE LINKS USED IN THIS MODULE:
+References:
+Acelajado M. J., Beronque Y. B. & Co, F. F. (2005) Algebra Concepts and
+Processes. (3rd Ed.). Mandaluyong City: National Book Store.
+Coronel I. C., Coronel, A. C. & Munsayac, J. M. (2013) Growing up with Math.
+Quezon City: FNB Educational, Inc.
+
+PY
+
+Coronel I. C., Villano, L. M., Manalastas P. R., Marasigan J. A. & Coronel A.
+C. (2004) Advanced Algebra, Trigonometry and Statistic. Quezon City:
+Bookmark Inc.
+
+C
+O
+
+Coronel I. C., Villano L. M., Manalastas P. R., Marasigan J. A. & Coronel A.
+C. (1992) Mathematics and Integrated Approach (SEDP) Bookmark
+Inc.
+
+D
+
+De Leon C. M. & Bernabe J. G. (2002) Elementary Algebra: Textbook for First
+Year. (Pilot Edition) Quezon City: JTW. Publishing Co.
+
+EP
+E
+
+Dilao S. J., Orines, F. B. & Bernabe J. C. (2003). Advanced Algebra,
+Trigonometry and Statistics. JTW Publishing Co.
+Green J. W., Ulep S. A., Gallos F. L. & Umipig D. F. (n. a) Teaching
+Mathematics IV Volume I. Philippines – Australia Science and
+Mathematics Educational Project.
+
+D
+
+Hadlay W. S., Pfluger J. & Coratto M. (2006) Algebra 1 Student Text. USA:
+Carnegie Learning Pittsburgh.
+
+Larson R. & Hostetler R. P. (2013). Algebra and Trigonometry. (8th Ed.)
+Cergage Learning Asia Ple ltd.
+Orines, F. B., Esparrago M. S. & Reyes N. V. (2008) Advanced Algebra,
+Trigonometry and Statistics. Quezon City: Phoenix Publishing House.
+Oronce, O. A. & Mendoza M. O. (2003) Exploring Mathematics Advanced
+Algebra and Trigonometry.(1st Ed). Manila: Rex Printing, Company, Inc.
+97
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+Quimpo N. F. (2005) A Course in Freshman Algebra. Mathematics
+Department Loyola Schools. Ateneo de Manila University.
+Villaluna T. T. & Van Zandt G. E.(2009) Hands-on, Minds-on Activities in
+Mathematics IV: Advanced Algebra, Trigonometry and Statistics.
+Philippines: St. Jude Thaddeus Publication.
+
+PY
+
+Website Links as References and as Sources of Learning Activities:
+
+D
+
+EP
+E
+
+D
+
+C
+O
+
+http://www.mathsisfun.com/algebra/polynomials-division-long.html
+http://www.youtube.com/watch?v=qd-T-dTtnX4
+http://www.purplemath.com/modules/polydiv2.htm
+https://www.brightstorm.com/math/algebra-2/factoring/rational-roots-theorem/
+http://www.youtube.com/watch?v=RXKfaQemtii
+
+98
+
+All rights reserved. No part of this material may be reproduced or transmitted in any form or by any means electronic or mechanical including photocopying – without written permission from the DepEd Central Office. First Edition, 2015.
+
+

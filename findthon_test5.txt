@@ -1,0 +1,517 @@
+Language register Refers to the formality of language which one speaks. It is through _ that you are able to determine the kind of lexicon or vocabulary to use as well as the kind of structure to be used.
+
+Crystal (1964) discussed style and register
+Language being the product of interaction among the members of society, must ultimately be studied according to the social context in which it is found
+
+A set is an unordered collection of distinct objects.
+
+A set is said to contain its elements.
+
+A set is an unordered collection of distinct objects.
+
+The objects in a set are called the elements, or members, of the set.
+
+To denote membership we use the ∈ symbol, as in ∈ {2,4,17,24}.
+
+An ellipsis is used to specify a long sequence that follows a pattern. An ellipsis is often used after two or more members of the sequence, and before the last one, as follows: {1,2,...,n}.
+
+Set builder notation lists on the right side of the colon the property that any set element, specified on the left side on the colon, has to satisfy.
+
+Positive integers set builder notation: N+ = {x : x ∈ N and x > 0}
+
+Set builder notation of integers: Z = {x : x ∈ N or -x ∈ N}
+
+Set builder notation for rational numbers: Q = {a/b : a ∈ Z, b ∈ Z, b  ≠ 0}
+
+A is said to be a subset of B if and only if every element of A is also an element of B, in which we write A ⊆ B.
+
+A is a strict subset of B if A is a subset of B and A is not equal to B, which is denoted by A ⊂ B. For example, {4,23} ⊂ {2,4,17,23} ⊆ {2,4,17,23}
+
+Two sets A and B are considered equal if and only if they have the same elements. This is denoted by A = B. A = B if and only if A ⊆ B and B  ⊆ A.
+
+Union is denoted by A ∪ B = {x : x ∈ A or x ∈ B}
+
+Intersection is denoted by A ∩ B = {x : x ∈ A and x ∈ B}
+
+Difference is denoted by A \ B = {x : x ∈ A and x ∉ B}
+
+Non-membership is denoted as in 5  ∉ {2,4,17,23}.
+
+Given a set A, the Cardinality of A, also known as the size of A, is simply the number of elements in A. The cardinality of A is denoted by |A|. For example, if A = {2,4,17,23}, then |A| = 4.
+
+A set with one element is called a Singleton
+
+A set can contain sets as its elements. For example, {{2, 4}, {17}, 23} is a perfectly valid set with three elements, two of them sets.
+
+The power set of a set A is the set of all subsets of A, and is denoted by 2<latex>^A</latex>. That is, 2<latex>^A</latex>= {S : S ⊆ A}. For example, for A= {2, 4, 17, 23}, we have 2<latex>^A</latex>= { ∅, {2}, {4}, {17}, {23}, {2, 4}, {2, 17}, {2, 23}, {4, 17}, {4, 23}, {17, 23}, {2, 4, 17}, {2, 4, 23}, {2, 17, 23}, {4, 17, 23}, {2, 4, 17, 23}}. The cardinality of this set is 16, and 16 = 2<latex>^4</latex>.
+
+The set theory defines the different types of sets, symbols and operations performed.
+
+Sets are represented as a collection of well-defined objects or elements and it does not change from person to person. A set is represented by a capital letter.
+
+N: Set of all natural numbers Z: Set of all integers
+Q: Set of all rational numbers
+R: Set of all real numbers
+Z+: Set of all positive integers
+
+The order of a set defines the number of elements a set is having. It describes the size of a set. The order of set is also known as the Cardinality.
+
+The empty set is denoted by ∅. It is the unique set without elements. It holds that ∅ ⊆ A for any set A. Also called as Null set or Void set
+
+A set which consists of a definite number of elements is called a finite set.
+
+A set which is not finite is called an infinite set.
+
+The two sets A and B are said to be Equal if they have exactly the same elements, the order of elements do not matter.
+
+The two sets A and B are said to be Disjoint if the set does not contain any common element.
+
+If the number of elements is the same for two different sets, then they are called equivalent sets. The order of sets does not matter here.
+
+A set ‘A’ is said to be a subset of B if every element of A is also an element of B, denoted as A ⊆ B. Even the null set is considered to be the subset of another set. In general, a subset is a part of another set.
+
+If A ⊆ B and A ≠ B, then A is called the proper subset of B and it can be written as A⊂B.
+
+Set A is said to be the superset of B if all the elements of set B are the elements of set A. It is represented as A ⊃ B.
+
+A set which contains all the sets relevant to a certain condition is called the universal set. It is the set of all possible values.
+
+The complement of any set, say P, is the set of all elements in the universal set that are not in set P. It is denoted by P’.
+
+If set A and set B are two sets then the cartesian product of set A and set B is a set of all ordered pairs (a,b), such that a is an element of A and b is an element of B. It is denoted by A × B.
+
+If set A and set B are two sets, then set A difference set B is a set which has elements of A but no elements of B. It is denoted as A – B.
+
+Discrete Mathematics deals with counting numbers, or whole numbers, and algebra. Can be compared to a digital clock. Discrete Mathematics deals with mathematical topics where it analyzes data where values are separated.
+
+Truth Values are true and false
+
+Propositional Variables are variables that are used to represent a propositions: p, q, r, s, etc.
+
+Logical Equivalence - Two propositions P and Q are logically equivalent (P ≡ Q) if and only if P and Q have the same truth value in all cases.
+
+Rules of Logic specify the precise meanings of mathematical statements.
+
+Continuous Mathematics deals with continuous functions, differential, and integral calculus, also real numbers and approximations, can be compared to an analog clock.
+
+Statement is a declarative sentence that can either be true or false but not both. Also called as Proposition.
+
+Computers operate on discrete data (binary strings).
+
+Contingency - a compound proposition that is neither always true nor always false.
+
+Propositional Logic is the area of logics that deals with propositions.
+
+Conjunction - represents "and". P ^ Q is true if both P and Q are true. Example, if P is "It is sunny", and Q is "It is warm", then P ^ Q means "It is sunny and warm."
+
+Negation - represents "not". If P is true, -P is false, and vice versa. Example, if P means "It is raining", then -P means "It is not raining".
+
+Disjunction - represents "or." P V Q is true if at least one of P or Q is true. Example, if P is "I will study," and Q is "I will watch TV," then P V Q means I will study or watch TV (or both).
+
+Implication - represents "if...then." P ->Q is false only if P is true and Q is false. Example, if P is "It rains," and Q is "I will bring umbrella." then P -> Q means "If it rains, then I will bring an umbrella"
+
+Biconditional - represents "if and only if." P <-> Q is true if P and Q have the same truth value, either both true or both false will result in True. Example, if P is "I will bring snacks," and Q is "You will bring drinks," then P <-> Q means "I will bring snacks if and only if you bring drinks."
+
+Truth Table - lists all possible combinations of the values of the operands. It is used to determine the truth value of a compound proposition for all possible truth values of its components.
+
+Exclusive OR (XOR) - represents “either, but not both.” P O Q is true if exactly one of P or Q is true, but not both. Example, if P is “I will watch a movie,” and Q is “I will play a video game,” then P O Q means “I will watch a movie or play a video game, but not both.”
+
+Tautology - a compound proposition that is always true regardless of the truth values of its components. Example, P V -Q.
+
+Contradiction - a compound proposition that is always false regardless of the truth values of its components. P ^ -P.
+
+Proofs is the basis of the correct mathematical arguments
+
+Logical Operators transform one or more propositions to a new proposition.
+
+Binary operators transform two propositions to a new proposition.
+
+Studying communication enables us to have a good grasp of unavoidable activity and makes us Good and Responsible participants.
+
+"Promote access to communication" - giving others an Opportunity to express what they feel and think about the message being communicated
+
+Verbal Communication Always accompanied by non-verbal cues such as gestures, facial expressions, and other body movements that add to what you are saying in different ways.
+
+Unitary operators transforms one proposition to another
+
+Binary Operators transform two propositions to another
+
+Identity Law - pVF=p and p^T=p
+
+domination law - p^F=F and pVT=T
+
+Idempotent law - pVp=p and p^p=p
+
+double negation - -(-p)=p
+
+commutative law - pVq=qVp and p^q=q^p
+
+associative law - (pVq)Vr=pV(qVr) and (p^q)^r=p^(q^r)
+
+distributive - pV(q^r)=(pVq)^(pVr) and p^(qVr)=(p^q)V(p^r)
+
+de morgan's law - -(pVq)=-p^-q and -(p^q)=-pV-q
+
+absorption law - pV(p^q)=p and p^(pVq)=p
+
+negation law - pV-p=T and p^-p=F
+
+Source - the speaker or sender of a message
+
+Decoding - the process of interpreting an encoded message
+
+Channel - means to deliver a message such as face-to-face conversations, telephone calls, e-mails, etc.
+
+We are almost engaged in All sorts of communication
+
+Communication is a Natural Activity of people
+
+Message - the message, information, or ideas from the source or speaker
+
+Encoding - the process of transferring the message
+
+Receiver - the recipient of the message
+
+Feedback - the reactions or responses of the receiver to the message from the sender
+
+Context - the situation or environment in which communication takes place
+
+Barriers - the factors which may affect communication process
+
+Communication can be a one-way or two-way process.
+
+"You cannot not communicate" means you cannot live without communicating
+
+As a Social Animal you need to interact with your fellow human beings
+
+Communication comes from the Latin word "communicare" which means "to impart" or "to share"
+
+Communication based on etymology is defined as the process of sharing ideas or information with someone.
+
+Communication is a way of establishing Understanding and Commonness between persons, which also paves the way for Linking and Binding among people.
+
+Communication is a human act of sending and receiving of messages where interpretations are normally constructed in the process.
+
+Being a good participants means that as senders and receivers of messages, a common understanding is achieved which results in a successful communication
+
+According to Madrunio and Martin (2018), communication takes on different contexts resulting in people having different views on communication types
+
+Communication is used to meet the purpose of a person. The purpose could be To Inform, To Persuade, To Entertain, and To Argue
+
+Communication can be in the form of Written, Verbal, Non-verbal, and Visuals
+
+Written Communication - involves texts or words encoded and transmitted through memos, letters, reports, chat, SMS, e-mail, and other forms of communication
+
+Verbal Communication - involves an exchange of information through face-to-face, audio, and/or audio call, lectures, etc.
+
+Non-verbal communication- involves the use of Voice, Body Language, Personal space or distance, Personal Appearance
+
+Voice - includes tone, speech, rate, pitch, pauses, and volume
+
+Body Language includes facial expressions, gestures, postures, and eye contact
+
+Personal Space or Distance - refer to an area of space and distance that a person from a different culture, personality, age, sex, and status adopts and puts for another person
+
+Personal Appearance - refers to how a person presents himself/herself to a particular situation, whether formal or informal
+
+Visuals - involves the use of images, graphs, charts, logos, and maps
+
+Communication can be Intended or Unintended
+
+Intended Communication - refers to planning what and how you communicate your ideas to other people who are older than you are or who occupy a higher social or professional position such as parents, teachers, etc
+
+Unintended Communication - happens when you unintentionally send non-verbal messages to people you are communicating with, or when you suddenly make negative remarks out of frustration or anger.
+
+Communication is a "Complex Process" that requires you to satisfy many conditions.
+
+Communication Process - involves elements such as source, encoding, decoding, receiver, feedback, context, and barrier
+
+Shannon-Weaver (1949) model - shows communication as a one-way process where the sender is active while the receiver is passive during the communication process
+
+Transactional Model of Communication - a Two-way process exemplified by a transaction model where the messages, information, or ideas are sent and received at the same time wherein the sender and receiver are both active during the process, and both serve as communicators.
+
+"Uphold integrity" - being truthful with your opinion and be accurate with your judgement
+
+"Respect diversity of perspective and privacy" - showing compassion and consideration with the beliefs, status, affiliations, and privacy of others.
+
+"Observe freedom of expression effectively" - being careful of what and how you say your words depending on the type of people you are communicating with
+
+Globalization very complex to define as different scholars and institutions view it differently
+It is the expansion and integration of the cultural, political, economic, and technological domains of countries. This reflects that the world is borderless, and the countries are interconnected and interdependent
+
+Effective Communication skills The context of globalization requires ___ from students and workers to cope with the demands and challenges brought about by this phenomenon
+
+"Be your natural self and appear very confident" - Have the right attitude and happy disposition in life; control your emotions, and think well before you speak.
+
+"Observe Communication Ethics" - some ethical Practices in communicatios will help you build your credibility and make you more professional. 
+
+"Provide specific information in your feedback" - Give Feedback that is timely, constructive, and specific to the topic being discussed.
+
+"Adjust to the needs, interests, values, and beliefs of your audience" - every person has different needs and comes from different Cultural Backgrounds. Your role as an effective communicator is to adjust to those needs, interests, values, and beliefs of your audience.
+
+"Develop your sense of accountability" - acknowledge Responsibility for all your actions, good or bad.
+
+"Support your message with facts" - When you provide an incomplete or Vague information, you can cause confusion or misunderstanding in your audience.
+
+"Be concise" - "Keep it short and simple", avoid irrelevant or unnecessary details in your message and keep it concise.
+
+"Be clear with your purpose" - As a sender, you must have a Specific Purpose in mind. This can help you convey your message effectively to your target audience.
+
+Effective Communication plays a crucial role in your personal and professional success.
+
+"Be open-minded" - accept that others have Different Views or Opinions, which may conflict with yours.
+
+Vulpe et al. (2001) One of the major competencies of an intercultural effective person is intercultural communication
+
+Body Language people take offense because of differences in __ across cultures.
+Form example, a businessperson from Latin America might stand closer to a client than someone. from North America would. This may make the North America feel crowded and want to back away.
+
+Negative Stereotypes and Prejudice _ and _ about people from other cultures can cause communication problems and give offenses.
+Ethnocentrism - a belief that your own culture is better than that of others which leads to acting superior toward other froups and not treating them well.
+
+Register Refers to a kind of language whose forms are of a definable social situation, regardless of the status of the participants
+
+Formal Register Used in formal speaking and writing situations.
+It is appropriate for use in professional writing like project proposals, position papers, and business letters.
+It is more impersonal, objective, and factual.
+
+Informal Register More casual in tone, and is appropriate for people with whom you have established a more personal relationship as in the case of friends and relatives.
+
+Style refers to the degree of formality attached to particular interpersonal social situations.
+
+Level of context most english-speaking cultures are low-context, meaning they put a message into explicit words. 
+In these cultures, saying “no” when you mean “no” is just considered straightforward orhonest. High-context cultures, such as Japan, expect the listener to pick up more meaning from the general situation. For example, Asians sometimes say “yes” or “maybe” when they actually mean “no” according to the Diversity Council. Asians often consider an outright refusal blunt rather than honest.
+
+Braj Kachru Concept of WE was introduced by him
+The famouse "Three Concentric Circle of Asian Englishes" attributed to _ presents the three circle: Inner Circle with ENL, Outer Circle with ESL, and the Expanding Circle with EFL.
+
+Feelings and Emotions Individuals from the United Kingdom and Japan typically keep a tight control of their emotions, while Italian and French are more comfortable showing their feelings. 
+
+World Englishes (WE) Stand for the localized varieties of English as they are used or spoken in certain areas.
+
+Value of Time Not all cultures think about time in the North American linear fashion. In the U.S., punctuality is important, but Latin and Middle Eastern cultures put a higher value on relationships. 
+For example, you would finish your conversation with someone even if it makes you late to a meeting. 
+A culture’s view of time also influences how it sees deadline. For example, North Americans consider making a deadline crucial – whether on the job or in college. 
+People from Asia or South America are more likely to view deadlines as less important than results over the long haul.
+
+Language Differences Obvious barrier to intercultural communication as you would not be able to communicate verbally.
+
+Intercultural Communication Skills When you interact in a multicultural setting, you apply your ___.
+It is the sending and receiving of information, ideas, or messages across different languages and cultures
+
+Multicultural With the emergence of a global society, the academic and professional environments have become _
+Means you coexist with people from diverse or different cultural backgrounds, beliefs, religion, gender, nationalities, religion, and ethnicity
+
+Love Most profound emotions humans experience
+From Cambridge dictionary, it is defined as liking another adult very much and being romantically and sexually attracted to them or having strong feelings of liking a friend or person in your family
+Can be defined in many other ways
+In relationship, it goes beyond just feelings; it's a choice to prioritize and commit to each other's happiness and growth
+
+Triangular Theory of Love Robert Sternberg's _ is a theory that proposes three components of love which are Intimacy, Passion, and Commitment.
+
+Intimacy The closeness each other feels to the other and the strength of the bond that binds them together.
+Partners high in _ like value and understand their partners
+
+Passion Based on romantic feelings, physical attraction, and sexual intimacy with the partner.
+
+Commitment Represents cognitive factors such as acknowledging that one is in love and committed to maintaining the relationship
+
+Unbalanced Relationships can be _ if there is too great an investment in one component rather than the others or if one component is missing
+
+Systematic Manner The three components of love interact in a _. The presence of one component or a combination of two or more components creates the Seven kinds of love experiences
+
+Empty Love Type of love commonly found in some long-term relationships where the couple has lost feelings for one another.
+Sternberg points out an interesting phenomenon regarding this kind of love: “In our society, we are most accustomed to _ as it occurs as a final or near-final stage of a long-term relationship, ” but “in other societies,  _ may be the first stage of a long-term relationship” (such as in an arranged marriage).
+
+Liking Involves feelings of "closeness, bondedness, and warmth toward the other, without feelings of intense passion or long-term commitment.
+Can be seen in the relationships in our lives that we refer as friendships
+However, friendships can exist at different levels wherein if other components is already present, then it is considered a different kind of love
+
+Infatuation  "Love at first sight"
+Involves a high degree of psychophysiological arousal, manifested in somatic symptoms such as increased heartbeat or even palpitations of the heart, increased hormonal secretions, erections of genitals, and so on.
+Develops very quickly, without time for any intimate feelings to grow or for a commitment to be made
+
+Companionate a long-term, committed friendship, the kind that frequently occurs in marriages in which the physical attraction (a major source of passion) has died down
+
+Romantic Love thought of as "liking with an added element, namely, the arousal brought about by physical attraction and its concomitants.
+"Romeo and Juliet"
+
+Consummate When all three components of love are present in a relationship . 
+Nowadays, when one thinks of love, they are most likely thinking about _. It is seemingly the type of love that most people aim to find. Outside of romantic interests, an example of this love can be found in many parents” love for their children, often dubbed “unconditional love”
+
+Eros "Sexual Passion"
+It is a word for romantic, passionate love.
+It is a fiery intense form of love which arouses sexual and romantic feelings.
+It's a very physical form of love, and it might just last between six months to 2 years, depending on the relationship.
+
+Fatuous It is the kind of love we sometimes associate with Hollywood, or with whirlwind courtships, in which a couple meets on Day X, gets engaged two weeks later, and marriages next month.
+Because the intimate component of love takes time to develop, these relationships lack the aspect of love and their relationship may therefore be more likely to fail
+
+Philia "Deep Friendship"
+Represents love between friends, which can often be just as important as romantic love.
+Can mean love between equals, love connected with the mind, and love between the people who have shared hard times. 
+Platonic love
+
+Ludus "Playful Love"
+Playful and affectionate type of love.
+Love and excitement you feel when you have a crush on someone or when you're first getting to know them.
+Can mean flirting and teasing in the early stages of relationship but can also refer to playful affection between friends or children
+
+Agape "Love for Everyone"
+Refers to selfless unconditional love for others and love between God and humans.
+It is a spiritual kind of love, involving enormous empathy.
+Love that means we accept, forgive, and trust others.
+The concept of charity and sacrifice is thought as "the highest form of love" particularly in Christianity
+
+Pragma "Longstanding Love"
+Long-lasting love. It is a love that has endured and matured over time, and has meaning.
+Love the often involves compromises from both people in the relationship
+Focuses on staying in love rather than falling in love.
+
+Philautia "Love of the Self"
+Self love or self compassion
+Loving yourself meant you had a wider capacity to love others
+
+Storge "Family Love"
+Refers to love between family members, like the love found between parents and children, siblings, old friends that feels like family, and more.
+Builds the feeling of safety, security, and support for one another, as well as the joy that comes from having shared memories
+
+Mania "Obsessive Love"
+Jealous and obsessive kind of love that often involves feelings of codependency, or the feeling that another person will heal and complete you which is a symptom of an unhealthy relationship.
+
+George Chapman Created the love languages 
+
+Robert Sternberg Created the Triangular Theory of Love
+
+Ancient Greeks Created the 8 types of Love
+
+Words of Affirmation Preference to receive and give love primarily through one's words.
+Includes compliments, positive affirmation, or simple acknowledgment 
+
+Acts of Service Preference to receive and give love through behavior and helping their partner. 
+"Actions speak louder than voice"
+
+Gifts Preference to receive and give love through gift giving and receiving.
+Convey to individuals that their partner has invested thought, effort, and expense into showing their love and appreciation
+
+Quality Time Preference to receive and give love through intentional time with others.
+Accomplished when both partners are able to give their undivided attention to each other
+
+Physical Touch Preference to receive and give love through intimate physical contact.
+Important component of most intimate relationships
+
+Family Regarded as a primary social institution
+It is a basic unit in the society, and the multifaceted functions performed by it makes it a much-needed institution in a society
+One of the oldest social institutions.
+Shares common concerns in everyday life
+
+Family Group of persons united by ties of marriage, blood, or adoption constituting a simple household interacting and intercommunication with each other in their respective roles creating a Common Culture.
+
+Conflict Theory Theory that emphasizes the power dynamics and inequalities within families, often based on gender, age, and resources.
+Family relationships are shaped by broader social, economic, and political forces that create and maintain hierarchies
+
+Feminist Theory Theory that focuses on gender inequalities and patriarchal structures in a familial contexts
+Examines the oppression of women within families and incorporates intersectionality to analyze how gender interacts with race, class, and sexuality
+
+Structural-Functionalism Theory Theory that views the family as a social institution that performs essential functions for society, such as socialization, reproduction, and economic support.
+Assumes that families operate best when each member of the family fulfills their roles
+
+Symbolic Interactionism Theory where family roles and identities constantly negotiated and redefined through ongoing interactions.
+Focuses on how individuals create, maintain, and modify family relationships through daily interactions and shared experiences
+
+Life Course Perspective Theory that analyzes how families change and develop over time, shaped by individual life transitions, historical events, and social policies.
+Views family as a dynamic, lifelong process influenced by multiple factors and contexts over time
+
+Family of Orientation The family into which a person is born and in which early socialization usually takes place
+
+Family Types During our lifetime, many of us will be members of two different types of families: family of orientation, and family of procreation
+
+Family of Procreation The family that a person forms by having or adopting children
+
+Family Structures Refers to the relationship of members and the interrelationship of roles and functions within the framework of the family as a social unit which may be classified based on traditional, or alternative structures.
+
+Nuclear FS by size and structure
+Is a family composed of one or two parents and their dependent children, all of whom live apart from other relatives
+
+Extended FS by size and structure
+Stretched-out organization of family unit composed of relatives in addition to parents and children who live in the same household
+
+Endogamy FS by marriage
+Marriage between people of the same social group
+also know as 'in-marriage'
+
+Exogamy FS by marriage
+Marriage between people of different social groups
+also known as 'out-marriage'
+
+Patrilocal FS by residential patterns
+Married couple live with the husband's family
+
+Polygamous FS by marriage
+Marriage uniting three or more people.
+It can be categorized as polygyny (many women) and polyandry (many men)
+
+Monogamous FS by marriage
+Defined as being married or romantically committed to one person at a time
+
+Matrilocal FS by residential patterns
+Married couple live with the wife's family
+
+Neolocal FS by residential patterns
+Married couple lives apart from both spouses' families
+
+Patriarchal FS by power and authority
+The father, the eldest male, or the nearest and most senior male plays the dominant role in managing the family
+
+Matriarchal FS by power and authority
+The mother, the eldest female, nearest and most senior female plays the dominant role in managing the family
+
+Egalitarian FS by power and authority
+Both father and mother are involved in equal power sharing and exercising of influence in managing the family
+
+Patrilineal FS by descent alignment
+The father side provide the greater support, exert greater influence, and predominantly impose its norms on the family
+
+Matrilineal FS by descent alignment
+The mother side provides greater support, exert greater influence, and predominantly its norm on the family.
+
+Single-parent FS by alternative
+The family constitutes of a single parent, either a mother or a father with child/children
+
+Bilateral FS by descent alignment
+Both mother and father side provide support, exert influence, and impose its norms on the family on equal terms.
+
+Blended FS by alternative
+Also known as stepfamily, is formed when a couple with children from previous relationships marry and combine their households
+
+Cohabitating FS by alternative
+Involves an unmarried couple living together in a committed relationship, with or without children
+
+Co-parenting FS by alternative
+An arrangement to raise a child together when the two biological parents are not in a relationship with one another
+
+Same-sex FS by alternative
+Family consists of a same-sex couple, with or without children, who may have become parents through adoption, surrogacy, etc.
+
+Down The proportion of people who are getting married is going to (up_down) in many countries across the world.
+People prioritizes education and career establishments before marriage
+
+Later People are marrying _.
+In many countries, declining marriage rates have been accompanied by an increase in the age at which people are getting married.
+More people marrying _ means that a greater share of young people are unmarried
+
+Cohabitation rates An arrangement where two or more people are not married but live together is increasing in recent decades as more couples chooses to live together before or instead of marriage.
+
+Single Parenting Increases in many countries especially because of divorce, or annulment. 
+
+Same-sex marriage This has become possible in many countries
+in 1989, Denmark became the first country to recognize a legal relationship for same-sex couples
+in December 2000, the Netherlands became the first country to establish same-sex marriage by law
+
+Divorce Rates _ have increased in many countries since the mid- 20th century, although they have stabilized or declined in some regions in recent years
+
+Remarriage rates Increased over the years leading to the formation of more blended families
+
+Interracial and interethnic marriages Have become more common, reflecting changing social attitudes and increased diversity in many societies
+
+Arrange Marriages Where families play a significant role in selecting partner, remain common in some cultures, while love marriages based on individual choice have become more prevalent in others.

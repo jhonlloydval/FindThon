@@ -3,46 +3,204 @@
 
 ![FINDTHON](images/findthon_img1.png)  
 
-## **Project Overview**  
-FindThon is a Python console application that uses the re module to implement the power of regular expressions for sophisticated text analysis and processing. It serves as an educational tool for understanding pattern matching while providing practical text analysis capabilities. The project aligns with many key educational and practical objectives:  
-
-- **Text Analysis Education**  
-  Helping users understand regular expressions and pattern matching  
-
-- **Data Processing**  
-  Enabling efficient analysis of numerical and textual data  
-
-- **Pattern Recognition**  
-  Supporting advanced search capabilities through regex  
-
-- **Statistical Analysis**  
-  Providing mathematical operations on numerical data  
-
-![FINDTHON](images/findthon_img5.png)  
+[Previous sections remain the same until Features...]
 
 ## **Features**  
 FindThon offers comprehensive text analysis capabilities through the following functionalities:  
 
-| **Feature** | **Description** |
-|-------------|----------------|
-| **Extensive Searching** | Advanced search options for both strings and numbers on a line-by-line basis |
-| **View Content** | Display complete and full file contents for analysis |
-| **Single Match Search** | Find first occurrences of words or sentences |
-| **Multiple Match Search** | Locate all instances of search patterns |
-| **Match Counter** | Calculate total occurrences of patterns |
-| **Numerical Analysis** | Compute sums, averages, and find min/max values |
-| **File Management** | Switch between different text files for analysis |
+|
+**
+Feature
+**
+|
+**
+Description
+**
+|
+|
+-------------
+|
+----------------
+|
+|
+**
+Extensive Searching
+**
+|
+ Advanced search options for both strings and numbers on a line-by-line basis 
+|
+|
+**
+View Content
+**
+|
+ Display complete and full file contents for analysis 
+|
+|
+**
+Single Match Search
+**
+|
+ Find first occurrences of words or sentences 
+|
+|
+**
+Multiple Match Search
+**
+|
+ Locate all instances of search patterns 
+|
+|
+**
+Match Counter
+**
+|
+ Calculate total occurrences of patterns 
+|
+|
+**
+Numerical Analysis
+**
+|
+ Compute sums, averages, and find min/max values 
+|
+|
+**
+File Management
+**
+|
+ Switch between different text files for analysis 
+|
 
-![FINDTHON](gif/enter_filename.gif)  
-![FINDTHON](gif/view_filecontentgif.gif)  
-![FINDTHON](gif/search_word.gif)  
-![FINDTHON](gif/all_matches.gif)  
-![FINDTHON](gif/count_matches.gif)  
-![FINDTHON](gif/compute_total.gif)  
-![FINDTHON](gif/find_minmax.gif)  
-![FINDTHON](gif/calculate_ave.gif)  
-![FINDTHON](gif/change_file.gif)  
+### **Feature Demonstrations**
 
+<details>
+<summary>📊 Core Analysis Features</summary>
+
+|
+ Feature 
+|
+ Demonstration 
+|
+|
+---------
+|
+--------------
+|
+|
+ View File Content 
+|
+!
+[
+View Content
+](
+gif/view_filecontentgif.gif
+)
+|
+|
+ Search Word 
+|
+!
+[
+Search Word
+](
+gif/search_word.gif
+)
+|
+|
+ Find All Matches 
+|
+!
+[
+All Matches
+](
+gif/all_matches.gif
+)
+|
+|
+ Count Matches 
+|
+!
+[
+Count Matches
+](
+gif/count_matches.gif
+)
+|
+
+</details>
+
+<details>
+<summary>📈 Numerical Operations</summary>
+
+|
+ Feature 
+|
+ Demonstration 
+|
+|
+---------
+|
+--------------
+|
+|
+ Compute Total 
+|
+!
+[
+Compute Total
+](
+gif/compute_total.gif
+)
+|
+|
+ Find Min/Max 
+|
+!
+[
+Find Min/Max
+](
+gif/find_minmax.gif
+)
+|
+|
+ Calculate Average 
+|
+!
+[
+Calculate Average
+](
+gif/calculate_ave.gif
+)
+|
+
+</details>
+
+<details>
+<summary>🔄 File Management</summary>
+
+|
+ Feature 
+|
+ Demonstration 
+|
+|
+---------
+|
+--------------
+|
+|
+ Change File 
+|
+!
+[
+Change File
+](
+gif/change_file.gif
+)
+|
+
+</details>
 
 ![FINDTHON](images/findthon_img4.png)  
 
